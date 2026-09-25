@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-25T04:32:39.551484+00:00
 
+**Landing file:** `data/landing/news/article_05.json`
+
 ---
 
 Northern Vietnam | Vietnam Tourism
@@ -94,7 +96,7 @@ Northern Vietnam | Vietnam Tourism
 
 SEARCH
   * [ ![](https://image.vietnam.travel/sites/default/files/styles/top_banner/public/2018-11/Northern%20Vietnam%20Tourism_.jpg?itok=FSLJ3FB6) Northern Vietnam ](https://vietnam.travel/places-to-go/northern-vietnam/ha-long)
-Viewpoint of Sapa town. Photo by Aaron Joel Santos 
+Viewpoint of Sapa town. Photo by Aaron Joel Santos
 
 
   * [Overview](https://vietnam.travel/places-to-go/northern-vietnam#overview)
@@ -107,7 +109,7 @@ Overview Top Destinations} Recommended Trips You may also like
 #### The north of Vietnam makes a statement with majestic mountain ranges, centuries-old rice terraces, and fascinating ethnic groups.
 Along the banks of the Red River lies Hanoi, a city locked in time yet simultaneously leaping forward. Hanoi’s atmospheric Old Quarter, beautiful Hoan Kiem Lake and classic colonial architecture will leave you enchanted. There are excellent museums and art galleries to tour and when you get hungry, you’ll find the northern streetfood is both abundant and delicious. Pull up a chair at one of many charming cafes to watch life unfurl and gain a sense of the city’s timeless rhythm.
 Not far from Hanoi waits the fairy tale landscape of Ninh Binh, where sheer limestone cliffs rear straight up from paddy fields, and rowboats will bring you on a mesmerising journey through river caves. No visit to the north is complete without a cruise on Halong Bay to soak in the sight of thousands of islets and the bay’s deep emerald green waters.
-##  Top Destinations In Northern Vietnam 
+##  Top Destinations In Northern Vietnam
 [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2017-06/vietnam-travel-5.jpg?itok=vOyQsu1N)Ha Noi](https://vietnam.travel/places-to-go/northern-vietnam/ha-noi)
 [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2017-06/visitvietnam-3.jpg?itok=EVY-luNo)Ha Long](https://vietnam.travel/places-to-go/northern-vietnam/ha-long)
 [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2021-05/Sapa%20Travel%20Guide%20Vietnam%20Tourism.jpg?itok=z3YjRkU3)Sapa](https://vietnam.travel/places-to-go/northern-vietnam/sapa)
@@ -126,23 +128,21 @@ Not far from Hanoi waits the fairy tale landscape of Ninh Binh, where sheer lime
   * [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2020-11/responsible%20travel%20sapa.jpg?itok=QfJxQfR7)Sapa for sustainable travellers](https://vietnam.travel/things-to-do/sapa-itinerary-sustainable-travellers)
 
 
-  1. You are here: 
+  1. You are here:
   2. [Home](https://vietnam.travel/)
   3. [Places To Go](https://vietnam.travel/place-to-go)
   4. [Northern Vietnam](https://vietnam.travel/places-to-go/northern-vietnam)
 
 
-
-
 #### Sign up for our newsletter
 
-    Receive new travel stories from Vietnam once a month in your inbox.     
-Sign Up 
+    Receive new travel stories from Vietnam once a month in your inbox.
+Sign Up
 
 
 #### USEFUL LINKS
 
-    
+
   * [Visas for Vietnam](https://vietnam.travel/plan-your-trip/visa-requirements "Visas for Vietnam")
   * [Beginner Guide](https://vietnam.travel/sites/default/files/2021-03/Beginner%27s%20Guide%20to%20Vietnam%20NOW.pdf "Beginner Guide")
   * [FAQs](https://vietnam.travel/faqs "FAQs")
@@ -151,22 +151,20 @@ Sign Up
   * [Industry Resources](https://vietnam.travel/sites/default/files/2021-05/Vietnam%20Tourism%20Resources.pdf "Industry Resources")
 
 
-
-
 #### Follow us on
 
-    
+
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-2_4.jpg)](https://www.facebook.com/vietnamtourismboard/ "Facebook")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-3_6.jpg)](https://www.youtube.com/vietnamtourismboard/ "Youtube")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-4_4.jpg)](https://www.instagram.com/vietnamtourismboard/ "Instagram")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web_4.jpg)](https://www.pinterest.com/vietnamtourismboard/ "Pinterest")
   * [![](https://image.vietnam.travel/sites/default/files/2021-02/Vietnam%20tourism.jpg)](https://www.tiktok.com/@vietnamtourismboard?lang=en "TikTok")
 
-    
+
 Welcome to the official website of Viet Nam National Authority of Tourism. Visit our social media pages for more travel inspiration.
 [![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/logo-bw.png)](https://vietnamtourism.gov.vn/en)
 [ ![Chung nhan Tin Nhiem Mang](https://tinnhiemmang.vn/handle_cert?id=vietnam.travel) ](https://tinnhiemmang.vn/danh-ba-tin-nhiem/vietnamtravel-1717729146 "Chung nhan Tin Nhiem Mang")
-Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you! 
+Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you!
 [Back to top![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/icon-arrow-up.png)](https://vietnam.travel/places-to-go/northern-vietnam)
   * © 2016 Official Website Vietnam Tourism
   * Email: contact@vietnamtourism.gov.vn
@@ -198,9 +196,9 @@ submit
 By clicking submit, you agree to our[Privacy Policy](https://vietnam.travel/node/153)and[Terms of Use](https://vietnam.travel/places-to-go/node/155)
 [×Close](https://vietnam.travel/places-to-go/northern-vietnam)
 ## oops
-The entered email has subscribed for Vietnam Tourism monthly newsletter 
+The entered email has subscribed for Vietnam Tourism monthly newsletter
 ×
 ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/popup_v4.jpg)
 Subscribe
-Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/places-to-go/www.vietnam.travel), you have entered our contest. Happy Holidays! 
+Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/places-to-go/www.vietnam.travel), you have entered our contest. Happy Holidays!
 ShareThis Copy and Paste

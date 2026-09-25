@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-25T04:35:38.466440+00:00
 
+**Landing file:** `data/landing/news/article_14.json`
+
 ---
 
 * [EN ](javascript:void\(0\);)
@@ -143,24 +145,22 @@ The biggest attractions of all in this city are its pristine beaches. The main b
 Nha Trang attracts people looking for fun. So if it’s a party you’re after, you’re in the right city. For socializing, there are loads of bars and pubs, especially along Hùng Vuong and Tran Phu streets. Locals suggest starting off at the Sailing Club, right on the beach. Enjoy a meal and sundowner set to great lounge or house music. After dark, head to one of the rooftop bars to admire the dazzling lights from up high. Fancy dancing later? Z Club is the place to be.
 * * *
 #### **Want more Vietnam travel ideas?[Sign up for our newsletter](http://eepurl.com/dJjCsD) to receive our best stories in your inbox.**
-  1. You are here: 
+  1. You are here:
   2. [Home](https://vietnam.travel/)
   3. [Things to do](https://vietnam.travel/things-to-do)
   4. [](https://vietnam.travel/node/1339)
   5. [Experience Nha Trang like a local](https://vietnam.travel/things-to-do/experience-nha-trang-like-a-local)
 
 
-
-
 #### Sign up for our newsletter
 
-    Receive new travel stories from Vietnam once a month in your inbox.     
-Sign Up 
+    Receive new travel stories from Vietnam once a month in your inbox.
+Sign Up
 
 
 #### USEFUL LINKS
 
-    
+
   * [Visas for Vietnam](https://vietnam.travel/plan-your-trip/visa-requirements "Visas for Vietnam")
   * [Beginner Guide](https://vietnam.travel/sites/default/files/2021-03/Beginner%27s%20Guide%20to%20Vietnam%20NOW.pdf "Beginner Guide")
   * [FAQs](https://vietnam.travel/faqs "FAQs")
@@ -169,22 +169,20 @@ Sign Up
   * [Industry Resources](https://vietnam.travel/sites/default/files/2021-05/Vietnam%20Tourism%20Resources.pdf "Industry Resources")
 
 
-
-
 #### Follow us on
 
-    
+
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-2_4.jpg)](https://www.facebook.com/vietnamtourismboard/ "Facebook")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-3_6.jpg)](https://www.youtube.com/vietnamtourismboard/ "Youtube")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-4_4.jpg)](https://www.instagram.com/vietnamtourismboard/ "Instagram")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web_4.jpg)](https://www.pinterest.com/vietnamtourismboard/ "Pinterest")
   * [![](https://image.vietnam.travel/sites/default/files/2021-02/Vietnam%20tourism.jpg)](https://www.tiktok.com/@vietnamtourismboard?lang=en "TikTok")
 
-    
+
 Welcome to the official website of Viet Nam National Authority of Tourism. Visit our social media pages for more travel inspiration.
 [![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/logo-bw.png)](https://vietnamtourism.gov.vn/en)
 [ ![Chung nhan Tin Nhiem Mang](https://tinnhiemmang.vn/handle_cert?id=vietnam.travel) ](https://tinnhiemmang.vn/danh-ba-tin-nhiem/vietnamtravel-1717729146 "Chung nhan Tin Nhiem Mang")
-Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you! 
+Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you!
 [Back to top![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/icon-arrow-up.png)](https://vietnam.travel/node/1339)
   * © 2016 Official Website Vietnam Tourism
   * Email: contact@vietnamtourism.gov.vn
@@ -216,9 +214,9 @@ submit
 By clicking submit, you agree to our[Privacy Policy](https://vietnam.travel/node/153)and[Terms of Use](https://vietnam.travel/node/node/155)
 [×Close](https://vietnam.travel/node/1339)
 ## oops
-The entered email has subscribed for Vietnam Tourism monthly newsletter 
+The entered email has subscribed for Vietnam Tourism monthly newsletter
 ×
 ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/popup_v4.jpg)
 Subscribe
-Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/node/www.vietnam.travel), you have entered our contest. Happy Holidays! 
+Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/node/www.vietnam.travel), you have entered our contest. Happy Holidays!
 ShareThis Copy and Paste

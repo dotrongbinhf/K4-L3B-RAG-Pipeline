@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-25T04:35:48.608911+00:00
 
+**Landing file:** `data/landing/news/article_15.json`
+
 ---
 
 Southern Vietnam | Vietnam Tourism
@@ -105,10 +107,10 @@ SEARCH
 
 Overview Top Destinations} Recommended Trips You may also like
 #### From island escapes to the non-stop action, southern Vietnam offers both vibrant urban energy and mellow countryside.
-Start off in the sensory overload that is Ho Chi Minh City, a metropolis where humble mom-and-pop shops share street space with modern skyscrapers. Beyond the city limits you’ll encounter the languid Mekong Delta, where life takes place on water and farmland rolls out as far as the eye can see.  
-  
+Start off in the sensory overload that is Ho Chi Minh City, a metropolis where humble mom-and-pop shops share street space with modern skyscrapers. Beyond the city limits you’ll encounter the languid Mekong Delta, where life takes place on water and farmland rolls out as far as the eye can see.
+
 Not far away, Mui Ne lures holidaymakers with a laid-back beach vibe and reputation as the kite-surfing capital of Vietnam. Offshore, islands such as Phu Quoc and Con Dao will welcome you with pristine coastlines and untouched landscapes.
-##  Top Destinations In Southern Vietnam 
+##  Top Destinations In Southern Vietnam
 [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2017-07/vietnam-tourism-4.jpg?itok=2Y0y0UgC)Ho Chi Minh City](https://vietnam.travel/places-to-go/southern-vietnam/ho-chi-minh-city)
 [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2022-06/shutterstock_1874591503%20%281%29.jpg?itok=59D4HiAm)Binh Thuan](https://vietnam.travel/places-to-go/southern-vietnam/binh-thuan)
 [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2021-05/Con%20Dao%20Travel%20Guide%20Vietnam%20Tourism.jpg?itok=FzpQbNsy)Con Dao](https://vietnam.travel/places-to-go/southern-vietnam/con-dao)
@@ -127,23 +129,21 @@ Not far away, Mui Ne lures holidaymakers with a laid-back beach vibe and reputat
   * [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2021-03/top%20things%20to%20do%20HCMC.jpg?itok=gFLro90a)How to see HCMC like a local](https://vietnam.travel/things-to-do/how-see-hcmc-local)
 
 
-  1. You are here: 
+  1. You are here:
   2. [Home](https://vietnam.travel/)
   3. [Places To Go](https://vietnam.travel/place-to-go)
   4. [Southern Vietnam](https://vietnam.travel/places-to-go/southern-vietnam)
 
 
-
-
 #### Sign up for our newsletter
 
-    Receive new travel stories from Vietnam once a month in your inbox.     
-Sign Up 
+    Receive new travel stories from Vietnam once a month in your inbox.
+Sign Up
 
 
 #### USEFUL LINKS
 
-    
+
   * [Visas for Vietnam](https://vietnam.travel/plan-your-trip/visa-requirements "Visas for Vietnam")
   * [Beginner Guide](https://vietnam.travel/sites/default/files/2021-03/Beginner%27s%20Guide%20to%20Vietnam%20NOW.pdf "Beginner Guide")
   * [FAQs](https://vietnam.travel/faqs "FAQs")
@@ -152,22 +152,20 @@ Sign Up
   * [Industry Resources](https://vietnam.travel/sites/default/files/2021-05/Vietnam%20Tourism%20Resources.pdf "Industry Resources")
 
 
-
-
 #### Follow us on
 
-    
+
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-2_4.jpg)](https://www.facebook.com/vietnamtourismboard/ "Facebook")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-3_6.jpg)](https://www.youtube.com/vietnamtourismboard/ "Youtube")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-4_4.jpg)](https://www.instagram.com/vietnamtourismboard/ "Instagram")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web_4.jpg)](https://www.pinterest.com/vietnamtourismboard/ "Pinterest")
   * [![](https://image.vietnam.travel/sites/default/files/2021-02/Vietnam%20tourism.jpg)](https://www.tiktok.com/@vietnamtourismboard?lang=en "TikTok")
 
-    
+
 Welcome to the official website of Viet Nam National Authority of Tourism. Visit our social media pages for more travel inspiration.
 [![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/logo-bw.png)](https://vietnamtourism.gov.vn/en)
 [ ![Chung nhan Tin Nhiem Mang](https://tinnhiemmang.vn/handle_cert?id=vietnam.travel) ](https://tinnhiemmang.vn/danh-ba-tin-nhiem/vietnamtravel-1717729146 "Chung nhan Tin Nhiem Mang")
-Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you! 
+Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you!
 [Back to top![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/icon-arrow-up.png)](https://vietnam.travel/places-to-go/southern-vietnam)
   * © 2016 Official Website Vietnam Tourism
   * Email: contact@vietnamtourism.gov.vn
@@ -199,9 +197,9 @@ submit
 By clicking submit, you agree to our[Privacy Policy](https://vietnam.travel/node/153)and[Terms of Use](https://vietnam.travel/places-to-go/node/155)
 [×Close](https://vietnam.travel/places-to-go/southern-vietnam)
 ## oops
-The entered email has subscribed for Vietnam Tourism monthly newsletter 
+The entered email has subscribed for Vietnam Tourism monthly newsletter
 ×
 ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/popup_v4.jpg)
 Subscribe
-Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/places-to-go/www.vietnam.travel), you have entered our contest. Happy Holidays! 
+Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/places-to-go/www.vietnam.travel), you have entered our contest. Happy Holidays!
 ShareThis Copy and Paste

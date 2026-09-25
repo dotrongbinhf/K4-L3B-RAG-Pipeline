@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-25T04:32:15.065428+00:00
 
+**Landing file:** `data/landing/news/article_02.json`
+
 ---
 
 Food | Vietnam Tourism
@@ -95,7 +97,7 @@ Food | Vietnam Tourism
 SEARCH
   * ![](https://image.vietnam.travel/sites/default/files/styles/top_banner/public/2019-09/food.jpg?itok=uwmBli0H)
 #  Food
-Fabulous Food 
+Fabulous Food
 
 
 ## Travel around Vietnam, and you'll find that tastes and dishes vary from North to South. In the capital, locals may lunch on bún chả with slices of pork belly, while the Saigonese wolf down bánh xèo (crispy pancakes) rolled with greens and dipped in sweet-and-sour fish sauce. In the former Imperial City, meaty bún bò Huế is a breakfast favourite, while in Hội An, you can’t beat a bowl of toothsome cao lầu noodles for a quick snack. From simple home cooking to addictive street eats to modern Vietnamese dining, it would take a lifetime to eat your way through all this delicious diversity.
@@ -143,23 +145,21 @@ Learn more about Vietnam
 Check out upcoming events in Vietnam
 Loading...
 [ view all events](https://www.vietnam.travel/event)
-  1. You are here: 
+  1. You are here:
   2. [Home](https://www.vietnam.travel/)
   3. [Things to do](https://www.vietnam.travel/things-to-do)
   4. [Food](https://www.vietnam.travel/things-to-do/food)
 
 
-
-
 #### Sign up for our newsletter
 
-    Receive new travel stories from Vietnam once a month in your inbox.     
-Sign Up 
+    Receive new travel stories from Vietnam once a month in your inbox.
+Sign Up
 
 
 #### USEFUL LINKS
 
-    
+
   * [Visas for Vietnam](https://www.vietnam.travel/plan-your-trip/visa-requirements "Visas for Vietnam")
   * [Beginner Guide](https://vietnam.travel/sites/default/files/2021-03/Beginner%27s%20Guide%20to%20Vietnam%20NOW.pdf "Beginner Guide")
   * [FAQs](https://www.vietnam.travel/faqs "FAQs")
@@ -168,22 +168,20 @@ Sign Up
   * [Industry Resources](https://vietnam.travel/sites/default/files/2021-05/Vietnam%20Tourism%20Resources.pdf "Industry Resources")
 
 
-
-
 #### Follow us on
 
-    
+
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-2_4.jpg)](https://www.facebook.com/vietnamtourismboard/ "Facebook")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-3_6.jpg)](https://www.youtube.com/vietnamtourismboard/ "Youtube")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-4_4.jpg)](https://www.instagram.com/vietnamtourismboard/ "Instagram")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web_4.jpg)](https://www.pinterest.com/vietnamtourismboard/ "Pinterest")
   * [![](https://image.vietnam.travel/sites/default/files/2021-02/Vietnam%20tourism.jpg)](https://www.tiktok.com/@vietnamtourismboard?lang=en "TikTok")
 
-    
+
 Welcome to the official website of Viet Nam National Authority of Tourism. Visit our social media pages for more travel inspiration.
 [![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/logo-bw.png)](https://vietnamtourism.gov.vn/en)
 [ ![Chung nhan Tin Nhiem Mang](https://tinnhiemmang.vn/handle_cert?id=vietnam.travel) ](https://tinnhiemmang.vn/danh-ba-tin-nhiem/vietnamtravel-1717729146 "Chung nhan Tin Nhiem Mang")
-Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you! 
+Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you!
 [Back to top![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/icon-arrow-up.png)](https://www.vietnam.travel/things-to-do/food)
   * © 2016 Official Website Vietnam Tourism
   * Email: contact@vietnamtourism.gov.vn
@@ -215,9 +213,9 @@ submit
 By clicking submit, you agree to our[Privacy Policy](https://www.vietnam.travel/node/153)and[Terms of Use](https://www.vietnam.travel/things-to-do/node/155)
 [×Close](https://www.vietnam.travel/things-to-do/food)
 ## oops
-The entered email has subscribed for Vietnam Tourism monthly newsletter 
+The entered email has subscribed for Vietnam Tourism monthly newsletter
 ×
 ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/popup_v4.jpg)
 Subscribe
-Thank you for subscribing to [www.vietnam.travel](https://www.vietnam.travel/things-to-do/www.vietnam.travel), you have entered our contest. Happy Holidays! 
+Thank you for subscribing to [www.vietnam.travel](https://www.vietnam.travel/things-to-do/www.vietnam.travel), you have entered our contest. Happy Holidays!
 ShareThis Copy and Paste

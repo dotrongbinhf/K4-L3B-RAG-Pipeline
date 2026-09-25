@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-25T04:32:03.919369+00:00
 
+**Landing file:** `data/landing/news/article_01.json`
+
 ---
 
 * [EN ](javascript:void\(0\);)
@@ -104,7 +106,7 @@ Each Vietnamese city exudes its own distinct character. Get a feel for Vietnam�
 
 
 ## heritage sites
-Curious what awaits you in Vietnam? Take a 360-degree tour of some of the country’s most compelling natural wonders and cultural attractions right here. 
+Curious what awaits you in Vietnam? Take a 360-degree tour of some of the country’s most compelling natural wonders and cultural attractions right here.
   * [ ![](https://image.vietnam.travel/sites/default/files/360Tour/HaLong/socialThumbnail.jpg) ](https://vietnam.travel/sites/default/files/360Tour/HaLong/index.htm)
   * [ ![](https://image.vietnam.travel/sites/default/files/360Tour/NinhBinh/socialThumbnail.jpg) ](https://vietnam.travel/sites/default/files/360Tour/NinhBinh/index.htm)
   * [ ![](https://image.vietnam.travel/sites/default/files/360Tour/PhongNha/socialThumbnail.jpg) ](https://vietnam.travel/sites/default/files/360Tour/PhongNha/index.htm)
@@ -113,7 +115,7 @@ Curious what awaits you in Vietnam? Take a 360-degree tour of some of the countr
   * [ ![](https://image.vietnam.travel/sites/default/files/360Tour/MySon/socialThumbnail.jpg) ](https://vietnam.travel/sites/default/files/360Tour/MySon/index.htm)
 
 
-#### One of Vietnam’s strongest draws is the diversity of its natural beauty and landscapes. 
+#### One of Vietnam’s strongest draws is the diversity of its natural beauty and landscapes.
 The capital of Hanoi is your gateway to the treasures of the north: spectacular mountains, valleys and bays studded with limestone karsts. Smack in the centre, up-and-coming Danang is one of Vietnam’s most progressive cities. From here you have easy access to photogenic riverside towns, national parks and long, sandy beaches. The southern metropolis of Ho Chi Minh City will entice you with its cool culture and captivating streets (just watch out for those motorcycles.) Nearby, the Mekong Delta runs to the sea, passing on-the-water villages and mangrove forests along the way. And all down Vietnam's S-shaped coast, you’ll find islands big and small, just waiting to be explored.
 **Click on a city or region to find out more.**
 ### [Northern Vietnam](https://vietnam.travel/places-to-go/northern-vietnam)
@@ -174,22 +176,20 @@ Get an insider look at Vietnam’s best destinations. Let these local Vietnamese
   * [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2018-08/Best%20of%20Vietnam-17.jpg?itok=JUG5b6BO)Vietnam In Depth](https://vietnam.travel/plan-your-trip/recommended-trip/vietnam-photo-lovers)
 
 
-  1. You are here: 
+  1. You are here:
   2. [Home](https://vietnam.travel/)
   3. [Places to go](https://vietnam.travel/place-to-go)
 
 
-
-
 #### Sign up for our newsletter
 
-    Receive new travel stories from Vietnam once a month in your inbox.     
-Sign Up 
+    Receive new travel stories from Vietnam once a month in your inbox.
+Sign Up
 
 
 #### USEFUL LINKS
 
-    
+
   * [Visas for Vietnam](https://vietnam.travel/plan-your-trip/visa-requirements "Visas for Vietnam")
   * [Beginner Guide](https://vietnam.travel/sites/default/files/2021-03/Beginner%27s%20Guide%20to%20Vietnam%20NOW.pdf "Beginner Guide")
   * [FAQs](https://vietnam.travel/faqs "FAQs")
@@ -198,22 +198,20 @@ Sign Up
   * [Industry Resources](https://vietnam.travel/sites/default/files/2021-05/Vietnam%20Tourism%20Resources.pdf "Industry Resources")
 
 
-
-
 #### Follow us on
 
-    
+
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-2_4.jpg)](https://www.facebook.com/vietnamtourismboard/ "Facebook")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-3_6.jpg)](https://www.youtube.com/vietnamtourismboard/ "Youtube")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-4_4.jpg)](https://www.instagram.com/vietnamtourismboard/ "Instagram")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web_4.jpg)](https://www.pinterest.com/vietnamtourismboard/ "Pinterest")
   * [![](https://image.vietnam.travel/sites/default/files/2021-02/Vietnam%20tourism.jpg)](https://www.tiktok.com/@vietnamtourismboard?lang=en "TikTok")
 
-    
+
 Welcome to the official website of Viet Nam National Authority of Tourism. Visit our social media pages for more travel inspiration.
 [![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/logo-bw.png)](https://vietnamtourism.gov.vn/en)
 [ ![Chung nhan Tin Nhiem Mang](https://tinnhiemmang.vn/handle_cert?id=vietnam.travel) ](https://tinnhiemmang.vn/danh-ba-tin-nhiem/vietnamtravel-1717729146 "Chung nhan Tin Nhiem Mang")
-Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you! 
+Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you!
 [Back to top![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/icon-arrow-up.png)](https://vietnam.travel/node/6)
   * © 2016 Official Website Vietnam Tourism
   * Email: contact@vietnamtourism.gov.vn
@@ -245,9 +243,9 @@ submit
 By clicking submit, you agree to our[Privacy Policy](https://vietnam.travel/node/153)and[Terms of Use](https://vietnam.travel/node/node/155)
 [×Close](https://vietnam.travel/node/6)
 ## oops
-The entered email has subscribed for Vietnam Tourism monthly newsletter 
+The entered email has subscribed for Vietnam Tourism monthly newsletter
 ×
 ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/popup_v4.jpg)
 Subscribe
-Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/node/www.vietnam.travel), you have entered our contest. Happy Holidays! 
+Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/node/www.vietnam.travel), you have entered our contest. Happy Holidays!
 ShareThis Copy and Paste

@@ -32,6 +32,9 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
         if item_id in seen:
             continue
         seen.add(item_id)
+        # Chroma does not persist null metadata values, so legal chunks whose
+        # source has no URL need their optional contract field restored.
+        metadata = {**metadata, "url": metadata.get("url")}
         results.append(
             {
                 "id": item_id,

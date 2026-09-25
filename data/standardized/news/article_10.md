@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-25T04:26:42.195646+00:00
 
+**Landing file:** `data/landing/news/article_10.json`
+
 ---
 
 Central Vietnam | Vietnam Tourism
@@ -91,7 +93,7 @@ Central Vietnam | Vietnam Tourism
 
 SEARCH
   * # [Central Vietnam ](https://vietnam.travel/places-to-go/central-vietnam/nha-trang)
-Tranquil coastline outside of Nha Trang. Photo by Christian Berg 
+Tranquil coastline outside of Nha Trang. Photo by Christian Berg
 
 
   * [Overview](https://vietnam.travel/node/21#overview)
@@ -104,7 +106,7 @@ Overview Top Destinations} Recommended Trips You may also like
 #### Central Vietnam is known for its well-preserved historical sites, smiling locals, and soothing natural beauty. The central coast will beckon you with the promise of enriching experiences and sun-kissed days by the beach.
 Stroll down the narrow streets of Hoi An’s Ancient Town, where timber frame shophouses still appear the way they did centuries ago, and the streets are aglow in colourful lanterns each night. Or acquaint yourself with the final days of the Nguyen Dynasty in Hue, where royal citadels, tombs and temples are sprinkled along the tranquil Perfume River.
 In between, modern Danang City offers a taste of some of Vietnam’s most luxurious resorts and top golf courses -- as well as one of the country's best beaches. And a few hours away, Phong Nha’s spectacular caves are the latest frontier for nature enthusiasts.
-##  Top Destinations In Central Vietnam 
+##  Top Destinations In Central Vietnam
 [Da Nang](https://vietnam.travel/places-to-go/central-vietnam/da-nang)
 [Hoi An](https://vietnam.travel/places-to-go/central-vietnam/hoi-an)
 [Nha Trang](https://vietnam.travel/places-to-go/central-vietnam/nha-trang)
@@ -124,23 +126,21 @@ In between, modern Danang City offers a taste of some of Vietnam’s most luxuri
   * [Nha Trang's best wellness experiences](https://vietnam.travel/things-to-do/nha-trang-best-wellness-experiences)
 
 
-  1. You are here: 
+  1. You are here:
   2. [Home](https://vietnam.travel/)
   3. [Places To Go](https://vietnam.travel/place-to-go)
   4. [Central Vietnam](https://vietnam.travel/places-to-go/central-vietnam)
 
 
-
-
 #### Sign up for our newsletter
 
-    Receive new travel stories from Vietnam once a month in your inbox.     
-Sign Up 
+    Receive new travel stories from Vietnam once a month in your inbox.
+Sign Up
 
 
 #### USEFUL LINKS
 
-    
+
   * [Visas for Vietnam](https://vietnam.travel/plan-your-trip/visa-requirements "Visas for Vietnam")
   * [Beginner Guide](https://vietnam.travel/sites/default/files/2021-03/Beginner%27s%20Guide%20to%20Vietnam%20NOW.pdf "Beginner Guide")
   * [FAQs](https://vietnam.travel/faqs "FAQs")
@@ -149,13 +149,11 @@ Sign Up
   * [Industry Resources](https://vietnam.travel/sites/default/files/2021-05/Vietnam%20Tourism%20Resources.pdf "Industry Resources")
 
 
-
-
 #### Follow us on
 
-    
+
 Welcome to the official website of Viet Nam National Authority of Tourism. Visit our social media pages for more travel inspiration.
-Translated languages are AI-generated from the English original. If you spot an error, please report it to 
+Translated languages are AI-generated from the English original. If you spot an error, please report it to
 [Back to top](https://vietnam.travel/node/21)
   * © 2016 Official Website Vietnam Tourism
   * [Privacy Policy](https://vietnam.travel/privacy-policy "Privacy Policy")
@@ -184,8 +182,8 @@ submit
 By clicking submit, you agree to our[Privacy Policy](https://vietnam.travel/node/153)and[Terms of Use](https://vietnam.travel/node/node/155)
 [×Close](https://vietnam.travel/node/21)
 ## oops
-The entered email has subscribed for Vietnam Tourism monthly newsletter 
+The entered email has subscribed for Vietnam Tourism monthly newsletter
 ×
 Subscribe
-Thank you for subscribing to www.vietnam.travel, you have entered our contest. Happy Holidays! 
+Thank you for subscribing to www.vietnam.travel, you have entered our contest. Happy Holidays!
 ShareThis Copy and Paste

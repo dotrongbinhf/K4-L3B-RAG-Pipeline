@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-25T04:33:09.488262+00:00
 
+**Landing file:** `data/landing/news/article_07.json`
+
 ---
 
 Ha Giang | Vietnam Tourism
@@ -122,7 +124,7 @@ Near the border with China stands a H'Mong King Palace in the village of Sa Phin
 Make time to journey north to Lung Cu, where a gigantic Vietnamese flag blows proudly at the border. The best time to arrive is late afternoon as the heat subsides, making the climb of 200 steps a little kinder.
 ##### Ha Giang Weather
 September through to November is a good time to visit this remote province, with cooler temperatures. In November, Ha Giang is hugely popular during the Buckwheat Flower Festival. April to June is pleasant and warm, July and August can be very hot with regular monsoons.
-#####  Ha Giang Transport 
+#####  Ha Giang Transport
 The small city of Ha Giang is the gateway to the province, and approximately 300km from Hanoi. Buses run day and night from the capital, ranging from sleepers to smaller VIP mini-vans. Depending on the vehicle and driver, the journey there takes around six hours. Public transport around Ha Giang Province is limited. Experienced drivers can rent a motorcycle in town. Another option is to book a tour either on the back of a motorbike or by private car.
 * * *
 ## Gallery
@@ -154,24 +156,22 @@ The small city of Ha Giang is the gateway to the province, and approximately 300
   * [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2017-06/vietnam-travel-5.jpg?itok=vOyQsu1N)Ha Noi](https://vietnam.travel/places-to-go/northern-vietnam/ha-noi)
 
 
-  1. You are here: 
+  1. You are here:
   2. [Home](https://vietnam.travel/)
   3. [Places To Go](https://vietnam.travel/place-to-go)
   4. [Northern Vietnam](https://vietnam.travel/places-to-go/northern-vietnam)
   5. [Ha Giang](https://vietnam.travel/places-to-go/northern-vietnam/ha-giang)
 
 
-
-
 #### Sign up for our newsletter
 
-    Receive new travel stories from Vietnam once a month in your inbox.     
-Sign Up 
+    Receive new travel stories from Vietnam once a month in your inbox.
+Sign Up
 
 
 #### USEFUL LINKS
 
-    
+
   * [Visas for Vietnam](https://vietnam.travel/plan-your-trip/visa-requirements "Visas for Vietnam")
   * [Beginner Guide](https://vietnam.travel/sites/default/files/2021-03/Beginner%27s%20Guide%20to%20Vietnam%20NOW.pdf "Beginner Guide")
   * [FAQs](https://vietnam.travel/faqs "FAQs")
@@ -180,22 +180,20 @@ Sign Up
   * [Industry Resources](https://vietnam.travel/sites/default/files/2021-05/Vietnam%20Tourism%20Resources.pdf "Industry Resources")
 
 
-
-
 #### Follow us on
 
-    
+
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-2_4.jpg)](https://www.facebook.com/vietnamtourismboard/ "Facebook")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-3_6.jpg)](https://www.youtube.com/vietnamtourismboard/ "Youtube")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-4_4.jpg)](https://www.instagram.com/vietnamtourismboard/ "Instagram")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web_4.jpg)](https://www.pinterest.com/vietnamtourismboard/ "Pinterest")
   * [![](https://image.vietnam.travel/sites/default/files/2021-02/Vietnam%20tourism.jpg)](https://www.tiktok.com/@vietnamtourismboard?lang=en "TikTok")
 
-    
+
 Welcome to the official website of Viet Nam National Authority of Tourism. Visit our social media pages for more travel inspiration.
 [![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/logo-bw.png)](https://vietnamtourism.gov.vn/en)
 [ ![Chung nhan Tin Nhiem Mang](https://tinnhiemmang.vn/handle_cert?id=vietnam.travel) ](https://tinnhiemmang.vn/danh-ba-tin-nhiem/vietnamtravel-1717729146 "Chung nhan Tin Nhiem Mang")
-Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you! 
+Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you!
 [Back to top![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/icon-arrow-up.png)](https://vietnam.travel/places-to-go/northern-vietnam/ha-giang)
   * © 2016 Official Website Vietnam Tourism
   * Email: contact@vietnamtourism.gov.vn
@@ -227,9 +225,9 @@ submit
 By clicking submit, you agree to our[Privacy Policy](https://vietnam.travel/node/153)and[Terms of Use](https://vietnam.travel/places-to-go/northern-vietnam/node/155)
 [×Close](https://vietnam.travel/places-to-go/northern-vietnam/ha-giang)
 ## oops
-The entered email has subscribed for Vietnam Tourism monthly newsletter 
+The entered email has subscribed for Vietnam Tourism monthly newsletter
 ×
 ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/popup_v4.jpg)
 Subscribe
-Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/places-to-go/northern-vietnam/www.vietnam.travel), you have entered our contest. Happy Holidays! 
+Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/places-to-go/northern-vietnam/www.vietnam.travel), you have entered our contest. Happy Holidays!
 ShareThis Copy and Paste

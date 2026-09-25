@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-25T04:32:31.462825+00:00
 
+**Landing file:** `data/landing/news/article_04.json`
+
 ---
 
 21 must-try Vietnamese dishes | Vietnam Tourism
@@ -95,7 +97,7 @@
 SEARCH
   * ![](https://image.vietnam.travel/sites/default/files/styles/top_banner/public/2017-07/best-vietnamese-dishes.jpg?itok=zKiL23jr)
 # 21 must-try Vietnamese dishes
-Eating out in Hoi An. Photo by Aaron Joel Santos 
+Eating out in Hoi An. Photo by Aaron Joel Santos
 
 
   * [](javascript:void\(0\);)
@@ -110,59 +112,59 @@ Eating out in Hoi An. Photo by Aaron Joel Santos
 * * *
 ### **1. Phở**
 ![vietnamese pho](https://www.vietnam.travel/sites/default/files/inline-images/top-vietnamese-dishes-2_2.jpg)
-_Phở_ -real: this world-famous soup differs from north to south. 
+_Phở_ -real: this world-famous soup differs from north to south.
 Phở is the quintessential Vietnamese dish, the word _phở_ referring to the [type of noodle](https://vietnam.travel/things-to-do/noodles-of-vietnam) used in the recipe. Flat rice noodles dance around with medium-rare slivers of beef or boiled chicken in a hearty beef stock. The more popular of the two widely known varieties is _phở Hanoi_. Originally from the north, it is distinguished by a clear broth and dressed only with a squeeze of lemon and slices of bird’s eye chili. The southern iteration, _phở Nam_ , has a murkier broth and is served with a bouquet of fresh herbs like bean sprouts, basil and mint.
-The secret to a good bowl of phở lies in its stock. The broth is usually infused with fragrant star anise, clove and cinnamon to lend a natural sweetness to the mix. This dish is found on almost every street corner and is actually consumed for breakfast, unbeknownst to outsiders. 
+The secret to a good bowl of phở lies in its stock. The broth is usually infused with fragrant star anise, clove and cinnamon to lend a natural sweetness to the mix. This dish is found on almost every street corner and is actually consumed for breakfast, unbeknownst to outsiders.
 **Try it:** Pho Thin, 13 Lo Duc, Hai Ba Trung District in Hanoi or Pho Hoa, 260C Pasteur Street, District 3 in Ho Chi Minh City
 * * *
 ### **2. Bánh Mì**
 ![Banh mi by Aaron Joel Santos Top 21 Dishes](https://www.vietnam.travel/sites/default/files/inline-images/1016%20AJS%20Vietnam%20TAB%20Food-7.jpg)
-With so many varieties, you're bound to find the perfect  _bánh mì_ on a trip to Vietnam. 
+With so many varieties, you're bound to find the perfect  _bánh mì_ on a trip to Vietnam.
 Baguettes may have been adopted from the French, but [_bánh mì_](https://vietnam.travel/things-to-do/banh-mi-in-vietnam) is as Vietnamese as it comes. Paté and margarine are spread swiftly across the soft, chewy interior of a baguette and later, the sandwich is loaded with pickled vegetables, fresh cilantro, pork belly, pork floss and cucumber. Sink your teeth into the crunchy crust and watch the warm roll give way to a whole scheme of textures.
 **Try it:** Banh My Phuong, 2B Phan Chau Trinh, Hoi An
 * * *
 ### **3. Cơm Tấm**
 ![Christian Berg Top 21 Dishes Vietnamese Food](https://www.vietnam.travel/sites/default/files/inline-images/Must%20try%20Vietnamese%20Dishes-12.jpg)
-A platter of  _Cơm Tấm_ in Ho Chi Minh City. 
+A platter of  _Cơm Tấm_ in Ho Chi Minh City.
 Back in the day, Vietnamese farmers would eat the fractured rice grains they could not sell. Nowadays, “broken” rice is a food staple for the everyday working-class citizen. For a meal of humble origins, the preparations for cơm tấm can get very decadent.
 While it's prepared in a number of ways, the most popular is _cơm tấm sườn nướng ốp la_. A fried egg is paired with caramelised grilled pork chop and laid out on a generous heap of broken rice. The dish is then slathered with _nước chấm_ , a mixture of chilli, fish sauce and sugar, and a drizzle of green onion oil. The final touches include a side of shredded pickled carrots and daikon, slices of cucumbers and tomatoes, and crushed fried pork rinds and shallots for garnish.
 **Try it:** A family-operated stall on 260 Vo Van Tan, District 3, Ho Chi Minh City
 * * *
 ### **4. Bún Bò Huế**
 ![Bun Bo Hue by Aaron Joel Santos Top 21 Dishes](https://www.vietnam.travel/sites/default/files/inline-images/1016%20AJS%20Vietnam%20TAB%20Hue-19.jpg)
-Called "the greatest soup in the world" by the late Anthony Bourdain. 
+Called "the greatest soup in the world" by the late Anthony Bourdain.
 Representing the legendary royal cuisine of Hue, _bún bò huế_ is a mighty demonstration of both beauty and taste. The alarmingly red broth is the first signal of its striking flavour—the result of hours spent simmering beef bones and stalks of lemongrass to produce a citrusy concoction. Flash boiled vegetables paired with tender beef shanks give this dynamic affair added vivacity. This may be a beef soup—the word _bò_ is Vietnamese for beef—but don’t be surprised when you see sausage lurking in the bowl. _Chả lụa_ is a sausage made of ham paste that has a texture reminiscent of tofu.
 **Try it:** Quan Bun Bo Hue,19 Ly Thuong Kiet Street, Hue
 * * *
 ### **5. Cao Lầu**
 ![Cao Lau by Aaron Joel Santos Top 21 Dishes](https://www.vietnam.travel/sites/default/files/inline-images/1016%20AJS%20Vietnam%20TAB%20Food-4.jpg)
-Thick noodles with a secret recipe, these are a must in Hoi An. 
+Thick noodles with a secret recipe, these are a must in Hoi An.
 A dish unique to [Hoi An](https://vietnam.travel/places-to-go/central-vietnam/hoi-an), _cao lầu_ is beyond compare. Saluting the history of the coastal trading port from where it originated, this sensuous bowl of noodles is a fusion of Japanese, Chinese and Vietnamese influences. Slices of Chinese barbecued pork are fanned over _cao lầu_ noodles. These thick noodles, with the same heft as Japanese udon, are then doused with a spice-laden broth and topped with fresh herbs and crushed pork cracklings. Authentic _cao lầu_ is said to be made from the water found in the thousand-year-old Ba Le well in Hoi An, rumoured to have magical properties.
 **Try it:** Thanh Cao Lau, 24 Thai Phien St, Hoi An
 * * *
-### **6. Cơm Gà  
+### **6. Cơm Gà
 ![must try dishes com ga](https://www.vietnam.travel/sites/default/files/inline-images/com%20ga%20must-try%20Vietnamese%20dishes.jpg)**
 Chicken and rice is a foolproof combination. But in Hội An, this delicious duo is elevated using fresh ingredients from the countryside. Strips of tender chicken are shredded, mixed with flavoured fish sauce and onions to accompany a bowl of turmeric rice. Pickled shallots, radish and herbs are served on the side. Cooks from all over the country have their own secrets to set their turmeric rice apart. Classic Hội An chicken rice is topped with a few leaves of Vietnamese coriander and hot mint to balance out the zesty chicken marinade and soft, young eggs. After a day exploring the Ancient Town on foot, a plate of golden chicken rice is simply the perfect treat.
 **Try it:** Com Ga Hien, 539 Hai Ba Trung St, Hoi An
 * * *
 ### **7. Mì Quảng**
 ![best vietnamese dishes](https://www.vietnam.travel/sites/default/files/inline-images/1016%20AJS%20Vietnam%20TAB%20Food-5.jpg)
-Worth a slurp: try these scrumptious noodles on a trip to Da Nang. 
+Worth a slurp: try these scrumptious noodles on a trip to Da Nang.
 Part soup, part salad, _mì quảng_ gracefully pulls off an identity crisis. That being said, don’t let the elegance of _mì quảng_ fool you. This light and springy noodle dish from the Quang Nam province in Central Vietnam is street food. The vibrantly yellow noodles owe their rich colour to the turmeric-infused broth made rich with peanut oil. Only a ladleful is used in the making of this “soup”, which can be topped with anything from shrimp and chicken to pork belly and snakehead fish. Eat _mì quảng_ with sliced banana flowers, Vietnamese coriander, basil and _bánh tráng me_ , toasted sesame rice crackers.
 **Try it:** Quan Mi Quang Ba Mua, 95 Nguyen Tri Phuong, Chinh Gian, Thanh Khe, Da Nang
 * * *
 ### **8. Bánh Xèo**
 ![Christian Berg Top 21 Dishes Vietnamese Food](https://www.vietnam.travel/sites/default/files/inline-images/Must%20try%20Vietnamese%20Dishes-15.jpg)
-Cripsy  _bánh xèo_ before it's been rolled up in rice paper with fresh greens. 
+Cripsy  _bánh xèo_ before it's been rolled up in rice paper with fresh greens.
 A [Mekong Delta](https://vietnam.travel/things-to-do/how-to-travel-mekong-delta) creation, _bánh xèo_ is widely eaten around south and central Vietnam. Watching the crispy crepe being assembled is an audio-visual experience: the batter crackles loudly when it hits the hot pan— _xèo_ meaning sizzling—and the edges gradually curl and golden as the skilled xèo maker deftly swirls the pan to evenly spread out the dense batter. The batter, traditionally made from rice flour and coconut milk, owes its yellowish hue to the addition of turmeric. Another French-inspired delight, the savoury pancake is filled with slices of boiled pork, minced pork, bean sprouts and shrimp and then folded in the manner of a crepe. A _bánh xèo_ shouldn’t be too soggy and is best appreciated fresh off the skillet.
 **Try it:** Banh Xeo 46A, 46A D Dinh Cong Trang, District 3, Ho Chi Minh City
 * * *
 * * *
 ### **9. Bún Chả**
 ![Bun Cha by Aaron Joel Santos](https://www.vietnam.travel/sites/default/files/inline-images/Must%20try%20Vietnamese%20Dishes-2_1.jpg)
-Hanoi's iconic _bún chả_ , with a side of _nem rán_ (deep-fried spring rolls). 
+Hanoi's iconic _bún chả_ , with a side of _nem rán_ (deep-fried spring rolls).
 _Bún chả_ became an overnight sensation after President Obama was pictured scarfing down a bowl of these grilled pork patties with [Anthony Bourdain](https://vietnam.travel/things-to-do/eating-vietnam-anthony-bourdain). But this speciality of the Old Quarter in Hanoi has always been popular among the locals. Around lunchtime, the scent of pork grilling over hot charcoal wafts down the sidewalks, filling the noses of hungry Hanoians.
-This classic northern dish is comprised of cold _bún_ (rice vermicelli); slices of seasoned pork belly; a mountain of fresh herbs and salad greens; and last but not least, medallions of minced pork swimming in a bowl brimming with a fish sauce-based broth. The go-to approach is to scoop small bundles of _bún_ into your broth bowl and rotate between eating the noodles, the pork and the greens. 
+This classic northern dish is comprised of cold _bún_ (rice vermicelli); slices of seasoned pork belly; a mountain of fresh herbs and salad greens; and last but not least, medallions of minced pork swimming in a bowl brimming with a fish sauce-based broth. The go-to approach is to scoop small bundles of _bún_ into your broth bowl and rotate between eating the noodles, the pork and the greens.
 **Try it:** Bun Cha Huong Lien (also known as Bun Cha Obama), 24 Le Van Huu, Phan Dinh Ho, Hai Ba Trung, Hanoi
 * * *
 ### **10. Xôi**
@@ -173,25 +175,25 @@ _Xôi,_ Vietnamese sticky rice is a departure from other sticky rice interpretat
 * * *
 ### **11. Bánh Bèo**
 ![Banh Beo by Aaron Joel Santos Top 21 Dishes](https://www.vietnam.travel/sites/default/files/inline-images/1016%20AJS%20Vietnam%20TAB%20Hue-10.jpg)
-_Bánh Bèo_ is a dish fit for royalty. 
+_Bánh Bèo_ is a dish fit for royalty.
 More of an appetizer, _bánh bèo_ is a [quick fix from Hue](https://vietnam.travel/things-to-do/how-eat-local-hue) in Central Vietnam. These steamed rice cakes come in bite-sized servings, akin to Vietnamese tapas. Each delicate, chewy disk is topped with a spoonful of creamy mung bean paste and toasted shrimps. The cakes are then trimmed with either croutons or the more indulgent _tép mỡ—_ crunchy fried pork fat. At the centre of a good _bánh bèo_ should be a dimple, signalling a well-steamed batch. This is paired nicely with _nước chấm_.
 **Try it:** Quan Hanh, 11 Pho Duc Chinh (South Bank), Hue
 * * *
 ### **12. Bún Riêu**
 ![Bun Rieu by Christian Berg Top 21 Dishes](https://www.vietnam.travel/sites/default/files/inline-images/Must%20try%20Vietnamese%20Dishes-10_0.jpg)
-Hearty  _bún riêu_ is always served with shredded greens. 
+Hearty  _bún riêu_ is always served with shredded greens.
 The interplay between crab and tomato makes _bún riêu_ a truly standout dish. A hearty soup bursting with acidity, the components of this meal include slippery _bún_ , fresh crab meat, blocks of tofu and stewed tomatoes. Cooking an authentic bowl of _bún riêu_ is a labour-intensive process. After the crab meat is separated from the body, the shell is then pulverized using a mortar and pestle and then strained through to form the base of the broth. Floating around the bowl are pillowy clusters of minced crab combined with ground pork and egg that melt in your mouth.
 **Try it:** Bún Riêu Cua Thanh Hồng, 42 Hòa Mã, Ngô Thì Nhậm, Hai Bà Trưng, Hanoi
 * * *
 ### **13. Gỏi Cuốn**
 ![Goi Cuon by Christian Berg Top 21 Dishes](https://www.vietnam.travel/sites/default/files/inline-images/Must%20try%20Vietnamese%20Dishes-5.jpg)
-Refreshing and light, _gỏi cuốn_ dipped in fish sauce is perfection. 
+Refreshing and light, _gỏi cuốn_ dipped in fish sauce is perfection.
 An action-packed salad roll, _gỏi cuốn_ is bursting at the seams with freshness. The semi-transparent skin is made from softened sheets of rice paper. Encased within is a stack of leafy greens, mint, coriander, some form of protein and a stalk of garlic chive poking out from the snugly wrapped roll. The most common variety of _gỏi cuốn_ is a surf and turf combo of pork tenderloin and shelled shrimp. The roll is either dunked in a bowl of nutty hoisin sauce or _nước chấm._
 **Try it:** Quan An Ngon, 18 Phan Boi Chau, Hoan Kiem, Hanoi
 * * *
 ###  **14.****Bánh Căn**
 ![Banh Cam by Christian Berg Top 21 Dishes](https://www.vietnam.travel/sites/default/files/inline-images/Must%20try%20Vietnamese%20Dishes-7.jpg)
-Similar to  _bánh khọt_ , but baked in the grill and eaten with broth. 
+Similar to  _bánh khọt_ , but baked in the grill and eaten with broth.
 Bite-sized savoury pancakes _bánh căn_ are a beloved south-central speciality. Made from a combination of rice batter, a cracked quail egg and green onions cooked over flame in an earthenware grill, each bite is more satisfying than the last. Traditionally served plain, _bánh căn_ is now topped with either shrimp or pork and dipped in a bowl of broth loaded with green onions and a few floating meatballs.
 **Try it:** Phan Rang, 106 Trương Định, Phường 9, Quận 3, Ho Chi Minh City
 * * *
@@ -203,25 +205,25 @@ This is the standard street food item in the south. The Vietnamese version of th
 * * *
 ### **16. Chả Cá**
 ![Cha Ca La Vong Top 21 Dishes](https://www.vietnam.travel/sites/default/files/inline-images/must-try%20Vietnamese%20dishes.jpg)
-Aromatic and flavourful  _chả cá_ is a Hanoi staple. 
+Aromatic and flavourful  _chả cá_ is a Hanoi staple.
 Perfumed with fresh dill, _chả cá_ is a uniquely northern delicacy from the capital contrasting in flavours, textures and colours. Chunks of flaky white fish are marinated in turmeric before being sautéed in butter on high heat. Dill and green onion is then generously distributed across the skillet, feathering out across the pale yellow fish fillets like moss growing in wild abandon. It’s a very photogenic entrée so snap a picture while the dill is still wispy and not wilted from the blazing temperatures.
 **Try it:** Cha Ca Thang Long Restaurant, 19-21-31 Duong Thanh, Hoan Kiem, Hanoi
 * * *
 ### **17. Nộm Hoa Chuối**
 ![Nom Hoa Chuoi by Christian Berg Top 21 Dishes](https://www.vietnam.travel/sites/default/files/inline-images/Must%20try%20Vietnamese%20Dishes-6.jpg)
-The ever-versatile  _nộm hoa chuối_ is can be enjoyed with rice or on its own. 
+The ever-versatile  _nộm hoa chuối_ is can be enjoyed with rice or on its own.
 _Nộm hoa chuối_ is a stunning array of shredded banana flowers tossed with pickled carrots, coriander, lotus root, and cabbage. Depending on the season, pomelo and julienned green mango or papaya can be added to the jumble. In some preparations, you’ll find the addition of chicken, beef and/or shrimp although it can also be served as [a vegetarian dish](https://vietnam.travel/things-to-do/vegetarian-guide-vietnam).The salad is bound with _nước chấm sauce_ and decorated with crushed peanuts and bird’s eye chilli. For a refreshing punch, hit it with a squeeze of lime.
 **Try it:** Mountain Retreat, 36 Le Loi, Ben Nghe, District 1, Ho Chi Minh City
 * * *
 ### **18. Bánh Cuốn**
 ![Banh Cuon by Aaron Joel Santos Top 21 Dishes](https://www.vietnam.travel/sites/default/files/inline-images/Must%20try%20Vietnamese%20Dishes.jpg)
-A Hanoi breakfast staple, found in street stalls throughout the city. 
+A Hanoi breakfast staple, found in street stalls throughout the city.
 Made from large round sheets of steamed rice flour, gathered around minced pork and wood-ear mushroom and gently folded and chopped, _bánh cuốn_ is a delight. This savoury treat is always made fresh-to-order, topped with dried shallots and served with a side bowl of fish sauce with pork sausage. Enjoy it for breakfast, like a local, and feel free to add fresh herbs to the mix and brighten up your bite.
 **Try it:** Bánh Cuốn 101 Bà Triệu, 147 Triệu Việt Vương, Hai Bà Trưng District, Hanoi
 * * *
 ###  **19.****Bún Chả Cá**
 ![Bun cha sua by Christian Berg Top 21 Dishes](https://www.vietnam.travel/sites/default/files/inline-images/Must%20try%20Vietnamese%20Dishes-4.jpg)
-Be sure to try _bún chả cá_ on a trip to the beach-side city of Nha Trang. 
+Be sure to try _bún chả cá_ on a trip to the beach-side city of Nha Trang.
 _Bún chả cá_ is a dish with many variations depending on where you find it. They all contain spaghetti-like rice vermicelli (_bún_), fish cakes (_chả cá_) and fresh herbs, with a little local twist. Pictured above,  _bún chả cá Nha Trang_ , from the central coastal city has the basic ingredients, plus bouncy squid cakes, dill, fried green onion and tomato, for a light and sour flavour. Slurp it up with a side of greens and a squeeze of lime.
 **Try it:** Bún Cá Mịn 170 Bạch Đằng, Tân Lập, Nha Trang
 * * *
@@ -235,7 +237,7 @@ A seared, crispy, leafy layer encases minced beef, garlic and shallots, sealing 
 ![Che by Jason Zullo Top 21 Dishes](https://www.vietnam.travel/sites/default/files/inline-images/Must%20try%20Vietnamese%20Dishes-3.jpg)
 Colourful varieties of cold  _chè_ are especially popular during the hot months
 _Chè_ is a sweet dessert, served either hot or cold and in the form of a pudding or dessert soup. Cold _chè_ is filled with jellied ingredients and tropical fruits such as bananas, mangoes and longan, usually doused in coconut cream. Always a textural adventure, you'll be surprised to encounter coconut shreds, crushed ice, lotus seed and jellies in these syrupy snacks. The beautiful three-coloured dessert, _chè ba màu_ is often called the rainbow dessert. This is a layered spectacle of red beans, mashed mung beans and pandan jelly, topped with crushed ice and coconut milk.
-**Try it:** Che 95, 95 Hang Bac, Hoan Kiem, Hanoi 
+**Try it:** Che 95, 95 Hang Bac, Hoan Kiem, Hanoi
 * * *
 #### **Want more Vietnam travel ideas?[Sign up for our newsletter](http://eepurl.com/dJjCsD) to receive our best stories in your inbox.**
 ## read more
@@ -244,24 +246,22 @@ _Chè_ is a sweet dessert, served either hot or cold and in the form of a puddin
   * [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2018-09/Desserts%20of%20Vietnam%20Banner-3.jpg?itok=BewLzTbF) 15 dreamy desserts to try in Vietnam](https://www.vietnam.travel/things-to-do/15-dreamy-desserts-try-vietnam)
 
 
-  1. You are here: 
+  1. You are here:
   2. [Home](https://www.vietnam.travel/)
   3. [Things to do](https://www.vietnam.travel/things-to-do)
   4. [Culture](https://www.vietnam.travel/taxonomy/term/16) - [Food & Drinks](https://www.vietnam.travel/taxonomy/term/21) -
   5. [21 must-try Vietnamese dishes](https://www.vietnam.travel/things-to-do/21-must-try-vietnamese-dishes)
 
 
-
-
 #### Sign up for our newsletter
 
-    Receive new travel stories from Vietnam once a month in your inbox.     
-Sign Up 
+    Receive new travel stories from Vietnam once a month in your inbox.
+Sign Up
 
 
 #### USEFUL LINKS
 
-    
+
   * [Visas for Vietnam](https://www.vietnam.travel/plan-your-trip/visa-requirements "Visas for Vietnam")
   * [Beginner Guide](https://vietnam.travel/sites/default/files/2021-03/Beginner%27s%20Guide%20to%20Vietnam%20NOW.pdf "Beginner Guide")
   * [FAQs](https://www.vietnam.travel/faqs "FAQs")
@@ -270,22 +270,20 @@ Sign Up
   * [Industry Resources](https://vietnam.travel/sites/default/files/2021-05/Vietnam%20Tourism%20Resources.pdf "Industry Resources")
 
 
-
-
 #### Follow us on
 
-    
+
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-2_4.jpg)](https://www.facebook.com/vietnamtourismboard/ "Facebook")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-3_6.jpg)](https://www.youtube.com/vietnamtourismboard/ "Youtube")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-4_4.jpg)](https://www.instagram.com/vietnamtourismboard/ "Instagram")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web_4.jpg)](https://www.pinterest.com/vietnamtourismboard/ "Pinterest")
   * [![](https://image.vietnam.travel/sites/default/files/2021-02/Vietnam%20tourism.jpg)](https://www.tiktok.com/@vietnamtourismboard?lang=en "TikTok")
 
-    
+
 Welcome to the official website of Viet Nam National Authority of Tourism. Visit our social media pages for more travel inspiration.
 [![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/logo-bw.png)](https://vietnamtourism.gov.vn/en)
 [ ![Chung nhan Tin Nhiem Mang](https://tinnhiemmang.vn/handle_cert?id=vietnam.travel) ](https://tinnhiemmang.vn/danh-ba-tin-nhiem/vietnamtravel-1717729146 "Chung nhan Tin Nhiem Mang")
-Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you! 
+Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you!
 [Back to top![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/icon-arrow-up.png)](https://www.vietnam.travel/things-to-do/21-must-try-vietnamese-dishes/)
   * © 2016 Official Website Vietnam Tourism
   * Email: contact@vietnamtourism.gov.vn
@@ -317,9 +315,9 @@ submit
 By clicking submit, you agree to our[Privacy Policy](https://www.vietnam.travel/node/153)and[Terms of Use](https://www.vietnam.travel/things-to-do/21-must-try-vietnamese-dishes/node/155)
 [×Close](https://www.vietnam.travel/things-to-do/21-must-try-vietnamese-dishes/)
 ## oops
-The entered email has subscribed for Vietnam Tourism monthly newsletter 
+The entered email has subscribed for Vietnam Tourism monthly newsletter
 ×
 ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/popup_v4.jpg)
 Subscribe
-Thank you for subscribing to [www.vietnam.travel](https://www.vietnam.travel/things-to-do/21-must-try-vietnamese-dishes/www.vietnam.travel), you have entered our contest. Happy Holidays! 
+Thank you for subscribing to [www.vietnam.travel](https://www.vietnam.travel/things-to-do/21-must-try-vietnamese-dishes/www.vietnam.travel), you have entered our contest. Happy Holidays!
 ShareThis Copy and Paste

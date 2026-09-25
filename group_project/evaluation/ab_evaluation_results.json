@@ -1,0 +1,227 @@
+[
+  {
+    "question": "Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa theo Nghị định 168/2017/NĐ-CP là bao nhiêu?",
+    "dense_only": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.5621643310766771,
+      "context_recall": 1.0,
+      "context_precision": 0.9999999999
+    },
+    "hybrid_rrf": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.5621643310766771,
+      "context_recall": 1.0,
+      "context_precision": 0.699999999965
+    }
+  },
+  {
+    "question": "Một khu du lịch quốc gia phải có ít nhất bao nhiêu tài nguyên du lịch?",
+    "dense_only": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.45734999416565997,
+      "context_recall": 1.0,
+      "context_precision": 0.99999999995
+    },
+    "hybrid_rrf": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.45734999416565997,
+      "context_recall": 1.0,
+      "context_precision": 0.999999999975
+    }
+  },
+  {
+    "question": "Luật Du lịch điều chỉnh những nội dung nào ngoài hoạt động du lịch?",
+    "dense_only": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.49242996589557947,
+      "context_recall": 1.0,
+      "context_precision": 0.8055555555287036
+    },
+    "hybrid_rrf": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.49242996589557947,
+      "context_recall": 1.0,
+      "context_precision": 0.8041666666465626
+    }
+  },
+  {
+    "question": "Quy hoạch hệ thống du lịch được phê duyệt cho giai đoạn nào và có tầm nhìn đến năm nào?",
+    "dense_only": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.4357508636613106,
+      "context_recall": 1.0,
+      "context_precision": 0.99999999998
+    },
+    "hybrid_rrf": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.4357508636613106,
+      "context_recall": 1.0,
+      "context_precision": 0.99999999998
+    }
+  },
+  {
+    "question": "Nghị định 348/2025/NĐ-CP bãi bỏ cụm từ nào tại Điều 6?",
+    "dense_only": {
+      "faithfulness": 0.5,
+      "answer_relevancy": 0.6001877862744313,
+      "context_recall": 1.0,
+      "context_precision": 0.9999999999
+    },
+    "hybrid_rrf": {
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.5862562279201192,
+      "context_recall": 1.0,
+      "context_precision": 0.9999999999
+    }
+  },
+  {
+    "question": "Theo kế hoạch thực hiện quy hoạch du lịch, nhiệm vụ chuyển đổi số trong ngành du lịch được thực hiện trong thời gian nào?",
+    "dense_only": {
+      "faithfulness": 0.6666666666666666,
+      "answer_relevancy": 0.0,
+      "context_recall": 1.0,
+      "context_precision": 0.999999999975
+    },
+    "hybrid_rrf": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.4761531151473841,
+      "context_recall": 1.0,
+      "context_precision": 0.8874999999778125
+    }
+  },
+  {
+    "question": "Du khách muốn đến gần các khối đá vôi ở Vịnh Hạ Long nên chọn hoạt động nào?",
+    "dense_only": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.5419967802396564,
+      "context_recall": 1.0,
+      "context_precision": 0.19999999998
+    },
+    "hybrid_rrf": {
+      "faithfulness": 0.75,
+      "answer_relevancy": 0.5210105706644627,
+      "context_recall": 0.0,
+      "context_precision": 0.9999999999
+    }
+  },
+  {
+    "question": "Món mì nào có nước dùng đỏ cay được bài viết gắn với Huế?",
+    "dense_only": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.5699223956942123,
+      "context_recall": 1.0,
+      "context_precision": 0.9999999999
+    },
+    "hybrid_rrf": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.5699223956942123,
+      "context_recall": 1.0,
+      "context_precision": 0.49999999995
+    }
+  },
+  {
+    "question": "Món mì Quảng được khuyến nghị trải nghiệm vào thời điểm nào và ở đâu?",
+    "dense_only": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.50793055595591,
+      "context_recall": 1.0,
+      "context_precision": 0.7499999999625
+    },
+    "hybrid_rrf": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.50793055595591,
+      "context_recall": 1.0,
+      "context_precision": 0.49999999995
+    }
+  },
+  {
+    "question": "Món cá kho tộ có màu sẫm đặc trưng từ nguyên liệu gì?",
+    "dense_only": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.754516980134509,
+      "context_recall": 1.0,
+      "context_precision": 0.9999999999
+    },
+    "hybrid_rrf": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.7545165799327824,
+      "context_recall": 1.0,
+      "context_precision": 0.9999999999
+    }
+  },
+  {
+    "question": "Bánh chưng được người Việt làm vào dịp nào để nhắc về cội nguồn?",
+    "dense_only": {
+      "faithfulness": 0.6666666666666666,
+      "answer_relevancy": 0.6802310384700552,
+      "context_recall": 1.0,
+      "context_precision": 0.99999999995
+    },
+    "hybrid_rrf": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.6835096404876589,
+      "context_recall": 1.0,
+      "context_precision": 0.499999999975
+    }
+  },
+  {
+    "question": "Địa điểm tâm linh nào ở Nha Trang nằm dưới chân núi Trại Thủy?",
+    "dense_only": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.6382876213610246,
+      "context_recall": 1.0,
+      "context_precision": 0.99999999995
+    },
+    "hybrid_rrf": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.6344877833254491,
+      "context_recall": 1.0,
+      "context_precision": 0.99999999995
+    }
+  },
+  {
+    "question": "Chợ chính của Nha Trang có đặc điểm kiến trúc mái như thế nào?",
+    "dense_only": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.6462019215992141,
+      "context_recall": 1.0,
+      "context_precision": 0.9999999999
+    },
+    "hybrid_rrf": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.6952370792130721,
+      "context_recall": 1.0,
+      "context_precision": 0.49999999995
+    }
+  },
+  {
+    "question": "Đảo nào được gọi là Pearl Island và hơn một nửa diện tích được bảo vệ bởi Khu dự trữ sinh quyển UNESCO từ năm 2006?",
+    "dense_only": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.4979948087126698,
+      "context_recall": 1.0,
+      "context_precision": 0.9999999999
+    },
+    "hybrid_rrf": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.5810333521384657,
+      "context_recall": 1.0,
+      "context_precision": 0.9999999999
+    }
+  },
+  {
+    "question": "Kế hoạch thực hiện quy hoạch du lịch cho biết quy hoạch được Thủ tướng phê duyệt tại quyết định nào?",
+    "dense_only": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.3448775741992176,
+      "context_recall": 1.0,
+      "context_precision": 0.32499999998375
+    },
+    "hybrid_rrf": {
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.4430423892100102,
+      "context_recall": 1.0,
+      "context_precision": 0.99999999995
+    }
+  }
+]

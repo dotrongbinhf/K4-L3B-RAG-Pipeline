@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-25T04:35:18.570432+00:00
 
+**Landing file:** `data/landing/news/article_12.json`
+
 ---
 
 Must-do Da Nang: An insider list | Vietnam Tourism
@@ -94,9 +96,9 @@ Must-do Da Nang: An insider list | Vietnam Tourism
 
 SEARCH
   * ![](https://image.vietnam.travel/sites/default/files/styles/top_banner/public/2019-05/what%20to%20do%20in%20danang.jpg?itok=TLEPezRX)
-#  Must-do Da Nang:   
+#  Must-do Da Nang:
 An insider's list
-43 Factory coffee shop in Danang. All photos by Christian Berg 
+43 Factory coffee shop in Danang. All photos by Christian Berg
 
 
   * [](javascript:void\(0\);)
@@ -106,7 +108,7 @@ An insider's list
 
 
 ## Whatever you expect from [Da Nang](https://vietnam.travel/places-to-go/central-vietnam/da-nang), you’re in for a surprise. Framed by mountains and embraced by the Han River and the East Sea, Da Nang is a rising star in the region. There’s a lot to take in.
-## The sandy sweep of My Khe beach — lined with new hotels, seafood halls and fishing boats — leads the eye to where the statue of Linh Ung stands serenely overlooking the waves. The old city centre with its overflowing markets and hushed pagodas still functions, just a few streets away from hipster cafes and design boutiques. Just when you think it’s all breathless forward motion, a moment of local life peels back the paint to reveal Da Nang’s easy, laidback culture. Here’s how to nail your first visit. 
+## The sandy sweep of My Khe beach — lined with new hotels, seafood halls and fishing boats — leads the eye to where the statue of Linh Ung stands serenely overlooking the waves. The old city centre with its overflowing markets and hushed pagodas still functions, just a few streets away from hipster cafes and design boutiques. Just when you think it’s all breathless forward motion, a moment of local life peels back the paint to reveal Da Nang’s easy, laidback culture. Here’s how to nail your first visit.
 * * *
 ### Hit the beach
 ![da nang beaches](https://vietnam.travel/sites/default/files/inline-images/danang%20best%20beaches.jpg)
@@ -123,12 +125,12 @@ Every Vietnamese city has its favourite cafes. Some are for long, long catch-ups
 * * *
 ### Soak up some culture at Cham Museum
 ![cham musuem danang](https://vietnam.travel/sites/default/files/inline-images/da%20nang%20top%20attractions.jpg)
-Museum lovers, you’re in luck. The **Cham Museum of Sculpture** , one of the country’s top museums, claims a breezy spot along the western Han riverbank. You don’t have to be into archeology to appreciate the beauty of these stone pieces, sourced from former Champa sites in My Son, Tra Kieu, Dong Duong and Thap Mam. The original building, dating back to 1915 and expanded in the 1930s and 2002, is a work of art in itself. 
+Museum lovers, you’re in luck. The **Cham Museum of Sculpture** , one of the country’s top museums, claims a breezy spot along the western Han riverbank. You don’t have to be into archeology to appreciate the beauty of these stone pieces, sourced from former Champa sites in My Son, Tra Kieu, Dong Duong and Thap Mam. The original building, dating back to 1915 and expanded in the 1930s and 2002, is a work of art in itself.
 * * *
 ### Sample Quang Nam specialties
 ![danang best restaurants](https://vietnam.travel/sites/default/files/inline-images/villangondanang.jpg)
 We hope you come hungry (or ravenous) because Da Nang’s cuisine is a showcase of Central Vietnam’s top hits. Don’t miss a bowl of life-changing **_mì Quảng_** noodles in peanut and pork broth, savoury [Hue dumplings](https://vietnam.travel/things-to-do/how-eat-local-hue) such as **_bánh bèo_** and **_bánh nậm_** , and aromatic fish paddies and slurp-worthy noodles in ** _bún chả cá._**
-> TIP: Set in a beautiful green courtyard, **Villa Ngon** serves an excellent, all-you-can-eat menu of delicate Vietnamese dishes for lunch and dinner. 
+> TIP: Set in a beautiful green courtyard, **Villa Ngon** serves an excellent, all-you-can-eat menu of delicate Vietnamese dishes for lunch and dinner.
 * * *
 ### Take a stroll down Bach Dang St.
 ![what to do in danang](https://vietnam.travel/sites/default/files/inline-images/top%20things%20to%20do%20in%20danang-4.jpg)
@@ -136,11 +138,11 @@ Here’s a mini walking tour you can do yourself. Start from the junction of **B
 * * *
 ### Hoof it over Hai Van Pass
 ![hai van pass](https://vietnam.travel/sites/default/files/inline-images/haivanpass_1.jpg)
-The name **Hai Van** translates into ‘ocean cloud’, so — surprise, surprise — you can expect a lot of ocean views and misty peaks on this 21km stretch of asphalt that climbs, twists and snakes its way over the mountains into Hue. At its highest point, Hai Van Pass reaches 496 metres above sea level. [Motorbike](https://vietnam.travel/things-to-do/motorbiking-hoi-an-hue-over-hai-van-pass) is the ideal to take in the spectacular coastal scenery: jade seas, jungle-covered hills and rocky outcrops. Feeling adventurous? You can also cycle or ride the train. 
+The name **Hai Van** translates into ‘ocean cloud’, so — surprise, surprise — you can expect a lot of ocean views and misty peaks on this 21km stretch of asphalt that climbs, twists and snakes its way over the mountains into Hue. At its highest point, Hai Van Pass reaches 496 metres above sea level. [Motorbike](https://vietnam.travel/things-to-do/motorbiking-hoi-an-hue-over-hai-van-pass) is the ideal to take in the spectacular coastal scenery: jade seas, jungle-covered hills and rocky outcrops. Feeling adventurous? You can also cycle or ride the train.
 * * *
 ### Try avocado ice-cream
 ![danang vietnam tourism](https://vietnam.travel/sites/default/files/inline-images/danang%20inside%20guide-3.jpg)
-**Cho Bac My An** is a small-ish market in Da Nang filled with tidy stalls piled high with fruits, vegetables, dry goods and more. Duck inside the market to locate one special **avocado ice-cream** (kem bơ) stall, loved by Da Nang’s youngsters for its creamy, cold coconut and avocado slush topped with jackfruit crisps. 
+**Cho Bac My An** is a small-ish market in Da Nang filled with tidy stalls piled high with fruits, vegetables, dry goods and more. Duck inside the market to locate one special **avocado ice-cream** (kem bơ) stall, loved by Da Nang’s youngsters for its creamy, cold coconut and avocado slush topped with jackfruit crisps.
 * * *
 ### See the city's best bridges
 ![top things to do danang](https://vietnam.travel/sites/default/files/inline-images/top%20things%20to%20do%20in%20danang-2.jpg)
@@ -162,24 +164,22 @@ Da Nang has no shortage of breathtaking bars and swimming pools perched high abo
   * [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2019-04/outdoor%20activities%20vietnam%20tourism-9.jpg?itok=5H5xvG1Z) Vietnam's best outdoor activities](https://vietnam.travel/things-to-do/vietnams-best-outdoor-activities)
 
 
-  1. You are here: 
+  1. You are here:
   2. [Home](https://vietnam.travel/)
   3. [Things to do](https://vietnam.travel/things-to-do)
   4. [Beaches](https://vietnam.travel/taxonomy/term/15) - [Shopping & Entertainment](https://vietnam.travel/taxonomy/term/23) -
   5. [Must-do Da Nang: An insider list](https://vietnam.travel/things-to-do/must-do-da-nang-an-insider-list)
 
 
-
-
 #### Sign up for our newsletter
 
-    Receive new travel stories from Vietnam once a month in your inbox.     
-Sign Up 
+    Receive new travel stories from Vietnam once a month in your inbox.
+Sign Up
 
 
 #### USEFUL LINKS
 
-    
+
   * [Visas for Vietnam](https://vietnam.travel/plan-your-trip/visa-requirements "Visas for Vietnam")
   * [Beginner Guide](https://vietnam.travel/sites/default/files/2021-03/Beginner%27s%20Guide%20to%20Vietnam%20NOW.pdf "Beginner Guide")
   * [FAQs](https://vietnam.travel/faqs "FAQs")
@@ -188,22 +188,20 @@ Sign Up
   * [Industry Resources](https://vietnam.travel/sites/default/files/2021-05/Vietnam%20Tourism%20Resources.pdf "Industry Resources")
 
 
-
-
 #### Follow us on
 
-    
+
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-2_4.jpg)](https://www.facebook.com/vietnamtourismboard/ "Facebook")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-3_6.jpg)](https://www.youtube.com/vietnamtourismboard/ "Youtube")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-4_4.jpg)](https://www.instagram.com/vietnamtourismboard/ "Instagram")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web_4.jpg)](https://www.pinterest.com/vietnamtourismboard/ "Pinterest")
   * [![](https://image.vietnam.travel/sites/default/files/2021-02/Vietnam%20tourism.jpg)](https://www.tiktok.com/@vietnamtourismboard?lang=en "TikTok")
 
-    
+
 Welcome to the official website of Viet Nam National Authority of Tourism. Visit our social media pages for more travel inspiration.
 [![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/logo-bw.png)](https://vietnamtourism.gov.vn/en)
 [ ![Chung nhan Tin Nhiem Mang](https://tinnhiemmang.vn/handle_cert?id=vietnam.travel) ](https://tinnhiemmang.vn/danh-ba-tin-nhiem/vietnamtravel-1717729146 "Chung nhan Tin Nhiem Mang")
-Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you! 
+Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you!
 [Back to top![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/icon-arrow-up.png)](https://vietnam.travel/node/861)
   * © 2016 Official Website Vietnam Tourism
   * Email: contact@vietnamtourism.gov.vn
@@ -235,9 +233,9 @@ submit
 By clicking submit, you agree to our[Privacy Policy](https://vietnam.travel/node/153)and[Terms of Use](https://vietnam.travel/node/node/155)
 [×Close](https://vietnam.travel/node/861)
 ## oops
-The entered email has subscribed for Vietnam Tourism monthly newsletter 
+The entered email has subscribed for Vietnam Tourism monthly newsletter
 ×
 ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/popup_v4.jpg)
 Subscribe
-Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/node/www.vietnam.travel), you have entered our contest. Happy Holidays! 
+Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/node/www.vietnam.travel), you have entered our contest. Happy Holidays!
 ShareThis Copy and Paste

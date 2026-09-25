@@ -4,6 +4,8 @@
 
 **Crawled:** 2026-09-25T04:32:44.606022+00:00
 
+**Landing file:** `data/landing/news/article_06.json`
+
 ---
 
 Ha Noi | Vietnam Tourism
@@ -109,7 +111,7 @@ SEARCH
 
 
 Overview Gallery You may also like Nearby places
-## Founded over 1000 years ago, Vietnam’s capital city is rich in history, with the streets of its rambling Old Quarter dating back to the 14th century. Wandering these tree-lined lanes past crumbling colonial facades will transport you back in time. However, today's Hanoi is about much more than the past. The ancient city is being invigorated with modern cafes, world-class restaurants, and cool art galleries. When the sun goes down, you have your pick of watering holes, from sophisticated rooftop bars to buzzing bia hơi. If you're traveling to Hanoi for the first time, these are**experiences** you must try at least once in your life. From ancient temples to buzzing markets, Hanoi's got it all. It's basically the cultural heartbeat of Vietnam. 
+## Founded over 1000 years ago, Vietnam’s capital city is rich in history, with the streets of its rambling Old Quarter dating back to the 14th century. Wandering these tree-lined lanes past crumbling colonial facades will transport you back in time. However, today's Hanoi is about much more than the past. The ancient city is being invigorated with modern cafes, world-class restaurants, and cool art galleries. When the sun goes down, you have your pick of watering holes, from sophisticated rooftop bars to buzzing bia hơi. If you're traveling to Hanoi for the first time, these are**experiences** you must try at least once in your life. From ancient temples to buzzing markets, Hanoi's got it all. It's basically the cultural heartbeat of Vietnam.
 #### Click the image below for a 360-degree tour of Hanoi
 [ ![](https://image.vietnam.travel/sites/default/files/360Tour/HaNoi/socialThumbnail2.jpg) ](https://vietnam.travel/sites/default/files/360Tour/HaNoi/index.htm)
 * * *
@@ -121,14 +123,14 @@ Hanoi’s Old Quarter serves up a sensory overload. Wisps of incense drift out o
 **Explore Hanoi's cafe culture**
 Fast-paced on the surface, the true rhythm of Hanoi life is far from hurried and is reflected well in its leisurely coffee hours. Alongside traditional coffee houses, an ever-growing band of unique cafes serve new brews in cool caffeine dens.
 **Check out the art scene**
-Hanoi is Vietnam’s art capital. The elegant Fine Arts Museum houses the country’s foremost collection, such as ancient Cham artifacts and impressionist pieces. For something more contemporary, head for Manzi or the Vietnam Art Gallery. 
+Hanoi is Vietnam’s art capital. The elegant Fine Arts Museum houses the country’s foremost collection, such as ancient Cham artifacts and impressionist pieces. For something more contemporary, head for Manzi or the Vietnam Art Gallery.
 **Join the locals at Hoan Kiem Lake**
 Hoan Kiem Lake rests in the heart of Hanoi. Every morning it comes alive with walkers, aerobics classes, and even a laughing yoga group; and bursts back into activity at sunset, thronged with locals taking in the evening air.
 * * *
 * * *
 ##### Ha Noi Weather
 Hanoi is most inviting from April to June, but the capital is particularly beautiful in May when trees suddenly come into bloom. September and October are also excellent months to visit as temperatures cool and the sky clears.
-#####  Ha Noi Transport 
+#####  Ha Noi Transport
 Vietnam’s capital is served by Noi Bai international airport, 45km from the city centre. The Reunification Express line has trains to many major destinations including Lao Cai (Sapa) and Dong Hoi (Phong Nha.) There are many options for getting around Hanoi, including taxis, buses, and motorbikes. Grab, and a few other ride-hailing apps offer on-demand services for getting around. Hanoi’s bus network has an extensive network around the city and low-cost fare. Finally, the classic cyclo can be hired to take you around the Old Quarter on a sightseeing tour.
 ## Gallery
   * [ ![](https://image.vietnam.travel/sites/default/files/styles/article_photo_large/public/2021-05/Hanoi%20Old%20Quarter%20Vietnam%20Tourism.jpg?itok=hYpPic5P) ](https://vietnam.travel/node/95)
@@ -159,24 +161,22 @@ Vietnam’s capital is served by Noi Bai international airport, 45km from the ci
   * [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2021-05/Ha%20Giang%20Travel%20Guide%20Vietnam%20Tourism.jpg?itok=4xUQt3Za)Ha Giang](https://vietnam.travel/places-to-go/northern-vietnam/ha-giang)
 
 
-  1. You are here: 
+  1. You are here:
   2. [Home](https://vietnam.travel/)
   3. [Places To Go](https://vietnam.travel/place-to-go)
   4. [Northern Vietnam](https://vietnam.travel/places-to-go/northern-vietnam)
   5. [Ha Noi](https://vietnam.travel/places-to-go/northern-vietnam/ha-noi)
 
 
-
-
 #### Sign up for our newsletter
 
-    Receive new travel stories from Vietnam once a month in your inbox.     
-Sign Up 
+    Receive new travel stories from Vietnam once a month in your inbox.
+Sign Up
 
 
 #### USEFUL LINKS
 
-    
+
   * [Visas for Vietnam](https://vietnam.travel/plan-your-trip/visa-requirements "Visas for Vietnam")
   * [Beginner Guide](https://vietnam.travel/sites/default/files/2021-03/Beginner%27s%20Guide%20to%20Vietnam%20NOW.pdf "Beginner Guide")
   * [FAQs](https://vietnam.travel/faqs "FAQs")
@@ -185,22 +185,20 @@ Sign Up
   * [Industry Resources](https://vietnam.travel/sites/default/files/2021-05/Vietnam%20Tourism%20Resources.pdf "Industry Resources")
 
 
-
-
 #### Follow us on
 
-    
+
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-2_4.jpg)](https://www.facebook.com/vietnamtourismboard/ "Facebook")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-3_6.jpg)](https://www.youtube.com/vietnamtourismboard/ "Youtube")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-4_4.jpg)](https://www.instagram.com/vietnamtourismboard/ "Instagram")
   * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web_4.jpg)](https://www.pinterest.com/vietnamtourismboard/ "Pinterest")
   * [![](https://image.vietnam.travel/sites/default/files/2021-02/Vietnam%20tourism.jpg)](https://www.tiktok.com/@vietnamtourismboard?lang=en "TikTok")
 
-    
+
 Welcome to the official website of Viet Nam National Authority of Tourism. Visit our social media pages for more travel inspiration.
 [![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/logo-bw.png)](https://vietnamtourism.gov.vn/en)
 [ ![Chung nhan Tin Nhiem Mang](https://tinnhiemmang.vn/handle_cert?id=vietnam.travel) ](https://tinnhiemmang.vn/danh-ba-tin-nhiem/vietnamtravel-1717729146 "Chung nhan Tin Nhiem Mang")
-Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you! 
+Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you!
 [Back to top![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/icon-arrow-up.png)](https://vietnam.travel/node/95)
   * © 2016 Official Website Vietnam Tourism
   * Email: contact@vietnamtourism.gov.vn
@@ -232,9 +230,9 @@ submit
 By clicking submit, you agree to our[Privacy Policy](https://vietnam.travel/node/153)and[Terms of Use](https://vietnam.travel/node/node/155)
 [×Close](https://vietnam.travel/node/95)
 ## oops
-The entered email has subscribed for Vietnam Tourism monthly newsletter 
+The entered email has subscribed for Vietnam Tourism monthly newsletter
 ×
 ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/popup_v4.jpg)
 Subscribe
-Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/node/www.vietnam.travel), you have entered our contest. Happy Holidays! 
+Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/node/www.vietnam.travel), you have entered our contest. Happy Holidays!
 ShareThis Copy and Paste

@@ -1,6 +1,8 @@
 import streamlit as st
 from dotenv import load_dotenv
 
+from src.task10_generation import generate_with_citation
+
 
 load_dotenv()
 
@@ -19,12 +21,31 @@ with st.sidebar:
     top_k = st.slider("Số chunks", 3, 10, 5)
 
 st.title("RAG Chatbot")
-st.caption("Thay tiêu đề và hướng dẫn sử dụng")
+st.caption("Hỏi đáp dựa trên corpus du lịch Việt Nam và văn bản pháp lý liên quan.")
+
+
+def render_sources(sources: list[dict]) -> None:
+    """Render the retrieval evidence attached to a generated answer."""
+    if not sources:
+        return
+    with st.expander("Nguồn tham khảo", expanded=False):
+        for index, source in enumerate(sources, start=1):
+            metadata = source["metadata"]
+            title = metadata.get("title") or metadata["source"]
+            score = float(source["score"])
+            st.markdown(
+                f"**[{index}] {title}**  \n"
+                f"Nguồn: `{metadata['source']}` · "
+                f"Phương thức: `{source['retrieval_method']}` · "
+                f"Điểm: `{score:.3f}`"
+            )
+            if metadata.get("url"):
+                st.markdown(f"URL: {metadata['url']}")
 
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
-        # TODO: Hiển thị sources và retrieval score.
+        render_sources(message.get("sources", []))
 
 query = st.chat_input("Nhập câu hỏi...")
 
@@ -35,11 +56,16 @@ if query:
         st.markdown(query)
 
     with st.chat_message("assistant"):
-        # TODO: Gọi generate_with_citation(query, top_k).
-        answer = "TODO: Itegration RAG Pipeline hêre"
-        sources = []
+        result = generate_with_citation(query, top_k=top_k)
+        answer = result["answer"]
+        sources = result["sources"]
         st.markdown(answer)
+        render_sources(sources)
 
-        # TODO: Hiển thị sources và citation.
-
-    # TODO: Lưu answer và sources vào session state.
+    st.session_state.messages.append(
+        {
+            "role": "assistant",
+            "content": answer,
+            "sources": sources,
+        }
+    )

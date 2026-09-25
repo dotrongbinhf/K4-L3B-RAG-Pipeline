@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa theo Nghị định 168/2017/NĐ-CP là bao nhiêu?",
+    "expected_answer": "100.000.000 (một trăm triệu) đồng.",
+    "expected_context": "1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 100.000.000 (một\ntrăm triệu) đồng."
+  },
+  {
+    "question": "Một khu du lịch quốc gia phải có ít nhất bao nhiêu tài nguyên du lịch?",
+    "expected_answer": "Ít nhất 02 tài nguyên du lịch, trong đó có tài nguyên du lịch cấp quốc gia.",
+    "expected_context": "1. Có ít nhất 02 tài nguyên du lịch, trong đó có tài nguyên du lịch cấp quốc\n\ngia; có ranh giới xác định trên bản đồ địa hình do cơ quan có thâm quyền xác\nnhận."
+  },
+  {
+    "question": "Luật Du lịch điều chỉnh những nội dung nào ngoài hoạt động du lịch?",
+    "expected_answer": "Tài nguyên du lịch, phát triển sản phẩm du lịch, quyền và nghĩa vụ của khách du lịch, kinh doanh du lịch và quản lý nhà nước về du lịch.",
+    "expected_context": "Luật này quy định. về tài nguyên du lịch, phát triển sản phẩm du lịch và\nhoạt động du lịch; quyền, nghĩa vụ của khách du lịch, tổ chức, cá nhân kinh\ndoanh đu lịch, cơ quan, tổ chức, cá nhân khác, cộng đồng dân cư có hoạt động\nliên quan đến du lịch; quản lý nhà nước về du lịch."
+  },
+  {
+    "question": "Quy hoạch hệ thống du lịch được phê duyệt cho giai đoạn nào và có tầm nhìn đến năm nào?",
+    "expected_answer": "Thời kỳ 2021 - 2030, tầm nhìn đến năm 2045.",
+    "expected_context": "Điều 1. Phê duyệt Quy hoạch hệ thống du lịch thời kỳ 2021 - 2030,\ntầm nhìn đến năm 2045, với những nội dung sau:"
+  },
+  {
+    "question": "Nghị định 348/2025/NĐ-CP bãi bỏ cụm từ nào tại Điều 6?",
+    "expected_answer": "Bãi bỏ cụm từ “khoản 7” tại khoản 8.",
+    "expected_context": "Điều 1. Bãi bỏ cụm từ tại Điều 6\n\nBãi bỏ cum từ “khoản 7” tại khoản 8."
+  },
+  {
+    "question": "Theo kế hoạch thực hiện quy hoạch du lịch, nhiệm vụ chuyển đổi số trong ngành du lịch được thực hiện trong thời gian nào?",
+    "expected_answer": "2021 - 2030.",
+    "expected_context": "1 | Chuyển đôi số trong ngành du lịch | Bộ Văn hóa, | Các bộ, ngành | 2021 - 2030\nThé thao và | và UBND các\nDu lịch tỉnh, thành\nphố trực\nthuộc TW"
+  },
+  {
+    "question": "Du khách muốn đến gần các khối đá vôi ở Vịnh Hạ Long nên chọn hoạt động nào?",
+    "expected_answer": "Chèo kayak quanh các karst.",
+    "expected_context": "Whatever your travel style, be sure to hop off the cruise for an afternoon to kayak around the karsts. A kayak is the best way to get up close to the limestone formations, and their small size allows for the most autonomy and adventure."
+  },
+  {
+    "question": "Món mì nào có nước dùng đỏ cay được bài viết gắn với Huế?",
+    "expected_answer": "Bún bò Huế.",
+    "expected_context": "Huế is famous for its imperial legacy as well as its spicy food. No trip to Huế is complete without sitting on a sidewalk, slurping up every last drop of the rich, red spicy broth of a _bún bò Huế_ (Huế beef noodles.)"
+  },
+  {
+    "question": "Món mì Quảng được khuyến nghị trải nghiệm vào thời điểm nào và ở đâu?",
+    "expected_answer": "Ăn một tô mì Quảng vào sáng sớm tại một quán ngẫu nhiên ở Hội An.",
+    "expected_context": "Stopping at a random vendor in Hội An for an early-morning bowl of _mì Quảng_ is a must-have experience."
+  },
+  {
+    "question": "Món cá kho tộ có màu sẫm đặc trưng từ nguyên liệu gì?",
+    "expected_answer": "Đường caramel hóa.",
+    "expected_context": "_Cá kho tộ_ (claypot fish) gets its distinctive dark colour from caramelised sugar."
+  },
+  {
+    "question": "Bánh chưng được người Việt làm vào dịp nào để nhắc về cội nguồn?",
+    "expected_answer": "Vào mỗi dịp Tết (Lunar New Year).",
+    "expected_context": "Vietnamese families still gather every Tết (Lunar New Year) to make _bánh chưng_ as a reminder of our roots."
+  },
+  {
+    "question": "Địa điểm tâm linh nào ở Nha Trang nằm dưới chân núi Trại Thủy?",
+    "expected_answer": "Chùa Long Sơn.",
+    "expected_context": "To appreciate the city’s spiritual side, head to the Long Sơn Pagoda. This Buddhist temple at the base of Trại Thủy mountain is one of Nha Trang’s main tourist attractions."
+  },
+  {
+    "question": "Chợ chính của Nha Trang có đặc điểm kiến trúc mái như thế nào?",
+    "expected_answer": "Tòa nhà hai tầng hình tròn có mái “unfolding” trông như hoa sen sắp nở.",
+    "expected_context": "For an immersive, authentic experience of market shopping in Vietnam, head to the bustling two-story Dam Market. With its ‘unfolding’ roof, the circular-shaped building resembles a lotus flower about to bloom. This is Nha Trang’s main market, so it gets busy – especially in the early mornings and evenings. Apparently, some 1 000 people pass here each day. Locals go to buy their fresh produce for the next family meal. But the many stalls also sell other household goods, clothing, and even souvenirs."
+  },
+  {
+    "question": "Đảo nào được gọi là Pearl Island và hơn một nửa diện tích được bảo vệ bởi Khu dự trữ sinh quyển UNESCO từ năm 2006?",
+    "expected_answer": "Phú Quốc.",
+    "expected_context": "## Phu Quoc's gleaming white sand beaches have earned it the nickname [Pearl Island ](https://www.asiatouradvisor.com/phu-quoc-itinerary/?utm_source=vietnam.travel&utm_medium=referral&utm_campaign=phuquoc), but the island's environmental conservation efforts and cultural heritage deserve as much attention as its picturesque sand and surf. Fishing and agriculture remain primary industries, and more than half the laid-back island has been protected by a UNESCO Biosphere Reserve since 2006."
+  },
+  {
+    "question": "Kế hoạch thực hiện quy hoạch du lịch cho biết quy hoạch được Thủ tướng phê duyệt tại quyết định nào?",
+    "expected_answer": "Quyết định số 509/QĐ-TTg ngày 13 tháng 6 năm 2024.",
+    "expected_context": "a) Quan triệt và triển khai thực hiện Quy hoạch hệ thống du lịch thời kỳ\n2021 - 2030, tâm nhìn đến năm 2045 được Thủ tướng Chính phủ phê duyệt\ntại Quyết định số 509/QĐ-TTg ngày 13 tháng 6 năm 2024 (sau đây viết tắt là\nQuy hoạch hệ thống du lịch) bảo đảm hiệu quả, hiệu lực."
+  }
+]
