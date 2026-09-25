@@ -2,13 +2,14 @@
 
 **Source:** https://vietnam.travel/places-to-go/southern-vietnam
 
-**Crawled:** 2026-09-25T03:21:03.014190+00:00
+**Crawled:** 2026-09-25T04:27:20.805389+00:00
 
 **Landing file:** `data/landing/news/article_15.json`
 
 ---
 
-*     * [日本語](https://vietnam.travel/jp/places-to-go/southern-vietnam "日本語")
+Southern Vietnam | Vietnam Tourism
+  *     * [日本語](https://vietnam.travel/jp/places-to-go/southern-vietnam "日本語")
     * [简体中文](https://vietnam.travel/cn/places-to-go/southern-vietnam "简体中文")
     * [Français](https://vietnam.travel/fr/places-to-go/southern-vietnam "Français")
     * [Español](https://vietnam.travel/es/places-to-go/southern-vietnam "Español")

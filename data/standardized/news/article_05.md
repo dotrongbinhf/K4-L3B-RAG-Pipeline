@@ -2,7 +2,7 @@
 
 **Source:** https://vietnam.travel/places-to-go/northern-vietnam
 
-**Crawled:** 2026-09-25T03:19:58.135344+00:00
+**Crawled:** 2026-09-25T04:26:17.499327+00:00
 
 **Landing file:** `data/landing/news/article_05.json`
 

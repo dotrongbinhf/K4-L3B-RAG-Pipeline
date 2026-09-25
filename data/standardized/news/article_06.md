@@ -2,7 +2,7 @@
 
 **Source:** https://vietnam.travel/node/95
 
-**Crawled:** 2026-09-25T03:20:03.588847+00:00
+**Crawled:** 2026-09-25T04:26:23.435678+00:00
 
 **Landing file:** `data/landing/news/article_06.json`
 

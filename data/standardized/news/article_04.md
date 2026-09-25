@@ -2,7 +2,7 @@
 
 **Source:** https://www.vietnam.travel/things-to-do/21-must-try-vietnamese-dishes/
 
-**Crawled:** 2026-09-25T03:19:48.985001+00:00
+**Crawled:** 2026-09-25T04:26:06.285781+00:00
 
 **Landing file:** `data/landing/news/article_04.json`
 

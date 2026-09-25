@@ -2,13 +2,14 @@
 
 **Source:** https://vietnam.travel/node/1339
 
-**Crawled:** 2026-09-25T03:20:58.760763+00:00
+**Crawled:** 2026-09-25T04:27:14.529840+00:00
 
 **Landing file:** `data/landing/news/article_14.json`
 
 ---
 
-*     * [日本語](https://vietnam.travel/jp/node/1339 "日本語")
+Experience Nha Trang like a local | Vietnam Tourism
+  *     * [日本語](https://vietnam.travel/jp/node/1339 "日本語")
     * [简体中文](https://vietnam.travel/cn/things-to-do/experience-nha-trang-like-a-local "简体中文")
     * [Français](https://vietnam.travel/fr/things-to-do/experience-nha-trang-like-a-local "Français")
     * [Español](https://vietnam.travel/es/things-to-do/experience-nha-trang-like-a-local "Español")

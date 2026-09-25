@@ -2,13 +2,14 @@
 
 **Source:** https://vietnam.travel/places-to-go/northern-vietnam/ha-giang
 
-**Crawled:** 2026-09-25T03:20:10.074943+00:00
+**Crawled:** 2026-09-25T04:26:28.070913+00:00
 
 **Landing file:** `data/landing/news/article_07.json`
 
 ---
 
-*     * [日本語](https://vietnam.travel/jp/places-to-go/northern-vietnam/ha-giang "日本語")
+Ha Giang | Vietnam Tourism
+  *     * [日本語](https://vietnam.travel/jp/places-to-go/northern-vietnam/ha-giang "日本語")
     * [简体中文](https://vietnam.travel/cn/places-to-go/northern-vietnam/ha-giang "简体中文")
     * [Français](https://vietnam.travel/fr/places-to-go/northern-vietnam/ha-giang "Français")
     * [Español](https://vietnam.travel/es/places-to-go/northern-vietnam/ha-giang "Español")

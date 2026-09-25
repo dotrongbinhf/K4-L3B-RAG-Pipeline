@@ -2,7 +2,7 @@
 
 **Source:** https://vietnam.travel/places-to-go/southern-vietnam/phu-quoc
 
-**Crawled:** 2026-09-25T03:21:18.838457+00:00
+**Crawled:** 2026-09-25T04:27:41.648846+00:00
 
 **Landing file:** `data/landing/news/article_17.json`
 

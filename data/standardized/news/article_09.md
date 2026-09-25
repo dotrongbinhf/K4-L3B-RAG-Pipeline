@@ -2,7 +2,7 @@
 
 **Source:** https://www.vietnam.travel/things-to-do/10-must-try-hanoi-dishes
 
-**Crawled:** 2026-09-25T03:20:19.943712+00:00
+**Crawled:** 2026-09-25T04:26:36.780135+00:00
 
 **Landing file:** `data/landing/news/article_09.json`
 

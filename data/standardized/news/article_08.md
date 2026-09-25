@@ -2,14 +2,13 @@
 
 **Source:** https://vietnam.travel/node/1368
 
-**Crawled:** 2026-09-25T03:20:16.905323+00:00
+**Crawled:** 2026-09-25T04:26:32.962592+00:00
 
 **Landing file:** `data/landing/news/article_08.json`
 
 ---
 
-What to Do in Ha Long Bay | Vietnam Tourism
-  *     * [日本語](https://vietnam.travel/jp/node/1368 "日本語")
+*     * [日本語](https://vietnam.travel/jp/node/1368 "日本語")
     * [简体中文](https://vietnam.travel/cn/things-to-do/what-to-do-in-ha-long-bay "简体中文")
     * [Français](https://vietnam.travel/fr/things-to-do/what-to-do-in-ha-long-bay "Français")
     * [Español](https://vietnam.travel/es/things-to-do/what-to-do-in-ha-long-bay "Español")

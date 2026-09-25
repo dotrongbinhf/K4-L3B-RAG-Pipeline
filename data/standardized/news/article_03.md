@@ -2,14 +2,13 @@
 
 **Source:** https://www.vietnam.travel/things-to-do/vietnam-foodie-guide-region
 
-**Crawled:** 2026-09-25T03:19:29.557960+00:00
+**Crawled:** 2026-09-25T04:25:59.637902+00:00
 
 **Landing file:** `data/landing/news/article_03.json`
 
 ---
 
-Vietnam: A foodie guide by region | Vietnam Tourism
-  *     * [日本語](https://www.vietnam.travel/jp/node/906 "日本語")
+*     * [日本語](https://www.vietnam.travel/jp/node/906 "日本語")
     * [简体中文](https://www.vietnam.travel/cn/things-to-do/vietnam-foodie-guide-region "简体中文")
     * [Français](https://www.vietnam.travel/fr/things-to-do/vietnam-foodie-guide-region "Français")
     * [Español](https://www.vietnam.travel/es/things-to-do/vietnam-foodie-guide-region "Español")
