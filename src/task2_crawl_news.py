@@ -1,24 +1,34 @@
 """
 Task 2 — Crawl bài viết/thông báo.
 
-Hướng dẫn:
-    1. Điền tối thiểu 5 URL công khai vào ARTICLE_URLS.
-    2. Crawl từng URL bằng Crawl4AI.
-    3. Lưu mỗi bài thành một JSON trong data/landing/news/.
-    4. Giữ đủ url, title, date_crawled và content_markdown.
+Chủ đề: Du lịch Việt Nam
 
-Cài browser trước khi chạy:
-    python -m playwright install chromium
-    
--> Dùng Firecrawl or bất cứ công cụ nào bạn quen    
+Mục tiêu:
+- Crawl tối thiểu 5 URL công khai.
+- Sử dụng Crawl4AI.
+- Lưu mỗi bài thành JSON trong data/landing/news/.
+- Mỗi JSON có:
+    url
+    title
+    date_crawled
+    content_markdown
 """
 
 import asyncio
 import json
+from datetime import datetime, timezone
 from pathlib import Path
 
+from crawl4ai import AsyncWebCrawler, CrawlerRunConfig, CacheMode
 
-DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
+
+DATA_DIR = (
+    Path(__file__).resolve().parent.parent
+    / "data"
+    / "landing"
+    / "news"
+)
+
 
 ARTICLE_URLS = [
     "https://vietnam.travel/node/6",
@@ -41,54 +51,167 @@ ARTICLE_URLS = [
 ]
 
 
-async def crawl_article(url: str) -> dict:
-    """Crawl one public page and return the required landing-data schema."""
-    from datetime import datetime, timezone
+def get_markdown(result) -> str:
+    """
+    Lấy raw Markdown từ Crawl4AI.
 
-    from crawl4ai import AsyncWebCrawler
+    Crawl4AI các version mới trả result.markdown
+    dưới dạng MarkdownGenerationResult.
+    """
+
+    if not result.markdown:
+        return ""
+
+    # Crawl4AI version mới
+    if hasattr(result.markdown, "raw_markdown"):
+        return result.markdown.raw_markdown or ""
+
+    # Fallback cho version cũ
+    return str(result.markdown)
+
+
+async def crawl_article(url: str) -> dict:
+    """Crawl một URL và trả về dữ liệu chuẩn."""
+
+    config = CrawlerRunConfig(
+        cache_mode=CacheMode.BYPASS,
+        only_text=True,
+        exclude_external_links=True,
+        exclude_social_media_links=True,
+        exclude_all_images=True,
+    )
 
     async with AsyncWebCrawler() as crawler:
-        result = await crawler.arun(url=url)
+        result = await crawler.arun(
+            url=url,
+            config=config,
+        )
 
+    # Crawl thất bại
     if not result.success:
-        message = result.error_message or "Unknown Crawl4AI error"
-        raise RuntimeError(f"Crawl failed: {message}")
-
-    # Crawl4AI 0.9 returns a MarkdownGenerationResult; older releases return
-    # a string.  Prefer the unfiltered version so source content is preserved.
-    markdown = result.markdown
-    content_markdown = (
-        getattr(markdown, "raw_markdown", None)
-        or getattr(markdown, "fit_markdown", None)
-        or str(markdown)
-    ).strip()
-    if not content_markdown:
-        raise ValueError("Crawl succeeded but returned empty Markdown")
+        raise RuntimeError(
+            f"Crawl failed: {result.error_message}"
+        )
 
     metadata = result.metadata or {}
+
+    title = metadata.get("title") or "Unknown"
+
+    content_markdown = get_markdown(result).strip()
+
+    # Tránh lưu trang lỗi hoặc trang gần như rỗng
+    if len(content_markdown) < 500:
+        raise ValueError(
+            f"Content too short: "
+            f"{len(content_markdown)} characters"
+        )
+
     return {
         "url": url,
-        "title": str(metadata.get("title") or "Untitled article").strip(),
-        "date_crawled": datetime.now(timezone.utc).isoformat(),
+        "title": title.strip(),
+        "date_crawled": datetime.now(
+            timezone.utc
+        ).isoformat(),
         "content_markdown": content_markdown,
     }
 
 
+def validate_article(article: dict) -> None:
+    """Kiểm tra metadata tối thiểu trước khi lưu."""
+
+    required_fields = {
+        "url",
+        "title",
+        "date_crawled",
+        "content_markdown",
+    }
+
+    missing_fields = required_fields - article.keys()
+
+    if missing_fields:
+        raise ValueError(
+            f"Missing fields: {missing_fields}"
+        )
+
+    if not article["url"]:
+        raise ValueError("url is empty")
+
+    if not article["title"]:
+        raise ValueError("title is empty")
+
+    if not article["date_crawled"]:
+        raise ValueError("date_crawled is empty")
+
+    if len(article["content_markdown"]) < 500:
+        raise ValueError("content_markdown is too short")
+
+
 async def crawl_all() -> None:
     """Crawl và lưu từng bài thành một file JSON."""
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-    for index, url in enumerate(ARTICLE_URLS, 1):
+    DATA_DIR.mkdir(
+        parents=True,
+        exist_ok=True,
+    )
+
+    print(f"Output directory: {DATA_DIR}")
+    print(f"Number of URLs: {len(ARTICLE_URLS)}")
+    print("-" * 60)
+
+    success_count = 0
+
+    for index, url in enumerate(
+        ARTICLE_URLS,
+        start=1,
+    ):
+        print(f"\n[{index}/{len(ARTICLE_URLS)}]")
+        print(f"Crawling: {url}")
+
         try:
             article = await crawl_article(url)
-            output = DATA_DIR / f"article_{index:02d}.json"
+
+            validate_article(article)
+
+            output = (
+                DATA_DIR
+                / f"article_{index:02d}.json"
+            )
+
             output.write_text(
-                json.dumps(article, ensure_ascii=False, indent=2),
+                json.dumps(
+                    article,
+                    ensure_ascii=False,
+                    indent=2,
+                ),
                 encoding="utf-8",
             )
+
+            success_count += 1
+
+            print(f"Title: {article['title']}")
+            print(
+                "Content length: "
+                f"{len(article['content_markdown'])} chars"
+            )
             print(f"Saved: {output}")
+
         except Exception as error:
-            print(f"Failed: {url} — {error}")
+            print(f"FAILED: {url}")
+            print(f"Reason: {error}")
+
+    print("\n" + "=" * 60)
+    print(
+        f"Successfully crawled: "
+        f"{success_count}/{len(ARTICLE_URLS)}"
+    )
+
+    if success_count < 5:
+        raise RuntimeError(
+            "Task 2 requires at least "
+            "5 successfully crawled articles."
+        )
+
+    print("Task 2 requirement satisfied.")
 
 
 if __name__ == "__main__":
