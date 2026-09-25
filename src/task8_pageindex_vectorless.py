@@ -13,6 +13,7 @@ import json
 import logging
 import os
 import re
+import ssl
 import time
 import uuid
 from pathlib import Path
@@ -28,6 +29,8 @@ LEGAL_LANDING_DIR = PROJECT_DIR / "data" / "landing" / "legal"
 CACHE_PATH = PROJECT_DIR / "pageindex_doc_ids.json"
 API_BASE = "https://api.pageindex.ai"
 UPLOAD_TIMEOUT_SECONDS = 120
+UPLOAD_MAX_ATTEMPTS = 3
+UPLOAD_RETRY_BASE_SECONDS = 2
 CHAT_TIMEOUT_SECONDS = 90
 OCR_TIMEOUT_SECONDS = 60
 LOCAL_CHUNK_CHARS = 1600
@@ -121,21 +124,74 @@ def _multipart_upload(path: Path) -> dict[str, Any]:
         },
         method="POST",
     )
+    transient_http_statuses = {408, 425, 429}
+    for attempt in range(1, UPLOAD_MAX_ATTEMPTS + 1):
+        try:
+            with urlopen(request, timeout=UPLOAD_TIMEOUT_SECONDS) as response:
+                parsed = json.loads(response.read().decode("utf-8"))
+            if not isinstance(parsed, dict):
+                raise RuntimeError("PageIndex upload response must be a JSON object")
+            return parsed
+        except HTTPError as error:
+            detail = error.read().decode("utf-8", errors="replace")[:500]
+            retryable = error.code in transient_http_statuses or error.code >= 500
+            failure = RuntimeError(
+                f"PageIndex upload failed with HTTP {error.code}: {detail}"
+            )
+            if not retryable or attempt == UPLOAD_MAX_ATTEMPTS:
+                raise failure from error
+        except (URLError, TimeoutError, ssl.SSLError) as error:
+            failure = RuntimeError(f"PageIndex upload failed: {error}")
+            if attempt == UPLOAD_MAX_ATTEMPTS:
+                raise failure from error
+
+        # The server might have accepted the body before the connection closed.
+        # Check the account's document list before retrying, avoiding duplicate
+        # uploads when only the response was lost.
+        existing_id = _find_existing_cloud_doc_id(path.name)
+        if existing_id:
+            return {"doc_id": existing_id}
+
+        delay = UPLOAD_RETRY_BASE_SECONDS * (2 ** (attempt - 1))
+        logger.warning(
+            "Temporary PageIndex upload failure for %s; retrying in %s seconds (%s/%s)",
+            path.name,
+            delay,
+            attempt + 1,
+            UPLOAD_MAX_ATTEMPTS,
+        )
+        time.sleep(delay)
+
+    raise RuntimeError(f"PageIndex upload failed for {path.name}")
+
+
+def _find_existing_cloud_doc_id(filename: str) -> str | None:
+    """Find an ambiguously completed upload by its exact cloud filename."""
+    offset = 0
     try:
-        with urlopen(request, timeout=UPLOAD_TIMEOUT_SECONDS) as response:
-            parsed = json.loads(response.read().decode("utf-8"))
-    except HTTPError as error:
-        detail = error.read().decode("utf-8", errors="replace")[:500]
-        raise RuntimeError(
-            f"PageIndex upload failed with HTTP {error.code}: {detail}"
-        ) from error
-    except (URLError, TimeoutError) as error:
-        raise RuntimeError(f"PageIndex upload failed: {error}") from error
-    except (UnicodeDecodeError, json.JSONDecodeError) as error:
-        raise RuntimeError("PageIndex upload returned invalid JSON") from error
-    if not isinstance(parsed, dict):
-        raise RuntimeError("PageIndex upload response must be a JSON object")
-    return parsed
+        while True:
+            payload = _request_json(
+                "GET",
+                f"/docs?limit=100&offset={offset}",
+                timeout=CHAT_TIMEOUT_SECONDS,
+            )
+            documents = payload.get("documents", [])
+            if not isinstance(documents, list):
+                return None
+            for document in documents:
+                if not isinstance(document, dict) or document.get("name") != filename:
+                    continue
+                document_id = document.get("id") or document.get("doc_id")
+                if isinstance(document_id, str) and document_id:
+                    logger.info("Found existing PageIndex document %s", filename)
+                    return document_id
+            total = payload.get("total")
+            offset += len(documents)
+            if not documents or (isinstance(total, int) and offset >= total):
+                return None
+    except Exception as error:
+        logger.debug("Could not check PageIndex documents after upload failure: %s", error)
+        return None
 
 
 def _read_cache() -> dict[str, dict[str, str]]:
