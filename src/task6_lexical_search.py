@@ -44,15 +44,28 @@ def lexical_search(query: str, top_k: int = 10) -> list[dict]:
     corpus = _get_corpus()
     if not corpus:
         return []
+    query_tokens = _tokenize(query)
+    if not query_tokens:
+        return []
+
     bm25 = build_bm25_index(corpus)
-    scores = bm25.get_scores(_tokenize(query))
-    ranked = sorted(range(len(corpus)), key=lambda index: float(scores[index]), reverse=True)
+    scores = bm25.get_scores(query_tokens)
+    # In a very small corpus BM25's IDF can be zero (or negative) even for a
+    # matching term.  Filter on token overlap rather than ``score > 0`` so a
+    # relevant chunk is not discarded just because of that normalization.
+    matching_indexes = [
+        index
+        for index, item in enumerate(corpus)
+        if set(query_tokens).intersection(_tokenize(item["content"]))
+    ]
+    ranked = sorted(
+        matching_indexes,
+        key=lambda index: (-float(scores[index]), corpus[index]["id"]),
+    )
     results: list[dict] = []
     seen: set[str] = set()
     for index in ranked:
         score = float(scores[index])
-        if score <= 0:
-            continue
         item = corpus[index]
         if item["id"] in seen:
             continue
