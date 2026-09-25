@@ -181,8 +181,7 @@ def generate_with_options(
                 score_threshold=score_threshold,
             )
         elif strategy == "hybrid":
-            # Dense similarities are clamped to >= 0, therefore a threshold
-            # of -1 disables PageIndex fallback while retaining Hybrid + RRF.
+            # A threshold of -1 disables PageIndex fallback and retains Hybrid + RRF.
             chunks = retrieve(query, top_k=top_k, score_threshold=-1.0)
         else:
             chunks = pageindex_search(query, top_k=top_k)

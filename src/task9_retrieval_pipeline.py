@@ -36,8 +36,7 @@ def retrieve(
 
     The confidence check always uses the best original dense cosine similarity.
     RRF is run at most once, and its score is never compared with the threshold.
-    If PageIndex is unavailable or returns no results, the local result list is
-    returned so a provider outage does not break the caller.
+    If PageIndex is unavailable or returns no results, return the hybrid results.
     """
     if not isinstance(query, str) or not query.strip():
         return []

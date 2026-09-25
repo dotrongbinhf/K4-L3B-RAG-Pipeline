@@ -43,24 +43,6 @@ SOURCES = {
 }
 
 
-DOCUMENT_SOURCES = {
-    "luat_du_lich_2017.pdf": (
-        "https://datafiles.chinhphu.vn/cpp/files/vbpq/2017/07/09.signed.pdf"
-    ),
-    "nghi_dinh_168_2017.pdf": (
-        "https://datafiles.chinhphu.vn/cpp/files/vbpq/2018/03/168.signed.pdf"
-    ),
-    "quyet_dinh_509_quy_hoach_du_lich.pdf": (
-        "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/6/509-ttg.signed.pdf"
-    ),
-    "quyet_dinh_382_ke_hoach_thuc_hien_quy_hoach.pdf": (
-        "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/02/382-qd-ttg.signed.pdf"
-    ),
-    "nghi_dinh_348_xu_phat_du_lich.pdf": (
-        "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/12/348-ndcp.signed.pdf"
-    ),
-}
-
 
 def setup_directory() -> None:
     """Tạo thư mục lưu tài liệu gốc."""
@@ -71,6 +53,7 @@ def setup_directory() -> None:
 def download_documents() -> None:
     """Tải tài liệu chính sách/quy định từ nguồn công khai."""
 
+    setup_directory()
     headers = {
         "User-Agent": "Mozilla/5.0"
     }

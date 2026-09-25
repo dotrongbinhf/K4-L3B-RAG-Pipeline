@@ -45,21 +45,28 @@ async def crawl_article(url: str) -> dict:
     """Crawl one public page and return the required landing-data schema."""
     from datetime import datetime, timezone
 
-    from crawl4ai import AsyncWebCrawler
+    from crawl4ai import AsyncWebCrawler, CrawlerRunConfig
+    from crawl4ai.content_filter_strategy import PruningContentFilterLXML
+    from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
 
+    run_config = CrawlerRunConfig(
+        excluded_tags=["nav", "footer", "header"],
+        markdown_generator=DefaultMarkdownGenerator(
+            content_filter=PruningContentFilterLXML()
+        ),
+    )
     async with AsyncWebCrawler() as crawler:
-        result = await crawler.arun(url=url)
+        result = await crawler.arun(url=url, config=run_config)
 
     if not result.success:
         message = result.error_message or "Unknown Crawl4AI error"
         raise RuntimeError(f"Crawl failed: {message}")
 
-    # Crawl4AI 0.9 returns a MarkdownGenerationResult; older releases return
-    # a string.  Prefer the unfiltered version so source content is preserved.
+    # Prefer filtered article content to exclude navigation and page chrome.
     markdown = result.markdown
     content_markdown = (
-        getattr(markdown, "raw_markdown", None)
-        or getattr(markdown, "fit_markdown", None)
+        getattr(markdown, "fit_markdown", None)
+        or getattr(markdown, "raw_markdown", None)
         or str(markdown)
     ).strip()
     if not content_markdown:

@@ -39,7 +39,7 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
             {
                 "id": item_id,
                 "content": content,
-                "score": max(0.0, 1.0 - float(distance)),
+                "score": 1.0 - float(distance),
                 "metadata": normalized_metadata,
                 "retrieval_method": "dense",
             }
