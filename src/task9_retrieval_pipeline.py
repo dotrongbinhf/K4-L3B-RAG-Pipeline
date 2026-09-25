@@ -10,6 +10,7 @@ Luồng xử lý:
 
 Không so sánh threshold với RRF score vì hai thang đo khác nhau.
 """
+import math
 import os
 
 from dotenv import load_dotenv
@@ -31,19 +32,42 @@ def retrieve(
     score_threshold: float = SCORE_THRESHOLD,
     use_reranking: bool = True,
 ) -> list[dict]:
-    """Return hybrid results or vectorless fallback when dense confidence is low."""
-    if not isinstance(query, str) or not query.strip() or top_k <= 0:
+    """Retrieve relevant chunks and use PageIndex when dense confidence is low.
+
+    The confidence check always uses the best original dense cosine similarity.
+    RRF is run at most once, and its score is never compared with the threshold.
+    If PageIndex is unavailable or returns no results, the local result list is
+    returned so a provider outage does not break the caller.
+    """
+    if not isinstance(query, str) or not query.strip():
         return []
-    candidate_k = max(top_k * 2, top_k)
+    if not isinstance(top_k, int) or isinstance(top_k, bool):
+        raise ValueError("top_k must be an integer")
+    if top_k <= 0:
+        return []
+    if (
+        not isinstance(score_threshold, (int, float))
+        or isinstance(score_threshold, bool)
+        or not math.isfinite(score_threshold)
+    ):
+        raise ValueError("score_threshold must be a finite number")
+    if not isinstance(use_reranking, bool):
+        raise ValueError("use_reranking must be a boolean")
+
+    candidate_k = top_k * 2
     dense = semantic_search(query, top_k=candidate_k)
     sparse = lexical_search(query, top_k=candidate_k)
-    hybrid = rerank_rrf([dense, sparse], top_k=top_k) if use_reranking else dense[:top_k]
+    if use_reranking:
+        hybrid = rerank_rrf([dense, sparse], top_k=top_k)
+    else:
+        hybrid = dense[:top_k]
+
     best_dense_score = float(dense[0]["score"]) if dense else 0.0
     if best_dense_score < score_threshold:
         try:
             fallback = pageindex_search(query, top_k=top_k)
             if fallback:
-                return fallback
+                return fallback[:top_k]
         except Exception:
             pass
     return hybrid[:top_k]
