@@ -810,72 +810,12 @@ def convert_news_articles() -> tuple[int, int]:
 # ============================================================
 
 def convert_all() -> None:
-<<<<<<< HEAD
     """Convert all landing data while preserving legal/news branches."""
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     # convert_legal_docs()
     convert_news_articles()
     print(f"Saved Markdown to: {OUTPUT_DIR}")
-=======
-    """
-    Convert all landing data.
 
-    Important:
-    We process both legal and news before failing,
-    so one bad legal document does not prevent
-    standardized/news from being produced.
-    """
-
-    OUTPUT_DIR.mkdir(
-        parents=True,
-        exist_ok=True,
-    )
-
-    legal_success, legal_failed = (
-        convert_legal_docs()
-    )
-
-    news_success, news_failed = (
-        convert_news_articles()
-    )
-
-    print()
-    print("=" * 60)
-    print("TASK 3 SUMMARY")
-    print("=" * 60)
-
-    print(
-        f"Legal : "
-        f"{legal_success} converted, "
-        f"{legal_failed} failed"
-    )
-
-    print(
-        f"News  : "
-        f"{news_success} converted, "
-        f"{news_failed} failed"
-    )
-
-    print(
-        f"Output: {OUTPUT_DIR}"
-    )
-
-    total_failed = (
-        legal_failed
-        + news_failed
-    )
-
-    if total_failed:
-        raise RuntimeError(
-            f"Task 3 completed with "
-            f"{total_failed} failure(s)."
-        )
-
-    print()
-    print(
-        "Task 3 completed successfully."
-    )
->>>>>>> e8f7b62f5f6e497f594f5f2e165af18695eaabf3
 
 
 if __name__ == "__main__":

@@ -2,13 +2,14 @@
 
 **Source:** https://vietnam.travel/node/21
 
-**Crawled:** 2026-09-25T03:49:58.406530+00:00
+**Crawled:** 2026-09-25T04:26:42.195646+00:00
+
+**Landing file:** `data/landing/news/article_10.json`
 
 ---
 
 Central Vietnam | Vietnam Tourism
-  * [EN ](javascript:void\(0\);)
-    * [日本語](https://vietnam.travel/jp/places-to-go/central-vietnam "日本語")
+  *     * [日本語](https://vietnam.travel/jp/places-to-go/central-vietnam "日本語")
     * [简体中文](https://vietnam.travel/cn/places-to-go/central-vietnam "简体中文")
     * [Français](https://vietnam.travel/fr/places-to-go/central-vietnam "Français")
     * [Español](https://vietnam.travel/es/places-to-go/central-vietnam "Español")
@@ -18,11 +19,9 @@ Central Vietnam | Vietnam Tourism
     * [한국어](https://vietnam.travel/kr/places-to-go/central-vietnam "한국어")
     * [ไทย](https://vietnam.travel/th/node/21 "ไทย")
     * [Русский](https://vietnam.travel/ru/node/21 "Русский")
-  * [ ](javascript:void\(0\);)
 
 
-#  [ ![Vietnam Tourism](https://image.vietnam.travel/themes/custom/vietnamtourism/images/logo.jpg) ](https://vietnam.travel/)
-[ ](javascript:void\(0\);)
+#  [ ](https://vietnam.travel/)
   * [Home](https://vietnam.travel/)
   * [Live fully in Vietnam ](https://vietnam.travel/)
     * [Vietnam Now](https://vietnam.travel/vietnamnow)
@@ -31,7 +30,7 @@ Central Vietnam | Vietnam Tourism
     * [Virtual VN](https://vietnam.travel/virtual-vietnam)
   * [Places to go](https://vietnam.travel/place-to-go)
 [Northern Vietnam](https://vietnam.travel/places-to-go/northern-vietnam)
-[ ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/preload-image.gif) Ha Noi ](https://vietnam.travel/places-to-go/northern-vietnam/ha-noi)
+[ Ha Noi ](https://vietnam.travel/places-to-go/northern-vietnam/ha-noi)
     * [Ha Noi](https://vietnam.travel/places-to-go/northern-vietnam/ha-noi)
     * [Ha Giang](https://vietnam.travel/places-to-go/northern-vietnam/ha-giang)
     * [Ha Long](https://vietnam.travel/places-to-go/northern-vietnam/ha-long)
@@ -39,7 +38,7 @@ Central Vietnam | Vietnam Tourism
     * [Ninh Binh](https://vietnam.travel/places-to-go/northern-vietnam/ninh-binh)
     * [Sapa](https://vietnam.travel/places-to-go/northern-vietnam/sapa)
 [Central Vietnam](https://vietnam.travel/places-to-go/central-vietnam)
-[ ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/preload-image.gif) Da Nang ](https://vietnam.travel/places-to-go/central-vietnam/da-nang)
+[ Da Nang ](https://vietnam.travel/places-to-go/central-vietnam/da-nang)
     * [Da Nang](https://vietnam.travel/places-to-go/central-vietnam/da-nang)
     * [Da Lat](https://vietnam.travel/places-to-go/central-vietnam/dalat)
     * [Hoi An](https://vietnam.travel/places-to-go/central-vietnam/hoi-an)
@@ -47,14 +46,14 @@ Central Vietnam | Vietnam Tourism
     * [Nha Trang](https://vietnam.travel/places-to-go/central-vietnam/nha-trang)
     * [Phong Nha](https://vietnam.travel/places-to-go/central-vietnam/phong-nha)
 [Southern Vietnam](https://vietnam.travel/places-to-go/southern-vietnam)
-[ ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/preload-image.gif) Ho Chi Minh City ](https://vietnam.travel/places-to-go/southern-vietnam/ho-chi-minh-city)
+[ Ho Chi Minh City ](https://vietnam.travel/places-to-go/southern-vietnam/ho-chi-minh-city)
     * [Ho Chi Minh City](https://vietnam.travel/places-to-go/southern-vietnam/ho-chi-minh-city)
     * [Con Dao](https://vietnam.travel/places-to-go/southern-vietnam/con-dao)
     * [Binh Thuan](https://vietnam.travel/places-to-go/southern-vietnam/binh-thuan)
     * [Can Tho](https://vietnam.travel/places-to-go/southern-vietnam/can-tho)
     * [Chau Doc](https://vietnam.travel/places-to-go/southern-vietnam/chau-doc)
     * [Phu Quoc](https://vietnam.travel/places-to-go/southern-vietnam/phu-quoc)
-![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/flyout-map.png) [ NORTHERN VIETNAM ](https://vietnam.travel/places-to-go/northern-vietnam) [ CENTRAL VIETNAM ](https://vietnam.travel/places-to-go/central-vietnam) [ SOUTHERN VIETNAM ](https://vietnam.travel/places-to-go/southern-vietnam)
+[ NORTHERN VIETNAM](https://vietnam.travel/places-to-go/northern-vietnam) [ CENTRAL VIETNAM](https://vietnam.travel/places-to-go/central-vietnam) [ SOUTHERN VIETNAM](https://vietnam.travel/places-to-go/southern-vietnam)
   * [Things to do](https://vietnam.travel/things-to-do)
 [HIGHLIGHTS](https://vietnam.travel/things-to-do#inspires--activities)
     * [Food](https://vietnam.travel/things-to-do/food)
@@ -69,9 +68,9 @@ Central Vietnam | Vietnam Tourism
     * [Luxury](https://vietnam.travel/things-to-do/luxury)
     * [Golf](https://vietnam.travel/things-to-do/golf)
 [ UPCOMING FESTIVALS & EVENTS ](https://vietnam.travel/event)
-    * [ ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/preload-image.gif) “Hue - Culinary Capital 2026” Festival 01 Sep 2026 - 30 Sep 2026 ](https://vietnam.travel/things-to-do/festival-event/%E2%80%9Chue-culinary-capital-2026%E2%80%9D-festival?month=sep&year=2026)
-    * [ ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/preload-image.gif) Hanoi Autumn Festival 2026 01 Sep 2026 - 30 Sep 2026 ](https://vietnam.travel/things-to-do/festival-event/hanoi-autumn-festival-2026?month=sep&year=2026)
-    * [ ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/preload-image.gif) Central Highlands Gong Culture International Festival 01 Oct 2026 - 31 Oct 2026 ](https://vietnam.travel/things-to-do/festival-event/central-highlands-gong-culture-international-festival?month=sep&year=2026)
+    * [ “Hue - Culinary Capital 2026” Festival 01 Sep 2026 - 30 Sep 2026 ](https://vietnam.travel/things-to-do/festival-event/%E2%80%9Chue-culinary-capital-2026%E2%80%9D-festival?month=sep&year=2026)
+    * [ Hanoi Autumn Festival 2026 01 Sep 2026 - 30 Sep 2026 ](https://vietnam.travel/things-to-do/festival-event/hanoi-autumn-festival-2026?month=sep&year=2026)
+    * [ Central Highlands Gong Culture International Festival 01 Oct 2026 - 31 Oct 2026 ](https://vietnam.travel/things-to-do/festival-event/central-highlands-gong-culture-international-festival?month=sep&year=2026)
 [ View all ](https://vietnam.travel/event)
   * [Plan your trip](https://vietnam.travel/plan-your-trip)
     * [Visa Requirements](https://vietnam.travel/plan-your-trip/visa-requirements)
@@ -86,15 +85,15 @@ Central Vietnam | Vietnam Tourism
     * [ Best Heritage Sites](https://vietnam.travel/sites/default/files/2021-04/Heritage_Sites_Vietnam.pdf)
     * [ Coast and Islands](https://vietnam.travel/sites/default/files/2021-04/Coast_Islands_Vietnam.pdf)
     * [View all trips](https://vietnam.travel/plan-your-trip/itineraries)
-    * [ ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/preload-image.gif) Adventure Trails ](https://vietnam.travel/sites/default/files/2021-04/Adventure_Trails_Vietnam.pdf)
-    * [ ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/preload-image.gif) Best Heritage Sites ](https://vietnam.travel/sites/default/files/2021-04/Heritage_Sites_Vietnam.pdf)
-    * [ ![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/preload-image.gif) Coast and Islands ](https://vietnam.travel/sites/default/files/2021-04/Coast_Islands_Vietnam.pdf)
+    * [ Adventure Trails ](https://vietnam.travel/sites/default/files/2021-04/Adventure_Trails_Vietnam.pdf)
+    * [ Best Heritage Sites ](https://vietnam.travel/sites/default/files/2021-04/Heritage_Sites_Vietnam.pdf)
+    * [ Coast and Islands ](https://vietnam.travel/sites/default/files/2021-04/Coast_Islands_Vietnam.pdf)
   * [Travel offers](https://vietnam.travel/travel-offers)
 
 
 SEARCH
-  * [ ![](https://image.vietnam.travel/sites/default/files/styles/top_banner/public/2019-02/Central%20Vietnam%20Travel%20Guide-2_0.jpg?itok=cwo64v6c) Central Vietnam ](https://vietnam.travel/places-to-go/central-vietnam/nha-trang)
-Tranquil coastline outside of Nha Trang. Photo by Christian Berg 
+  * # [Central Vietnam ](https://vietnam.travel/places-to-go/central-vietnam/nha-trang)
+Tranquil coastline outside of Nha Trang. Photo by Christian Berg
 
 
   * [Overview](https://vietnam.travel/node/21#overview)
@@ -107,43 +106,41 @@ Overview Top Destinations} Recommended Trips You may also like
 #### Central Vietnam is known for its well-preserved historical sites, smiling locals, and soothing natural beauty. The central coast will beckon you with the promise of enriching experiences and sun-kissed days by the beach.
 Stroll down the narrow streets of Hoi An’s Ancient Town, where timber frame shophouses still appear the way they did centuries ago, and the streets are aglow in colourful lanterns each night. Or acquaint yourself with the final days of the Nguyen Dynasty in Hue, where royal citadels, tombs and temples are sprinkled along the tranquil Perfume River.
 In between, modern Danang City offers a taste of some of Vietnam’s most luxurious resorts and top golf courses -- as well as one of the country's best beaches. And a few hours away, Phong Nha’s spectacular caves are the latest frontier for nature enthusiasts.
-##  Top Destinations In Central Vietnam 
-[![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2018-10/danang%20travel%20guide.jpg?itok=t_Ytvgzw)Da Nang](https://vietnam.travel/places-to-go/central-vietnam/da-nang)
-[![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2017-07/vietnam-tourism.jpg?itok=zf366m1j)Hoi An](https://vietnam.travel/places-to-go/central-vietnam/hoi-an)
-[![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2021-05/Nha%20Trang%20Travel%20Guide%20Vietnam%20Tourism.jpg?itok=YQfkQa_E)Nha Trang](https://vietnam.travel/places-to-go/central-vietnam/nha-trang)
-[![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2021-05/Hue%20Travel%20Guide%20Vietnam%20Tourism_0.jpg?itok=SvKHcear)Hue](https://vietnam.travel/places-to-go/central-vietnam/hue)
-[![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2018-11/phongnhavietnamtourism.jpg?itok=_Xf8Jbnp)Phong Nha](https://vietnam.travel/places-to-go/central-vietnam/phong-nha)
-[![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2021-05/Da%20Lat%20Travel%20Guide%20Vietnam%20Tourism.jpg?itok=kdcUTtu5)Da Lat](https://vietnam.travel/places-to-go/central-vietnam/dalat)
-[![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2023-11/DSC_5024.jpg?itok=ATIe_FAH)Phu Yen](https://vietnam.travel/places-to-go/central-vietnam/phu-yen)
+##  Top Destinations In Central Vietnam
+[Da Nang](https://vietnam.travel/places-to-go/central-vietnam/da-nang)
+[Hoi An](https://vietnam.travel/places-to-go/central-vietnam/hoi-an)
+[Nha Trang](https://vietnam.travel/places-to-go/central-vietnam/nha-trang)
+[Hue](https://vietnam.travel/places-to-go/central-vietnam/hue)
+[Phong Nha](https://vietnam.travel/places-to-go/central-vietnam/phong-nha)
+[Da Lat](https://vietnam.travel/places-to-go/central-vietnam/dalat)
+[Phu Yen](https://vietnam.travel/places-to-go/central-vietnam/phu-yen)
 ## Recommended Trips
-  * [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2018-08/Banner%20Vietnam%20Highlights.jpg?itok=XgOHX6n_)Vietnam Highlights](https://vietnam.travel/plan-your-trip/recommended-trip/vietnam-highlights)
-  * [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2018-08/Banner%20Deltas%20beaches%20and%20plateaus.jpg?itok=uD9VSVca)Deltas, Beaches and Plateaus](https://vietnam.travel/plan-your-trip/recommended-trip/deltas-beaches-and-plateaus)
-  * [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2018-08/UNESCO%20Vietnam%20Banner.jpg?itok=sZ0Vpbcb)Heritage Sites of Vietnam](https://vietnam.travel/plan-your-trip/recommended-trip/heritage-sites-vietnam)
+  * [Vietnam Highlights](https://vietnam.travel/plan-your-trip/recommended-trip/vietnam-highlights)
+  * [Deltas, Beaches and Plateaus](https://vietnam.travel/plan-your-trip/recommended-trip/deltas-beaches-and-plateaus)
+  * [Heritage Sites of Vietnam](https://vietnam.travel/plan-your-trip/recommended-trip/heritage-sites-vietnam)
 
 
 ## You may also like
-  * [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2018-08/Banner%20Guide%20to%20Phong%20Nha.jpg?itok=BSKTxflp)A complete guide to Phong Nha](https://vietnam.travel/things-to-do/complete-guide-phong-nha)
-  * [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2018-02/top%20things%20to%20do%20in%20hoi%20an-3.jpg?itok=MZFYBouZ)10 essential things to do in Hoi An](https://vietnam.travel/things-to-do/top-things-to-do-hoi-an)
-  * [![](https://image.vietnam.travel/sites/default/files/styles/reference_thumbnail/public/2018-09/best%20spas%20in%20nha%20trang.jpg?itok=-ohwQ7oc)Nha Trang's best wellness experiences](https://vietnam.travel/things-to-do/nha-trang-best-wellness-experiences)
+  * [A complete guide to Phong Nha](https://vietnam.travel/things-to-do/complete-guide-phong-nha)
+  * [10 essential things to do in Hoi An](https://vietnam.travel/things-to-do/top-things-to-do-hoi-an)
+  * [Nha Trang's best wellness experiences](https://vietnam.travel/things-to-do/nha-trang-best-wellness-experiences)
 
 
-  1. You are here: 
+  1. You are here:
   2. [Home](https://vietnam.travel/)
   3. [Places To Go](https://vietnam.travel/place-to-go)
   4. [Central Vietnam](https://vietnam.travel/places-to-go/central-vietnam)
 
 
-
-
 #### Sign up for our newsletter
 
-    Receive new travel stories from Vietnam once a month in your inbox.     
-Sign Up 
+    Receive new travel stories from Vietnam once a month in your inbox.
+Sign Up
 
 
 #### USEFUL LINKS
 
-    
+
   * [Visas for Vietnam](https://vietnam.travel/plan-your-trip/visa-requirements "Visas for Vietnam")
   * [Beginner Guide](https://vietnam.travel/sites/default/files/2021-03/Beginner%27s%20Guide%20to%20Vietnam%20NOW.pdf "Beginner Guide")
   * [FAQs](https://vietnam.travel/faqs "FAQs")
@@ -152,25 +149,13 @@ Sign Up
   * [Industry Resources](https://vietnam.travel/sites/default/files/2021-05/Vietnam%20Tourism%20Resources.pdf "Industry Resources")
 
 
-
-
 #### Follow us on
 
-    
-  * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-2_4.jpg)](https://www.facebook.com/vietnamtourismboard/ "Facebook")
-  * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-3_6.jpg)](https://www.youtube.com/vietnamtourismboard/ "Youtube")
-  * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web-4_4.jpg)](https://www.instagram.com/vietnamtourismboard/ "Instagram")
-  * [![](https://image.vietnam.travel/sites/default/files/2020-07/Vietnam%20tourism%20social%20web_4.jpg)](https://www.pinterest.com/vietnamtourismboard/ "Pinterest")
-  * [![](https://image.vietnam.travel/sites/default/files/2021-02/Vietnam%20tourism.jpg)](https://www.tiktok.com/@vietnamtourismboard?lang=en "TikTok")
 
-    
 Welcome to the official website of Viet Nam National Authority of Tourism. Visit our social media pages for more travel inspiration.
-[![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/logo-bw.png)](https://vietnamtourism.gov.vn/en)
-[ ![Chung nhan Tin Nhiem Mang](https://tinnhiemmang.vn/handle_cert?id=vietnam.travel) ](https://tinnhiemmang.vn/danh-ba-tin-nhiem/vietnamtravel-1717729146 "Chung nhan Tin Nhiem Mang")
-Translated languages are AI-generated from the English original. If you spot an error, please report it to contact@vietnam.travel Thank you! 
-[Back to top![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/icon-arrow-up.png)](https://vietnam.travel/node/21)
+Translated languages are AI-generated from the English original. If you spot an error, please report it to
+[Back to top](https://vietnam.travel/node/21)
   * © 2016 Official Website Vietnam Tourism
-  * Email: contact@vietnamtourism.gov.vn
   * [Privacy Policy](https://vietnam.travel/privacy-policy "Privacy Policy")
   * [Terms & Conditions](https://vietnam.travel/term-conditions "Terms & Conditions")
 
@@ -184,12 +169,10 @@ By clicking submit, you agree to our [Privacy Policy](https://vietnam.travel/nod
 [×Close](https://vietnam.travel/node/21)
 #### Sign in
 Sign in with your social accounts
-[Sign in with Facebook](javascript:void\(0\))
-[Sign in with Google+](javascript:void\(0\))
 Sign in with your email
 Show
 sign in
-Forgot password?[Click here](javascript:void\(0\);)to get it back
+Forgot password?
 * * *
 Don't have an account?[Sign up here](https://vietnam.travel/node/21)
 [×Close](https://vietnam.travel/node/21)
@@ -199,9 +182,8 @@ submit
 By clicking submit, you agree to our[Privacy Policy](https://vietnam.travel/node/153)and[Terms of Use](https://vietnam.travel/node/node/155)
 [×Close](https://vietnam.travel/node/21)
 ## oops
-The entered email has subscribed for Vietnam Tourism monthly newsletter 
+The entered email has subscribed for Vietnam Tourism monthly newsletter
 ×
-![](https://image.vietnam.travel/themes/custom/vietnamtourism/images/popup_v4.jpg)
 Subscribe
-Thank you for subscribing to [www.vietnam.travel](https://vietnam.travel/node/www.vietnam.travel), you have entered our contest. Happy Holidays! 
+Thank you for subscribing to www.vietnam.travel, you have entered our contest. Happy Holidays!
 ShareThis Copy and Paste
