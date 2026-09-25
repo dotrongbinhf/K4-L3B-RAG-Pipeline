@@ -46,13 +46,13 @@ async def crawl_article(url: str) -> dict:
     from datetime import datetime, timezone
 
     from crawl4ai import AsyncWebCrawler, CrawlerRunConfig
-    from crawl4ai.content_filter_strategy import PruningContentFilterLXML
+    from crawl4ai.content_filter_strategy import PruningContentFilter
     from crawl4ai.markdown_generation_strategy import DefaultMarkdownGenerator
 
     run_config = CrawlerRunConfig(
         excluded_tags=["nav", "footer", "header"],
         markdown_generator=DefaultMarkdownGenerator(
-            content_filter=PruningContentFilterLXML()
+            content_filter=PruningContentFilter()
         ),
     )
     async with AsyncWebCrawler() as crawler:
