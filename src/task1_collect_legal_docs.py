@@ -16,6 +16,24 @@ from pathlib import Path
 
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "legal"
 
+DOCUMENT_SOURCES = {
+    "luat_du_lich_2017.pdf": (
+        "https://datafiles.chinhphu.vn/cpp/files/vbpq/2017/07/09.signed.pdf"
+    ),
+    "nghi_dinh_168_2017.pdf": (
+        "https://datafiles.chinhphu.vn/cpp/files/vbpq/2018/03/168.signed.pdf"
+    ),
+    "quyet_dinh_509_quy_hoach_du_lich.pdf": (
+        "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/6/509-ttg.signed.pdf"
+    ),
+    "quyet_dinh_382_ke_hoach_thuc_hien_quy_hoach.pdf": (
+        "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/02/382-qd-ttg.signed.pdf"
+    ),
+    "nghi_dinh_348_xu_phat_du_lich.pdf": (
+        "https://datafiles.chinhphu.vn/cpp/files/vbpq/2025/12/348-ndcp.signed.pdf"
+    ),
+}
+
 
 def setup_directory() -> None:
     """Tạo thư mục lưu tài liệu gốc."""
@@ -24,22 +42,27 @@ def setup_directory() -> None:
 
 
 def download_documents() -> None:
-    """Tải ít nhất 3 PDF/DOCX từ nguồn công khai."""
-    # TODO: Có thể tải thủ công hoặc dùng requests.
-    #
-    # Ví dụ:
-    # import requests
-    #
-    # sources = {
-    #     "policy-a.pdf": "https://example.edu/policy-a.pdf",
-    # }
-    # for filename, url in sources.items():
-    #     response = requests.get(url, timeout=30)
-    #     response.raise_for_status()
-    #     (DATA_DIR / filename).write_bytes(response.content)
-    raise NotImplementedError("Implement download_documents")
+    """Download stable, official tourism-law PDFs into the landing area."""
+    import requests
+
+    setup_directory()
+    headers = {"User-Agent": "K4-L3B-RAG-Pipeline/1.0 (educational project)"}
+
+    for filename, url in DOCUMENT_SOURCES.items():
+        output = DATA_DIR / filename
+        if output.exists() and output.stat().st_size > 1024:
+            print(f"Already exists: {output}")
+            continue
+
+        response = requests.get(url, headers=headers, timeout=30)
+        response.raise_for_status()
+        content = response.content
+        if len(content) <= 1024 or not content.startswith(b"%PDF-"):
+            raise ValueError(f"Expected a valid PDF from {url}")
+
+        output.write_bytes(content)
+        print(f"Saved: {output}")
 
 
 if __name__ == "__main__":
-    setup_directory()
     download_documents()

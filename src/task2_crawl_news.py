@@ -21,25 +21,57 @@ from pathlib import Path
 DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
 ARTICLE_URLS = [
-    # TODO: Thêm ít nhất 5 public URL.
+    "https://vietnam.travel/node/6",
+    "https://www.vietnam.travel/things-to-do/food",
+    "https://www.vietnam.travel/things-to-do/vietnam-foodie-guide-region",
+    "https://www.vietnam.travel/things-to-do/21-must-try-vietnamese-dishes/",
+    "https://vietnam.travel/places-to-go/northern-vietnam",
+    "https://vietnam.travel/node/95",
+    "https://vietnam.travel/places-to-go/northern-vietnam/ha-giang",
+    "https://vietnam.travel/node/1368",
+    "https://www.vietnam.travel/things-to-do/10-must-try-hanoi-dishes",
+    "https://vietnam.travel/node/21",
+    "https://vietnam.travel/node/101",
+    "https://vietnam.travel/node/861",
+    "https://vietnam.travel/node/1332",
+    "https://vietnam.travel/node/1339",
+    "https://vietnam.travel/places-to-go/southern-vietnam",
+    "https://vietnam.travel/node/470",
+    "https://vietnam.travel/places-to-go/southern-vietnam/phu-quoc",
 ]
 
 
 async def crawl_article(url: str) -> dict:
-    # TODO: Implement crawling logic.
-    #
-    # from datetime import datetime
-    # from crawl4ai import AsyncWebCrawler
-    #
-    # async with AsyncWebCrawler() as crawler:
-    #     result = await crawler.arun(url=url)
-    #     return {
-    #         "url": url,
-    #         "title": result.metadata.get("title", "Unknown"),
-    #         "date_crawled": datetime.now().isoformat(),
-    #         "content_markdown": result.markdown,
-    #     }
-    raise NotImplementedError("Implement crawl_article")
+    """Crawl one public page and return the required landing-data schema."""
+    from datetime import datetime, timezone
+
+    from crawl4ai import AsyncWebCrawler
+
+    async with AsyncWebCrawler() as crawler:
+        result = await crawler.arun(url=url)
+
+    if not result.success:
+        message = result.error_message or "Unknown Crawl4AI error"
+        raise RuntimeError(f"Crawl failed: {message}")
+
+    # Crawl4AI 0.9 returns a MarkdownGenerationResult; older releases return
+    # a string.  Prefer the unfiltered version so source content is preserved.
+    markdown = result.markdown
+    content_markdown = (
+        getattr(markdown, "raw_markdown", None)
+        or getattr(markdown, "fit_markdown", None)
+        or str(markdown)
+    ).strip()
+    if not content_markdown:
+        raise ValueError("Crawl succeeded but returned empty Markdown")
+
+    metadata = result.metadata or {}
+    return {
+        "url": url,
+        "title": str(metadata.get("title") or "Untitled article").strip(),
+        "date_crawled": datetime.now(timezone.utc).isoformat(),
+        "content_markdown": content_markdown,
+    }
 
 
 async def crawl_all() -> None:
