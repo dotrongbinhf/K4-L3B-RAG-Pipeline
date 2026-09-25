@@ -263,6 +263,10 @@ def ocr_pdf_to_text(path: Path) -> str:
             # Re-render all pages and OCR visible content.
             "--force-ocr",
 
+            # Only the temporary OCR copy loses its digital signatures.
+            # The original signed PDF in landing remains unchanged.
+            "--invalidate-digital-signatures",
+
             # Vietnamese + occasional English.
             "--language",
             "vie+eng",
@@ -504,8 +508,8 @@ def convert_legal_docs() -> tuple[int, int]:
                 )
 
                 conversion_method = (
-                    "OCRmyPDF force OCR "
-                    "(vie+eng)"
+                    "OCRmyPDF force OCR (vie+eng); "
+                    "digital signature preserved only in original landing PDF"
                 )
 
             else:

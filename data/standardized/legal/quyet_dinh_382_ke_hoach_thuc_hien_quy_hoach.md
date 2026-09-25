@@ -2,640 +2,635 @@
 
 **Document type:** Legal / policy document
 
+**Conversion:** OCRmyPDF force OCR (vie+eng); digital signature preserved only in original landing PDF
+
 ---
 
-rT+r
-pnu
-| rntr ruoxc cuixn  |     |     | cONG noA xA ngl cntr Ncnh vrET NAM |     |     |
-| ----------------- | --- | --- | ---------------------------------- | --- | --- |
-DQc l$p - Tg do - HSnh phric
-| S5: -i8tlQD-TTg |     |     | Hd Nii  ngdy dl  |     |     |
-| --------------- | --- | --- | ---------------- | --- | --- |
-thdng 02 ndm 2025
-QIIYfTDINH
-Ban hinh K5 ho4ch thgc hiQn Quy ho4ch hQ thSng du lich
-thdri ky 2021-2O30,tAm nhin d5n nnm 2045
-n6rcm ruofupx0
-f
-o0i'i ^Dr.
-| N*..Js.tDLJ.Zw.--           |     | THUTTIdNG CHiNHPHU |      |     |     |
-| --------------------------- | --- | ------------------ | ---- | --- | --- |
-| Cdn ct Luqt Td chthc Chinh  |     |                    | phi  |     |     |
-ngay 19 thdng 6 ndm 2015; Luqt s*a diii,
-bd sung m7t sii diiu
-cr)a Luqt Tii chtic Chinh phil va Luqt Tii chthc ch{nh quyin
-ll
-| diaphuongngay 22 thdng  |     |     | ndm 2019; |     |     |
-| ----------------------- | --- | --- | --------- | --- | --- |
-t
-Cdn c* Lwil  Quy hoqch ngay 24 thing I  ndm 2017; Lwlt sira diii, b6 sung
-m\t sd dt1u cua 37 lwft cd HAn  qtnn dih qtty hoqch ngay 20 ttuing I  t ndm 2018;
-| Cdn c* Nghi quydt  |     | tii  | SOtZOZttgnt5 ,soy 13 thdng  |     | Il  |
-| ------------------ | --- | ---- | --------------------------- | --- | --- |
-ndm 2021 ctia
-j0,
-Quiic hQi  vi  Quy hoqch st dang ddt Quiic  gia thdi ki 202 t -20  tim nhin ddn
-ndm 2050, Kii hoqch s* dung diit  gia 5 ndm 2021-2025;
-Qudc
-Cdn cth Nghi qrry,ii tii  \|ZOZ2/QH 15 ngdy 16 thdng 6 ndm 2022 cila
-O  QuiSc
-hQt tiiip tqc tdng cudng hi€u  lvc, hiQu qud thuc hign chinh slch, phdp lwQt v.e
-qtty hoqch vd mgt sii gidi phdp thdo gd kh6 khdn, vudng mdc, tliiy nhanh ti6n
-dA Mp vd ndng cao chdt lu. ng quy hoqch thdi A 202I - 2030;
-Cdn cth Nshi qrry,* sii AtnOZ3/)H|5 ngqy 09 thang 0I nim 202j cie
-Oaic
-I -
-hpt  vi  Qtty hoqch $ng the quoc gia thoi ki 202  2030, nim nhin d,*t nim 2050;
-Cdn c* Nshi dinh sii)ztzOtgno-CP.ngqy  07 thdng 5 ndm 2019 cia
-Chinh ph,n quy dlnh chi ilA thi hdnh mpt s6 di6u cua LuQt Quy hoqch; NShi.
-ilinh s6 58/2023/ND-CP ngdy l2 ttuing 8 ndm 2023 cia Chinh pkfi s*a d6i, b6
-smg mflt sii diiu cua Nghi dinh sii sztZOlS/No-CP ng6y 07 thdng 5 nim 2019 cila
-| phi quy dlnh cht tiiit mot  |     |     | tliiu cia Luft  |             |     |
-| --------------------------- | --- | --- | --------------- | ----------- | --- |
-| Chinh                       |     |     | si5             | Quy  hoqch; |     |
-Cdn c* Ngh! quydt sii l1/NQ-CP ngdy t6 thdng 6 ndm 202i cia Chinh
-phi  ban hdnh Chiong *inh hdnh dgng cia  Ch{nh phil fidn khai th{c hiQn
-| Nghi quytit tii AttzOZStgut5 cita  |     |     | vi         |                                |     |
-| ---------------------------------- | --- | --- | ---------- | ------------------------------ | --- |
-|                                    |     |     | Qutic hQi  | Quy  hoqch tdng thii quiic gia |     |
-thdi W 2021 - 2030, tdm nhin d€n  ndm 2050 vd K€  hoqch thrc hi€n  hoqch
-Quy
-tArg ind quii" gia thdi bi  I -  2030, tdm nhin ddn ndm 2050;
-202
-|      | c*  | ttin\tii  |                 | t3 thdng.6 ndm 2024 cila |     |
-| ---- | --- | --------- | --------------- | ------------------------ | --- |
-| Cdn  |     |           | SOOigO-ffgngdy  |                          |     |
-Quyiit
-hoqch hQ thiSng du lich thdi ki
-| Thil tudng Chinh            |     | phi  vi. vi€c  | ph€  duyet Quy  |     |     |
-| --------------------------- | --- | -------------- | --------------- | --- | --- |
-| 2021 - 2030, tdmnhindAnndm  |     |                | 2050;           |     |     |
+§ ee PT gười ký: CONG THONG TIN ĐIỆN TỬ CHÍNH PHU
+& See Be" Email: thongtinchinhphu(@chinhphu + vn
 
-2
-Theo di nghi ct)a 89 Vdn h6a, Thii thao vd Du lich tqi Td trinh sii 2l/TTr-
-BWTTDL n7q thdng 0t ndm 2025 vi viQc phA duyet Kd hoqch thuc hi€n
-?1
-fuy hoqch he th6ng du lich thin W 2021 - 2030, tdm nhin ddn ndm 2045.
-QUYTTDINII:
-Di6u 1. Ban hanh kdm theo Quy6t tlinh ndy Kti hopch thgc hi-6n Quy hoach
-hQ th6ng du lich thoi k! 2O2l - 2O3O,tAm ntrin diSn ndm 2050.
-Didu 2. Quyi5t dfnh ndy c6 hiQu luc thi hanh k6 tu ngny kf ban hnnh.
-Di6u 3. C6c BQ truong, Thri truong co quan ngang bQ, Thri truong co quan
-thuQc Chinh phri; Chri tich Uy ban nh6n d6n c6c tinh, the,nh ph6 tryc thuQc
-Trung u<rng vd c6c dcm v! 1i6n quan chiu trSch nhiQm thi hinh Qly}t dinh rp! .l .
-Noi nhQn: KT. TITOTUdNC
-- Ban Bi thu Trung uong Dang; TIIOI\G
-- Thri tuong, c6c Ph6 Thri tudng Chinh pht;
-- C6c BQ, co quan ngang bQ, co quan thuQc Chtnh pht;
-- [DND, UBND crio dnt\ 0renh ph5 t1rc truQc TW;
-- Vln phdng Trung uong v6r c6c Ban cua Dang;
-- VIa phdng T6ng Bi thu;
-- Vnn phdng Chri tich nu6c;
-- Ven phdng Qu6c hOi;
-- Tda 6n nhin dAn t5i cao; nh fong
-- ViQn Kiiim s6t nhdn dAn t6i cao;
-- Kiem to6n Nhe nu6c;
-- Uy ban Trung uong Mat nfn T6 quSc ViQt Nam;
-- VPCP: BTCN, cric PCN, Trq lf TTg,
-TGE C6ng TTDT, c6c V9, Csc;
-- Luu: VT, KGVX (3b). {8
+#8. Cơ quan: VĂN PHÒNG CHÍNH PHỦ
 
-6
-+
-pno
-c crrftrH coNG HOAXA Hor cH0 NGHIA vET NAM
-! DQc l$p - Tg do - Hgnh phric
-q
-*
-xf
-uo4.cu
-Thgc hiQn Quy hogch hQ thSng du lich thli ky 2021-2030,
-tim nhin il6n nlm 2045
-(Kdm theo Qtyiit itinh sA WgO-ltg
-ngay lt tMng U-ndm 2025 cia Thil a6ng Chinh ph,il)
-r. MUC TrEu,vf,u cAu
-l. Mpc ti6u
-a) Qu6n triQt va ni6n khai thuc hiQn Quy ho4ch hQ thiing du lich thoi ky
-2O2l - 2030, tam nnn d6n nnm 2045 tlugc Thri tuong Chinh phri ph6 duyQt
-Ci Quyi5t dinh s5 509/QD-TTg ngiy 13 th6ng 6 ndm2024 (sau diy viiSt tit ta
-Quy hoqch hQ th6ng du lich) bio ttim hiQu qu6, hiQu lyc.
-b) Xic tlinh cu ttr6 ti6n dQ vi ngudn lgc thgc hiQn c6c hoqt dQng, chuong
-trinh, dg 6n tl6 x6y dpg c6c chinh s6ch, gini ph6p nhem b5 tri, ph6n b6 ngu6n
-lgc cria Nhd nu6c ciing nhu thu hft c6c ngu6n lyc xd hQi trong viQc thgc hiQn
-c6c nhiQm vg, chinh s6ch, giai ph6p trong Quy ho4ch h€ th5ng du lich.
-c) Thii5t lflp knung kiSt qui thuc hiQn theo tirng giai do4n lirm co sd d6 rd
-so6t, ttffi gi6 viQc thuc hiQn Quy ho4ch hQ th6ng du lich xem xdt diAu chinh,
-b6 sung c6c nhiQm 41 giii ph6p d6 <tat tluqc mqc ti6u ph6t ni'in tl6 dA ra.
-d) Ph6t tri6n du lich bAn viing, sdng t4o, fr6n ndn tang ting trudng xanh,
-dam da ban src vtrn h6a ViQt Nam...; bao dem an ninh, qu5c phdng, tr6t t,u an
-toan xd hQi.
-d) Phen c6ng tnich nhiQm cg tn6 a6i voi c6c bQ, nganh dia phuong theo
-chtc ndng, nhiQm vu; xdy dpg lO trinh t6 chric mi6n khai thUc hi€n c6c hoqt
-dQng, chuong uinh,.{r 6n nhim thUc hiQn c6c mgc ti6u, nhi€m W vd gi6i ph6p
-cria quy hoech dii dG ra.
-2. YGu ciu
-a) DAmb6otinhtuentht, tinh k6thtrac6c chuongtinhhanh tlQng, k6 ho4ch
-tffi
-dAu tu c6ng d6 duqc ph6 duy-6t; li6n k6t, th5ng nh6t, kh6ng chiing lAn, m6u
-ttruSn giUa crec nhiQm vU chuong tinh, {r rin cua c6c nginh, cric fia phuong.
-b) Eam bdo tinh ttdng bQ, khe thi, linh hoat c6c giAi ph6p trong ni6n khai
-thUc hiQn Quy hogch hQ thi5ng du lich, ntrim troan thinh c6c chi ti6u ph6t uiiin
-du lich, pht hgrp voi th6 chrS kintr tti thi truqng ttinh huong xE hQi cht nghia;
+€ WIENS B HO. Thời gian ký: 25.02.2025 16:17:14 +07:00
 
-2
-phtr hqp vOi biii cd,nh, ngudn lyc cria qu5c gia, tli6u kiQn thuc t6 cria ttmg tlia
-ti5. :
-ptruc,ng va hii canh hQi nhflp qu6c '
-c) Dim bio viQc thuc hiQn c6c chuong trinh, dg rin c6 tinh d6n <tAy <fii c6c
-tlc dQng kinh t6, xE hQi, m6i truong hiQn t4i vi tucmg lai; vira tt6p fmg ttuqc
-nhu cAu cria l*r6ch du lich vA sy ph6t tri6n cta nginh du lich, v.ria dap img duq c
-y6u ciu bio vQ m6i tnrdng sinh thri'i vi c6c y€u cAu cua cQng tl6ng tlla phucmg.
-d) Huy ttQng t5i da cric ngu6n lyc vi cric thanh ph&r kinh t6 tham gia phrit
-tri6n du lich; nghiCn cuu, tl6 xu6t i,it giim, tlon giAn h6a quy .finh kinh doanh c6
-li6n quan tl5 tao tti6u kiQn ph6t ti6n hQ ttrling doanh nghiQp du lich.
-d) Phan b6 ngu6n lgc c6 trgng t6m, rgng di6m, pht hgp v6i htri nlng huy
-tlQng ngu6n v.on; ki5t hqp hni hda gita c6c ngudn lgc; ngudn vtin dAu q c6ng
-c6 tinh a6n ait tiing tuong ngutin v6n ddu tu x6 hQi, t+o ra sg ph6t trir6n dQt
-ph6 cta ngd,urh du lich, thirc ttAy qu6 trinh chuyiin A6i mO hinh ph6t tri6n c6c
-ti
-nganh dich W khAc theo huong gi6 vd hiQu qui cao.
-e) DA cao tinh chri tlQng, sri.ng t4o, linh ho4t ctia c6c dia phuong, doanh
-ngtri€p trong tri6n khai thyc hiQn Quy hoach h0 th5ng du lich; dAy menh thu
-hrit ddu tu cho du lich, ttac bi€t ld tl6u tu h4 tlng giao th6ng, ciurg bi6n, sdn bay,
-brin tau... phUc W du lich.
-rr. Nor DrrNG xnuo4.cu rrrtlc r{4N QUy Ho4.cH
-l. Nguy6n t6c tri& khai c6c dg rin
-a) Phr) hqp voi cic <linh hucrng ph6t tri6n cua tlSt nudc; voi quan ditim,
-mgc ti6u, tlinh huong dA ra trong Nghi quy6t s6 OS-NqffW ngdy 16 thring 0l
-ndm2017 cria B0 Chinh tri vA ph6t tri6n du lich trd thdnh nganh kinh ti5 mti
-nhgn; Chitin lugc ph6t ti6n Du lich ViQt Nam dr.An nam 20J0 vi Chi th| s6
-0S/CT-TTg ngity 23 tJting}2 rEm2O24 cua Thri tucmg Chinh phri vC ph6t triiin
-du lich toan diQn, nhanh vd bAn vtng thoi gian toi.
-, b) DAp img y6u cAu v6 bao ttim quiic phdng, an ninh; pht hqp v6i Chi tlT
-s6 tOlCt-ttg ngay 3l thring 3 ndm 2021 cta Thri tuong Chinh phri vA
-"C6ng tric b6o v0 an ninh qu5c gia, b6o tlAm trflt tU an toiur xd hgi tong linh
-vgc du lich trong tinh hinh m6i".
-, c) Pht hSp yfi ph6p luflt hiQn hdnh; bdo dAm tuan tbt c6c cam kiSt qutic
-tC, nhat lA carn k6t li€n quan tl6n b6o vQ di sftl vi c6c tli6u u6c qu6c t6, th6a
-thufn song phuong md Viet Nam ld thanh vi€n.
-d) Ld c6c d1r ri.n quan trgng il6 tlugc x6c <linh trong quy ho4ch vr)ng; c6c
-4r 6n phU hqp voi Quy ho4ch t6ng th6 qu6c gia, quy ho4ch ngdnh, linh vyc.
-tt) fr6n co sd dinh huong t6 chric l,Jr6ng gian l6nh th6 du lich, rlinh huong
-ph6t triiin thi trudng, san phAm du lich, xic tlinh c6c dg en I6n, c6 tinh ch6t
+TIĐT
 
-3
-quan trgng, t+o <tQng lgc thric tdy ph6t tri6n du lich cA nu6c, theo vung tt6 uu
-ti6n ttAu tu vi thu hrit tl6u tu, tuy thuQc vdo nhu cAu vd khi n6ng cAn d1i, huy
-tlQng viSn dAu tu cua trmC thti k,.
-2.Dgirr,dAutuc6ng
-a) C6c d1r rin uu ti6n dAu tu cria nganh du lich tlugc dd xu6t tong quy
-tiu
-ho4ch dugc phq3 thanh c6c nh6m dg 6n vA: Chuy6n d6i sa; nr ph6t tri6n ha
-SB; dio tao, b6i dudng ngu6n nh6n lgc; quang b6, ph6t tri6n thuong hiQu; bio
-t6n ph6t. huy gi6 ni tAi nguy6n, bio vQ m6i trudng..., dU 6n c6 f nghia quan
-tgng, c6p ttri6t, teo dQt ph6 cho ph6t tri6n du Uch gin vqi hinh thdurh c6c khu
-vgc dQng lyc ph6t tri6n du lich, c6c trung t6m du lich, hQ thiing c6c Khu du lich
-quiic gia vd c6c hanh lang k6t n6i pnat tri.in du lich a6 mric dAy, hn t6a ph6t
-tri6n du l!ch, kinh t6 - xd hQi tr6n c6c vung vi ci nudc.
-b) Tfp tnrng dAu tu trogc tr5 trq dAu tu cho c6c h4ng mgc k6t c6u ha tang
-trong cdc khu, di6m du lich (rttc biQt ld c6c khu du lich qulSc gia iI6 ttugc c6p
-c6 thAm quydn c6ng nhgn); xric tiiSn quAng b6, ph6t tri6n thuong hi-6u; ph6t trii5n
-ngudn nh6n lpc; bAo t6n vd ph6t huy gi6 tri tai nguy6n, bio vQ m6i trudng du
-lich vi nghiGn ctu tug dpng c6ng nghQ.
-c) !6 trq c6ng t6c x0c ti6n quang b6 vi ph6t ni6n thucng hiQu d t6m qulic
-gia vi c6p vung; ph6t tri6n san phAm moi; ph6t tri6n ngu6n nhdn lgc...
-3. Du 6n sri dung c6c ngudn v6n kh6c ngoii v6n dAu tu c6ng
-a) ViQc tri6n khai c6c dy rln phii dim bio nguy6n tic: C6c tinh, thanh ph6
-trgc thuQc Trung ucmg c6n ct ttinh huong uu ti6n ph6t tri6n hQ th6ng du lich
-dii tlugc Thri tucmg Chinh phri ph6 duyQt t4i c6c quy ho4ch c6p qutic gt4 quy
-ho4ch vtng, guy ho4ch tinh d6 t6 chtc thu hrit c6c ngudt u6n kh6c ngoii v6n
-dAu tu c6ng dAu tu ph6t tri6n hQ thling du lich theo c6c quy hopch, ki5 ho4ch bio
-tlam hiQu qui vd dring quy tlinh.
-b) Loai hinh dU 6n quan trgng dy kii5n uu ti6n
-- Khu 4rc tu nhfui li ngudn llrc chinh t$p trung dAu tu cho ph6t triiln co s&
-vft ch6t k! thuft, ph6t tri6n sAn phAm, xric ti6n quang b6, ph6t tri6n thuong hi-Ou
-vi c6c c6ng tinh he tlng chric nEng thuQc c6c khu, di6m du lich.
-- Ph6t triAn ddng bQ hQ th5ng he tArrg vd vft ch6t k! thuft phsc vs ph6t
-tri6n du l!ch, t$p tnrng vdo c6c hgrg mgc: hQ th6ng ha teng k6t n6i c6c khu,
-til6m du l!ch; hQ th5ng hg tAng trong c6c lfiu, di6m du lich; hQ thiing co sd vflt
-ch6t ky thuflt du lich.
-- Diu tu ph6t tri6n san phAm du lich vi xiy d\rng thuong hiQu du lich quiic
-gra,6p trung vio c6c h4ng mgc: ddu tu ph6t tri6n hQ ttr5ng thucmg hiQu du lich
-ViCt Nam, hQ th5ng san phAm du lich d6ng bQ, tla dang; tru ti6n c6c sin phAm
+THỦ TƯỚNG CHÍNH PHỦ CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
 
-4
-du lich moi, dQc d6o, d{c sic theo vr)ng, midn vi dua tr6n ban sic vdn h6a ViQt
-Nam vd th6 manh v6 sinh th6i, vin h6a c6c vung midn; ph6t tririn c6c co sd dich
-w du lich gin vsi c6c loai hinh du lich tao su ttiing b0, hiQn ttei, tiQn nghi trong
-c6c khu du lich, ttiiim du lich.
-- DAu tu ph6t tri6n ngu6n nhin lgc du lich, tQp trung vdo c6c hgng mgc:
-ndng cao ch6t luqng dich vr; du lich; ddu tu cho co sd tlio t4o du llch, xAy dpg
-c6c chuAn kI ning vd dAo t4o theo chuAn trinh d$, ndng cao ch6t luqng gi6o
-vi6n, ddu tu cho itio t4o nhAn lUc bflc cao, nh6n lyc quan lj; uu ti6n dAu tu ptuit
-tri6n nhin lUc du lich virng sdu, vtng xa, vung d,nn tQc thi6u sii.
-- Diu tu cho c6ng t6c xric ti6n quang b6, tfp trung vdo c6c h4ng mgc: t6
-chric c6c hoat dQng xtic ti6n, quang b6 du lich ViQt Nam t4i nu6c ngoii; t6 chric
-c6c hogt dQng xric tiiin, quang b6 du lich li6n vtng, li6n tlia phuong; quang b6
-du lich tr€n c6c phuong tiQn truyAn th6ng da phuong ti€n; ph6t triiln marketing
-tliQn tu tr6n nAn tang sii; xdy dyng co sd dii liQu, ph6t tri6n c6c img dgng quang
-b6 du lich; sAn xuSt 6n pnam, vQt ph6m phuc vg xric tiiin, quang b6 du lich.
-- DAutuptuitti6ntai nguy6nvdbao vQ m6i trudng du lic[ Qp trung vio c.io
-hgrg mpc: t6n t4o tai nguy€n du lich; bdo quan, tu b6, pfuc hdi c.ic di tich v[n h6a
-lich sri, danh lam thing canh vd di san th6 gioi; kh6i ph1rc nghA thi c6ng truydn
-th5ng; bio vQ m6i trudng du llch; l6ng gh6p voi c6c chuong ninh dU an aau tu
-bao vQ, t6n t4o di tic[ m6i trutng...
-4. Kii hoqch st dgng d6t
-, CEn ct vio Quy hoA"I sri.dpng d6t quiic gia thoi W 2O2l - 2030,tAm nhin
-di5n nam 2050 (Nghi quyrit s5 39l2o2ltQHt5 ngiy 13 th6ng 11 ntun202t);
-c6c quy hogch vtng, quy ho4ch tinh vi chi ti6u quy ho4ch st dtmg d6t quiSc gia
-thti ki' 2O2l - z}3},tam nni" d6n nim 2050; kii hogch st dqng <6t qu6c gia 05
-ndm 2021 - 2025 (Quy6t tlinh sii 326lQD-TTg ngdy 09 th6ng 3 ndm2022);
-diAu chinh phdn b6 mQt sii chi ti6u st {urg Aft a6n ndm2025 (Q"y6t ttinh s5
-227lQD-TTgngity l2thring 3 rAm2O24),Uy ban nhin &in c6c tinh, thanh ph6
-trUc thuQc Trung uong c6 tr6ch nhiQm xdy {mg phucrng 6n ph6n b6, khoanh
-d6t thi d6 tri6n ktrai cric chuong tinh, dU rln du lich tr6n ttia ban b6o ttim
-"tre
-tuan thri c6c tlinh hucmg vd ph6t tri6n du lich t4i da phuong, d6p img y6u cAu
-ph6t ni6n bdn vting, b6o vQ m6i truong vt phir hqp voi chi ti6u srl dgng d6t tH
-dugc c6p c6 thAm quyAn giao, b6o dem ti6t kiQm, hiQu qu6.
-5. Xnc dinh ngudn lyc vn viQc sri dung nguA,n lyc <tA thgc hiQn quy hoach
-- Huy ttQng vd sri dung c6 hiQu qua viin aau tu tu oic ngutin: (i) V6n knu
-vgc nhi nu6c: ngu6n ngdn s6ch nhi nu6c; ngu6n v5n tr5 trq phA ni6n chinh thric
-(O, DA) vn qu! H5 trq ph6t tri6n du lich; (ii) V6n ktru v.uc ngoii nhi nudc: ngudn
-v6n huy dQng tu ltru 4rc tu nhAn (bao gdm ci v6n AAu t, trU" ti6p nuoc ngoii).
+Số: 382/QD-TTg Hà Nội, ngày off tháng 02 năm 2025
+
+QUYẾT ĐỊNH
+Ban hành Kế hoạch thực hiện Quy hoạch hệ thống du lịch
+cheno tự tệ Toán PHO thoi ky 2021 - 2030, tam nhin dén nam 2045
+
+ĐẾN ˆ” _ ¬- -
+Ngày. 3 250021 2025... THU TƯỜNG CHÍNH PHU
+
+Can cứ Luật Tổ chức Chính 1 phủ ngày 19 tháng 6 nắm 2015; Luật sửa đổi,
+bồ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền
+địa phương ngày 22 tháng 11 năm 2019;
+
+Căn cur Luật Quy hoạch ngày 24 tháng 11 năm 2017; Luật sửa đổi, bé sung
+một số điều của 37 luật có liên quan đến quy hoạch ngày 20 thang 11 năm 2018;
+
+Can cứ Nghị quyết số 32/2021/QH15 ngày 13 tháng 11 nam 2021 của
+Quốc hội về Quy hoạch sử dung | dat Quốc gia thời kỳ 2021-2030, tâm nhìn đến
+năm 2050, Kế hoạch sử dụng đất Quốc gia 5 năm 2021-2025;
+
+Căn cứ Nghị quyết số 61/2022/QH15 ngày 16 tháng 6 năm 2022 của Quốc
+hội tiếp tục tang cường hiệu lực, hiệu quả thực hiện chính sách, pháp luật vê
+quy hoạch và một sô giải pháp tháo gỡ khó khăn, vướng mắc, day nhanh tiến
+độ lập và nâng cao chất lượng quy hoạch thời kỳ 2021 - 2030;
+
+Căn cứ Nghị quyet s so 81/2023/QH1 5 ngày 09 tháng 01 năm 2023 của Quốc
+hội về Quy hoạch tông thé quốc gia thời kỳ 2021 - 2030, tâm nhìn đến năm 2050;
+
+Căn cứ Nghị định SỐ, 37/2019/NĐ-CP ngày 07 tháng 5 năm 2019 của
+Chính phú quy định chỉ tiết thi hành một số điều của Luật Quy hoạch, Nghị
+định sô 98/2023/NĐ-CP ngày I 2 tháng 8 năm 2023 của Chính phú sửa đối, bd
+sung một số điều của Nghị định sô 37/201 9/ND-CP ngày 07 tháng 5 năm 2019 của
+Chính phú quy định chỉ tiết một số điều của Luật Quy hoạch;
+
+Căn cứ Nghị quyết số 90/NQ-CP ngày 16 tháng 6 năm 2023 của Chỉnh
+phủ ban hành Chương trình hành động của Chính phú triển khai thực hiện
+Nghị quyết số 91/2023/QH15 của Quốc hội về Quy hoạch tổng thể quốc gia
+thời kỳ 2021 - 2030, tâm nhìn đến năm 2050 và Kế hoạch thực hiện Quy hoạch
+tong thé quốc gia thời kp 2021 - 2030, tam nhìn đến năm 2050;
+
+Căn cứ Quyết định số 509/QĐ-TTg ngày 13 tháng 6 năm 2024 của
+Thủ tướng Chính phủ về việc phê duyệt Quy hoạch hệ thông du lịch thời ky
+2021 - 2030, tâm nhìn đên năm 2050;
+
+
+---
+
+Theo dé nghị của Bộ Văn hóa, Thể thao và Du lịch tại Tờ trình sô 21/TTr-
+BVHTTDL ngày 21 tháng 01 năm 2025 về việc phê duyệt Kế hoạch thực hiện
+Quy hoạch hệ thong du lịch thời ky 2021 - 2030, tâm nhìn đến năm 2045.
+
+QUYET ĐỊNH:
+
+Điều 1. Ban hành kèm theo Quyết ‹ định này Kế hoạch thực hiện Quy hoạch
+hệ thong du lịch thời kỳ 2021 - 2030, tam nhìn đến năm 2050.
+
+Điều 2. Quyết định này có hiệu lực thi hành ké từ ngày ký ban hành.
+
+Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan
+thuộc Chính phủ; Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc
+Trung ương và các đơn vị liên quan chịu trách nhiệm thi hành Quyết định nàý./.
+
+Nơi nhận: KT. THỦ TUONG
+- Ban Bí thư Trung ương Đảng; An r A
+
+- Thủ tướng, các Phó Thủ tướng Chính phủ;
+
+- Các Bộ, cơ quan ngang Độ, cơ quan thuộc Chính phủ;
+- HĐND, UBND các tỉnh, thành phố trực thuộc TW;
+- Văn phòng Trung ương và các Ban của Đảng:
+- Văn phòng Tổng Bí thư;
+
+- Văn phòng Chủ tịch nước;
+- Văn phòng Quốc hội,
+- Tòa án nhân dân tối cao;
+- Viện Kiểm sát nhân dân tối cao;
+- Kiểm toán Nha nước;
+- Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam;
+- VPCP: BTCN, cac PCN, Trg ly TTg,
+TGD Céng TIDT, các Vụ, Cục;
+- Lưu: VT, KGVX (3b). 4§
+
+
+---
+
+WG CHÍNH PHU CONG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+7 Độc lập - Tự do - Hạnh phúc
+
+KE HOẠCH
+Thực hiện Quy hoạch hệ thông du lịch thời kỳ 2021 - 2030,
+tâm nhìn đến năm 2045
+(Kèm theo Quyết định số 342/QĐ-TTg
+ngày đJ tháng ñL năm 2025 của Thủ tướng Chính phủ)
+
+I. MỤC TIỂU, YEU CAU
+1. Muc tiéu
+
+a) Quan triệt và triển khai thực hiện Quy hoạch hệ thống du lịch thời kỳ
+2021 - 2030, tâm nhìn đến năm 2045 được Thủ tướng Chính phủ phê duyệt
+tại Quyết định số 509/QĐ-TTg ngày 13 tháng 6 năm 2024 (sau đây viết tắt là
+Quy hoạch hệ thống du lịch) bảo đảm hiệu quả, hiệu lực.
+
+b) Xác định cụ thể tiến độ và nguồn lực thực hiện các hoạt động, chương
+trình, dy án để xây dựng các chính sách, giải pháp nhằm bố trí, phân bổ nguồn
+lực của Nhà nước cũng như thu hút các nguôn lực xã hội trong việc thực hiện
+các nhiệm vụ, chính sách, giải pháp trong Quy hoạch hệ thống du lịch.
+
+c) Thiết lập khung kết quả thực hiện theo từng giai đoạn làm cơ sở để rà
+soát, đánh giá việc thực hiện Quy hoạch hệ thống du lịch; xem xét điều chỉnh,
+bé sung các nhiệm vụ, giải pháp để đạt được mục tiêu phát triển đã đề ra.
+
+đ) Phát triển du lịch bền vững, sáng tạo, trên nền tảng tăng trưởng xanh,
+đậm da bản sắc văn hóa Việt Nam...; bảo đảm an ninh, quôc phòng, trật tự an
+toàn xã hội.
+
+đ) Phân công trách nhiệm cụ thể đôi với các bộ, ngành địa phương theo
+chức năng, nhiệm vụ; xây dựng lộ trình tổ chức triển khai thực hiện các hoạt
+động, chương trình, dự án nhằm thực hiện các mục tiêu, nhiệm vụ và giải pháp
+của quy hoạch đã đề ra.
+
+2. Yêu cầu
+
+a) Đảm bảo tính tuân thủ, tính kế thừa các chương trình hành động, kế hoạch
+đầu tư công đã được phê duyệt, tính liên kết, thống nhất, không chồng lan, mâu
+thuẫn giữa các nhiệm vụ, chương trình, dự án của các ngành, các địa phương.
+
+b) Đảm bảo tính đồng bộ, khả thi, linh hoạt các giải pháp trong triển khai
+thực hiện Quy hoạch hệ thong du lich, nhằm hoàn thành các chỉ tiêu phát triển
+du lịch, phù hợp với thể chế kinh tế thị trường định hướng xã hội chủ nghĩa;
+
+
+---
+
+phù hợp với bỗi cảnh, nguồn lực của quốc gia, điều kiện thực t tế của từng địa
+phương và bối cảnh hội nhập quốc tế.
+
+c) Đảm bảo việc thực hiện các chương trình, dự án có tính ¡đến day du cac
+tác động kinh tế, xã hội, môi trường hiện tại và tương lai; vừa đáp ứng được
+nhu câu của khách du lịch và sự phát triển của ngành du lịch, vừa đáp ứng được
+yêu cầu bảo vệ môi trường sinh thái và các yêu câu của cộng đồng địa phương.
+
+d) Huy động tối đa các nguồn lực và các thành phân kinh tế tham gia phát
+triển du lịch; nghiên cứu, đề xuất cắt giảm, đơn giản hóa quy định kinh doanh có
+liên quan dé tạo điều kiện phát triển hệ thong doanh nghiệp du lịch.
+
+đ) Phân bố nguồn lực có trọng tâm, trọng điểm, phù hợp với khả năng huy
+động nguồn vốn; kết hợp hài hòa giữa các nguồn lực; nguồn vốn đầu tư công
+có tính dẫn dắt tăng trưởng nguôn vốn dau tư xã hội, tạo ra sự phát triển đột
+phá của ngành du lịch, thúc đây quá trình chuyển đổi mô hình phát triển các
+ngành dịch vụ khác theo hướng giá trị và hiệu quả cao.
+
+e) Đề cao tính chủ động, sáng tạo, linh hoạt của các địa phương, doanh
+nghiệp trong triển khai thực hiện Quy hoạch hệ thống du lịch; đây mạnh thu
+hút đầu tư cho du lịch, đặc biệt là đầu tư hạ tầng giao thông, cảng biến, sân bay,
+bến tàu... phục vụ du lịch.
+
+II. NỘI DUNG KE HOẠCH THỰC HIỆN QUY HOẠCH
+1. Nguyên tắc triển khai các đự án
+
+a) Phù hợp với các định hướng phát triển của đất nước; với quan điểm,
+mục tiêu, định hướng đề ra trong Nghị quyết số 08-NQ/TW ngày 16 tháng 01
+năm 2017 của Bộ Chính trị về phát triển du lịch trở thành ngành kinh tế mũi
+nhọn; Chiến lược phát triển Du lịch Việt Nam đến năm 2030 và “Chỉ thị số
+08/CT-TTg ngay 23 tháng 02 năm 2024 của Thủ tướng Chính phủ về phát triển
+du lịch toàn diện, nhanh và bên vững thời gian tới.
+
+b) Đáp ứng yêu cầu về bảo dam quốc phòng, an ninh; phù hợp với Chi thị
+số 10/CT-TTg ngày 31 tháng 3 năm 2021 của Thủ tướng Chính phủ về
+“Công tác bảo vệ an ninh quốc gia, bảo đảm trật tự an toàn xã hội trong lĩnh
+vực du lịch trong tình hình mới”.
+
+c) Phù hợp với pháp luật hiện hành; bảo đảm tuân thủ các cam kết quốc
+tế, nhất là cam kết liên quan đến bảo vệ di sản và các điều ước quốc tế, thỏa
+thuận song phương mà Việt Nam là thành viên.
+
+d) Là các dự án quan trọng đã được xác định trong quy hoạch vùng; các
+dự án phù hợp với Quy hoạch tông thể quốc gia, quy hoạch ngành, lĩnh vực.
+
+đ) Trên cơ sở định hướn tổ chức không gian lãnh thô du lịch, định hướng
+phát triển thị trường, sản phẩm du lịch, xác định các dự án lớn, có tính chất
+
+
+---
+
+quan trọng, tạo động lực thúc đây phát triển du lịch cả nước, theo vùng dé ưu
+tiên đầu tư và thu hút đầu tư, tùy thuộc vào nhu cầu và khả năng cân đối, huy
+động vốn đầu tư của từng thời kỳ.
+
+2. Dự án đầu tư công
+
+a) Các dự án ưu tiên đầu tư của ngành du lịch được db» xuất trong quy
+hoạch được phân thành các nhóm dự án về: Chuyên đôi số; đầu tư phát triển hạ
+tang; đào tạo, bôi dưỡng nguôn nhân lực; quảng bá, phát triển thương hiệu; bảo
+tồn phát huy giá trị tài nguyên, bảo vệ môi trường..., dự án có ý nghĩa quan
+trọng, cap thiệt, tao đột phá cho phát triển du lịch gắn với hình thành các khu
+vực động lực phát triển du lịch, các trung tâm du lịch, hệ thống các Khu du lịch
+quốc gia và các hành lang kết nối phát triển du lịch dé thúc đây, lan tỏa phát
+triển du lịch, kinh tế - xã hội trên các vùng và cả nước.
+
+b) Tập trung đầu tư hoặc hỗ trợ đầu tư cho các hạng mục kết cầu hạ tang
+trong cac khu, diém du lich (đặc biệt là các khu du lich quốc gia đã được cap
+có thấm quyền công nhận), xúc tiền quảng bá, phát triển thương hiệu; phát triển
+nguồn nhân lực; bảo tồn và phát huy giá trị tài nguyên, bảo vệ môi trường du
+lịch và nghiên cứu ứng dụng công nghệ.
+
+c) Hỗ trợ công tác xúc tiến quảng bá và phát triển thương hiệu ở tâm quốc
+gia và cấp ving; phát triển sản phẩm mới; phát triển nguồn nhân lực..
+
+3. Dự án sử dụng các nguồn vốn khác ngoài vốn đầu tư công
+
+a) Việc triển khai các dự án phải đảm bảo nguyên tắc: Các tỉnh, thành phố
+trực thuộc Trung ương căn cứ định hướng ưu tiên phát triển hệ thông du lịch
+đã được Thủ tướng Chính phủ phê duyệt tại các quy hoạch cấp quôc gia, quy
+hoạch vùng, quy hoạch tỉnh dé tô chức thu hút các nguồn vốn khác ngoài von
+đầu tư công đầu tư phát triển hệ thống du lịch theo các quy hoạch, kế hoạch bảo
+đảm hiệu quả và đúng quy định.
+
+b) Loại hình dự án quan trọng dự kiến ưu tiên.
+
+- Khu vực tư nhân là nguồn lực chính tập trung dau tư cho phát triển cơ sở
+vật chất kỹ thuật, phat triển sản phẩm, xúc tiến quảng bá, phát triển thương hiệu
+và các công trình hạ tầng chức năng thuộc các khu, điểm du lịch.
+
+- Phát triển đồng bộ hệ thống hạ tầng và vật chất kỹ thuật phục vụ phát
+triển du lịch, tập trung vào các hạng mục: hệ thông hạ tầng kết nối các khu,
+điểm du lịch; hệ thống hạ tầng trong các khu, điểm du lịch; hệ thông cơ sở vật
+chất kỹ thuật du lịch.
+
+- Đầu tư phát triển sản phẩm du lịch và xây dựng thương hiệu du lịch quốc
+gia, tập trung vào các hạng mục: đầu tư phát triển hệ thống thương hiệu du lịch
+Việt Nam, hệ thống sản phẩm du lịch đồng bộ, đa dạng: ưu tiên các sản phẩm
+
+
+---
+
+du lịch mới, độc đáo, đặc sắc theo vùng, miền và dựa trên bản sắc văn hóa Việt
+Nam và thế mạnh về sinh thái, văn hóa các vùng miền; phát triển các cơ sở dịch
+vụ du lịch gắn với các loại hình du lịch tạo sự đồng bộ, hiện đại, tiện nghỉ trong
+các khu du lịch, điểm du lịch.
+
+- Đầu tư phát triển nguồn nhân lực du lịch, tập trung vào các hạng mục:
+nâng cao chất lượng dịch vụ du lịch; đầu tư cho cơ sở đào tạo du lịch, xây dựng
+các chuẩn kỹ năng và đào tạo theo chuẩn trình độ, nâng cao chất lượng giáo
+viên, đầu tư cho đào tạo nhân lực bậc cao, nhân lực quản ly; ưu tiên đầu tư phát
+triển nhân lực du lịch vùng sâu, vùng xa, vùng dân tộc thiểu số.
+
+- Đầu tư cho công tác xúc tiến quảng bá, tập trung vào các hạng mục: tổ
+chức các hoạt động xúc tiến, quảng bá du lịch Việt Nam tại nước ngoài; tổ chức
+các hoạt động xúc tiến, quang bá du lịch liên vùng, liên địa phương; quảng bá
+du lịch trên các phương tiện truyền thông đa phương tiện; phát triển marketing
+điện tử trên nền tảng sô; xây dựng cơ sở dữ liệu, phát triển các ứng dụng quảng
+bá du lịch; sản xuất ân phẩm, vật phẩm phục vụ xúc tiến, quảng bá du lịch.
+
+- Đầu tư phát triển tài nguyên và bảo vệ môi trường du lịch, tập trung vào các
+hạng mục: tôn tạo tài nguyên du lịch; bảo quản, tu bé, phục hồi các di tích văn hóa
+lịch sử, danh lam thắng cảnh và di sản thé giới; khôi phục nghề thủ công truyền
+thống: bảo vệ môi trường, du lịch; lồng ghép với các chương trình dự án đầu tư
+bảo vệ, tôn tạo di tích, môi trường...
+
+4. Kế hoạch sử dụng đất
+
+Căn cứ vào Quy hoạch sử r dụng đất quốc gia thời kỳ 2021 - 2030, tầm nhìn
+đến năm 2050 (Nghị quyết số 39/2021/QH15 ngày 13 tháng 11 năm 2021);
+các quy hoạch vùng, quy hoạch tỉnh và chỉ tiêu quy hoạch sử dụng đất quôc gia
+thời kỳ 2021 - 2030, tâm nhìn đến năm 2050; kế hoạch sử dụng đất quốc gia 05
+năm 2021 - 2025 (Quyết định số 326/QĐ-TTg ngày 09 tháng 3 năm 2022);
+điều chỉnh phân bổ một số chỉ tiêu sử dụng đất đến năm 2025 (Quyết định số
+227/QĐ-TTg ngày 12 tháng 3 năm 2024), Ủy ban nhân dân các tỉnh, thành phế
+trực thuộc Trung ương có trách nhiệm xây dựng phương án phân bổ, khoanh
+vùng đất dai dé triển khai các chương trình, dự án du lịch trên địa bàn bảo đảm
+tuân thủ các định hướng về phát triển du lịch tại địa phương, đáp ứng yêu cầu
+phát triển bên vững, bảo vệ môi trường và phù hợp với chỉ tiêu sử dụng đất đã
+được cấp có thâm quyền giao, bảo đảm tiết kiệm, hiệu quả.
+
+5. Xác định nguồn lực và việc sử dụng nguồn lực dé thực hiện quy hoạch
+
+- Huy động và sử dụng có hiệu quả vốn đầu tư từ các nguồn: (i) Vốn khu
+vực nhà nước: nguồn ngân sách nhà nước; nguồn vốn hỗ trợ phát triển chính thức
+(ODA) và quỹ Hỗ trợ phát triển du lịch; (ii) Vốn khu vực ngoài nhà nước: nguồn
+vốn huy động từ khu vực tư nhân (bao gôm cả vốn đầu tư trực tiếp nước ngoài).
+
+
+---
 
 5
-- C6 co chiS phtr hqp dd F, .qi tilAu kiQn thuan lSr vd l,Jruyin khich khu
-v.uc kinh tii tu nhan tham gra dau tu ph6t fii5n du l!ch.
-- Trgrng quri tinh xiy d1mg, ni6n trtrai c6c dg rin qr th6, co quan c6 thAm
-.
-quy6n ch6p thufn hoac quy6t ttinh chri truong dAu tu x6c ttinh vi tri, diQn tich,
-quy T6, c6ng su6t, phan ky dAu tu phri hqp voi khi ning huy ttQng ngu6n tgc,
-y6u cdu thlrc ti6n vd theo tlung c6c quy tlinh ph6p luflt hi€n hdnh c6 li6n quan.
-rrr. To cHr/c rnl/c rilEN
-C6c bQ, nginh, dia phucmg, c6c t6 chric, c6 nhdn ni6n kfiai Quy hoach hQ
-thting du lich vd Ki5 ho4ch thyc hiQn Quy ho4ch tong ph4m vi chric n6ng, quydn
-h4n vi theo thAm quydn. CU th6:
-L BO Vdn h6a, Th6 thao vi Du lich
-a) T6 chric tuy6n truyAn, pnO Ui6n nQi dung Quy ho4ch hQ thi5ng du lich
-vi c6ng b5 Ki5 ho4ch thyc hiQn Quy hoach hQ th5ng du lich dE dugc ph6 duyQt
-t6
-cilc co, quqn, t6 chfc 1i6n quan, nhd dAu tu, d5i tric ph6t tri6n trong nu6c
-vi qu6c t6 nhem huy tlQng ngu6n lgc thuc hiQn c6c mgc ti6u cria quy ho4ch;
-luu trti, lrru git hti so vi cung c6p th6ng tin, dt liQu vA quy ho4ch hQ thiing
-du lich theo thAm quy6n vd quy <linh ph6p luQt.
-b) Chri fti, ph5i hqp voi c6c bQ, nganh vi Uy ban nh6n dfu q5c tinb thanh
-ph6 tr.uc thuQc Trung uong huong dAn, ki6m m viQc thuc hiQn Quy hoach hQ
-th5ng du lich tu&rtht tlung quy <linh ph6p luit; t6ng hgp tinh hinh, k6t quathgc
-hiQn Quy hoech h€ th6ng du lich, b6o c6o Thri tuong Chffi phri theo dinh ki'
-hd,ng ndm, 05 ndm vd dQt xu6t theo y6u cAu cua c6p c6 thAm quyen.
--r
-c) Tri chric nghiCn crtu, tham c6 thdm quyAn ban hantr ho{c ban
-"6p
-hanh theo thAm quyAn c6c co ch6, chinh s6ch, hoan thipn th6 chi5 quy tlinh ptr6p
-Iu{t vii p}r,6t tri,3n du lich; tham gia x6y {mg vd tr5 chrlc thgc hi-En c6c chinh s6ch,
-chuong tinh, dA 6n, fu 6n ph6i trqp h5 no., pht hqp voi y6u cAu cua Quy ho4ch.
-d) Ph6i hq,p v6i BO Tei chinh, BQ K6 ho4ch vi DAu tu d6 b6 tri ng6n s6ch
-hAng nirn thUc hiQn quy hogch theo quy tlinh cua Luflt DAu tu c6ng nfun 2019
-vn Luft NgAn s6ch nhd nudc ntrm 2015.
-2. CitcBQ, co quan ngang BQ vi co quan li6n quan
-a) Theo chric n[ng, nhiQm vU vi thim quydn, tham muu tinh Chinh phri,
-Thri tuong Chinh phri ph6 duyQt vi d.inh viQc thgc hiQn c6c quy hosch thuQc
-phqm vi quan ly phtr hqp voi Quy hoqch hQ th6ng du lich thoi ky 2O2l - 2030,
-tAm ntrin a,5n nern 2045 v|,quy ttinh cua ph6p luQt vA quy ho4ch; tich cgc ph6i
-hqp hiQu qua voi BO Ven h6a, ThA thao vd Du lich trong viQc giai quyiSt nhting
-v6n Ad fen ngantr nong ph6t ti6n du lich.
 
-6
-b) Chri ti, ph6i hgrp v6i c6c co quan, don vi li6n quan ui6n k{rai c6c chuong
-tinh, dg 6.n d6 dugc xrlc tlinh Ci Quy hoach vi KC hoech thUc hiQn Quy hoach
-hQ th6ng du lich theo chric n[ng quan $.
-c) NQi dung ph6n c6ng nhiQm w cu th6:
-- BO K6 ho4ch vd DAu tu chri tri, ph5i hqp voi BQ VIn h6a, ThiS thao vd
-Du lich vd c6c bQ, cs quan li6n quan ri so6t, x6c dlnh c6c nQi dung, nhiQm vg
-ttAu tu Nhd nu6c cho du lich, co chii chinh s6ch dAu tu du lich va can d6i vA
-v5n, ngudn lyc kh6c, huy dQng c6c ngudn tAi trg rong vi ngodi nu6c cho tliu
-tu ph6t hiiin du lich.
-- BO Tai chffi chri ti, pht5i hqp voi BO Ven h6a, Th6 thao vir Du lich vi
-c6c b0, co quan 1i6n quan x6c <tinh d lQ ng6n s6ch nhdr nu6c chi cho ri6n knai
-thlrc hiQn Quy hoach hQ thiing du lich theo quy tlinh cua ph6p luflt vd ngdn s6ch
-, .A
-nhi nu6c vi c6c co ch6, chinh s6ch, quy tlinh ph6p luft c6 li6n quan.
-- BQ C6ng an vd BQ Qui5c phdng ctui cr? chric ntrng, nhiQm vu vi quy dinh
-ptuip lu$t thgc hiQn nhiQm vU b6o vQ an ninh qu5c gia" dam bio trat tU an toan
-xd hQi trong linh vUc du lich; phSi hqp c6c bQ, ngdnh, don vi li6n quan ri so6t,
-cii c6ch thri tqc nhfp canh, xu6t cdmh, qu6 canh vi cu tr6, tgo di6u ki€n thu6n
-lgi cho kh6ch qutic t6 <ti5n Vi€t Nam vd nguoi Viet Nam tli du lich nu6c ngoii;
-hd ng trong thAm .tinh c6c dA 6n, 4r 6n ph6t tritin c6c logi hinh du lich bi6n
-gioi, h6i ttao k6t hqp quric phdng, an ninh.
-- B0 NQi vU thyc hiQn chric nEng quan lf nhi nudc, h5 trg cho bQ m6y
-quan ly tir Trung ucmg tliin dla phuong cria nganh du lich ho4t tlQng hiQu qui.
-- BQ Th6ng tin vi Truydn th6ng, Dii TruyAn hinh Viet Nam, Dii TiiSng n6i
-ViQt Nam, Th6ng dn xd Vi€t Nam thgc hiQn chtc ning, nhiQm vU li6n quan toi
-quan ly th6ng tin, truyAn th6ng du lich da phuong tiQn; ung dgng c6ng nghQ
-th6ng tin.trong truyAn th6ng vio ho4t tlQng du lich, nh6t ld xric ti6n quang p6
-vn hQ thting dich vU du lich t4rc tuy5n. Dting thoi, BQ Th6ng tin vi TruyAn
-ti,
-th6ng chri phi5i hqp voi BO Vtui h6q Th6 thao vdr Du lich ttAy mqnh truyAn
-th6ng hoan thiQn hQ th6ng hg tAng c6ng nghQ th6ng tin; h5 nq tt6y nhanh qu6
-tinh chuy6n it6i s6 nganh du lich, hinh thanh vd ptuit ti6n h€ sinh ttuii du lich
-th6ng minh.
-- BQ Tdi nguy6n vi M6i tru0rng chri tri, huong d6n, ki6m na viQc thlrc hiQn
-tei c6c <lia phuong trong viQc quy hopch vA srl dgng qu! tt6t cho ho4t dQng du
-lich; bio vQ m6i trudng du lich, (mg ph6 voi Ui6n t6i Uri hflu...; ra so6t, dA xu6t
-c6c khu v.uc, r{ia di6m c6 tiAm nEng x6y dpg crlc m6 hinh c6ng vi6n ttia ch6t
-c6p qu6c gia, c6ng vi6n dia ch6t cdp qu6c t6 phqc vu ph6t tri6n du lich.
-ti,
-- BQ Ngo4i grao chri ph5i h"-" dey mqnh xuc tii5n quang b6 du lich d
-trong vir ngod,i nu6c.
+- Có cơ chế phù hợp để tạo mọi điều kiện thuận lợi và khuyến khích khu
+vực kinh tế tư nhân tham gia đầu tư phát triển du lich.
+
+- Trong quá trình xây dựng, triển khai các dự án cụ thể, cơ quan có thâm
+quyên chấp thuận hoặc quyết định chủ trương đầu tư xác định vị trí, diện tích,
+quy mộ, công suất, phân kỳ đầu tư phù hợp với khả năng huy động nguồn lực,
+yêu câu thực tiễn và theo đúng các quy định pháp luật hiện hành có liên quan.
+
+II. TO CHỨC THỰC HIEN
+
+Các bộ, ngành, địa phương, các tô chức, cá nhân triển khai Quy hoạch hệ
+thống du lịch và Kế hoạch thực :hiện Quy hoạch trong phạm vi chức năng, quyền
+han va theo thâm quyên. Cụ thé:
+
+1. Bộ Văn hóa, Thể thao và Du lịch
+
+a) Tô chức tuyên truyền, phố biến nội dung Quy hoạch hệ thống du lịch
+và công bố Kế hoạch thực hiện Quy hoạch hệ thông du lịch đã được phê duyệt
+tới các co quan, tô chức liên quan, nhà đầu tư, đối tác phát triển trong nước
+và quốc tế nhằm huy động nguôn lực thực hiện các mục tiêu của quy hoạch;
+lưu trữ, lưu giữ hồ sơ và cung cấp thông tin, đữ liệu về Quy hoạch hệ thong
+du lich theo tham quyền và quy định pháp luật.
+
+b) Chủ trì, phối hợp với các bộ, ngành và Ủy ban nhân dân các tỉnh, thành
+pho trực thuộc Trung ương hướng dẫn, kiểm tra việc thực hiện Quy hoạch hệ
+thống du lịch tuân thủ đúng quy định pháp luật; tông hợp tình hình, kết quả thực
+hiện Quy hoạch hệ thống du lịch, báo cáo Thủ tướng Chính phủ theo định kỳ
+hàng năm, 05 năm và đột xuất theo yêu cầu của cấp có thâm quyền.
+
+c) Tổ chức nghiên cứu, tham mưu cấp có thẩm quyền ban hành hoặc ban
+hành theo thâm quyên các cơ chế, chính sách, hoàn thiện thê chế quy định pháp
+luật về phát triển du lịch; tham gia xây dựng và tô chức thực hiện các chính sách,
+chương trình, đề án, dự án phối hợp hỗ trợ, phù hợp với yêu cầu của Quy hoạch.
+
+d) Phối hợp với Bộ Tài chính, Bộ Kế hoạch và Dau tư dé bố trí ngân sách
+hàng năm thực hiện quy hoạch theo quy định của Luật Đầu tư công năm 2019
+và Luật Ngân sách nhà nước năm 2015.
+
+2. Các Bộ, cơ quan ngang Bộ và cơ quan liên quan
+
+a) Theo chức năng, nhiệm vụ và thâm quyền, tham mưu trình Chính phủ,
+Thủ tướng Chính phủ phê duyệt và đánh việc thực hiện các quy hoạch thuộc
+phạm vi quản lý phù hợp với Quy hoạch hệ thông du lịch thời kỳ 2021 - 2030,
+tâm nhìn đến năm 2045 và quy định của pháp luật về quy hoạch; tích cực phối
+hợp hiệu quả với Bộ Văn hóa, Thể thao và Du lịch trong việc giải quyết những
+vấn đề liên ngành trong phát triển du lịch.
+
+
+---
+
+b) Chủ trì, phối hợp với các cơ quan, đơn vị liên quan triển khai các chương
+trình, dự án đã được xác định tại Quy hoạch và Kê hoạch thực hiện Quy hoạch
+hệ thông du lịch theo chức năng quản lý.
+
+c) Nội dung phân công nhiệm vụ cụ thé:
+
+- Bộ Kế hoạch va Đầu tư chủ trì, phối hợp với Bộ Văn hóa, Thể thao va
+Du lịch và các bộ, cơ quan liên quan rà soát, xác định các nội dung, nhiệm vụ
+đầu tư Nhà nước cho du lịch, cơ chế chính sách đầu tư du lịch và cân đối về
+vốn, nguồn lực khác, huy động các nguồn tai trợ trong và ngoài nước cho đầu
+tư phát triển du lịch.
+
+- Bộ Tài chính chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch và
+các bộ, cơ quan liên quan xác định tỷ lệ ngân sách nhà nước chỉ cho triển khai
+thực hiện Quy hoạch hệ thống du lịch theo quy định của pháp luật về ngân sách
+nhà nước và các cơ chế, chính sách, quy định pháp luật có liên quan.
+
+- Bộ Công an và Bộ Quốc phòng căn cứ chức năng. nhiệm vụ và quy định
+pháp luật thực hiện nhiệm vụ bảo vệ an ninh quốc gia, đảm bảo trật tự an toàn
+xã hội trong lĩnh vực du lịch; phối hợp các bộ, ngành, đơn vị liên quan ra soát,
+cai cach thu tuc nhập cảnh, xuất cảnh, quá cảnh và cư trú, tạo điều kiện thuận
+lợi cho khách quốc tế đến Việt Nam và người Việt Nam đi du lịch nước ngoài;
+hỗ trợ trong thâm định các dé án, dự án phát triển các loại hình du lịch biên
+giới, hải đảo kết hợp quốc phòng, an ninh.
+
+- Bộ Nội vụ thực hiện chức năng quản lý nhà nước, hỗ trợ cho bộ máy
+quản lý từ Trung ương đến địa phương của ngành du lịch hoạt động hiệu quả.
+
+- Bộ Thông tin và Truyền thông, Dai Truyền hình Việt Nam, Đài Tiếng nói
+Việt Nam, Thông tấn xã Việt Nam thực hiện chức năng, nhiệm vụ liên quan tới
+quản lý thông tin, truyền thông du lịch đa phương tiện; ứng dụng công nghệ
+thông tỉn trong truyền thông vào hoạt . động du lịch, nhất là xúc tiến quảng bá
+và hệ thống dịch vụ du lịch trực tuyến. Đồng thời, Bộ Thông tin và Truyền
+thông chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch day manh truyén
+thông hoàn thiện hệ thống hạ tầng công nghệ thông tin; hỗ trợ đây nhanh quá
+trình chuyên đổi số ngành du lịch, hình thành và phát triển hệ sinh thái du lịch
+thông minh.
+
+- Bộ Tài nguyên và Môi trường chủ trì, hướng dẫn, kiểm tra việc thực hiện
+tại các địa phương trong việc quy hoạch và sử dụng quỹ đất cho hoạt động du
+lịch; bảo vệ môi trường du lịch, ứng phó với biến đổi khí hậu...; rà soát, đề xuất
+các khu vực, địa điểm có tiềm năng xây dựng các mô hình công viên địa chất
+cấp quốc gia, công viên địa chất cấp quốc tế phục vụ phát triển du lịch.
+
+- Bộ Ngoại giao chủ trì, phối hợp đây mạnh xúc tiến quảng bá du lịch ở
+trong và ngoài nước.
+
+
+---
 
 7
-- B0 Khoa hgc vd C6ng nghQ chri ni, ph5i hqp voi BO Ven h6a, Th,a thao
-vd Du lich tri6n khai cric chuong tinh, dA t4 va AA ren tmg dUng khoa hgc c6ng
-nghQ phgc vu phrit tri6n du lich; c6c ti6u chu.in qu5c gia v61u [ctr; Uao vQ quyAn
-sd-hiiu tri tuQ frong kinh doanh du lich; tlA xu6t chinh s6ch h5 trq &u tu, ph6t
-tri6n, s6ng t4o san phAm, dich vU du lich tr6n ndn tang c6ng nghQ siS; AAV menfr
-rmg dUng c6ng nghQ xanh, c6ng ngh€ sach frong c6c co s& dich v9 vi co sd lrru
-tr0 du lich.
-, - BO Y t6 chri ui, pn5i hqp voi BQ VEn h6a, Th6 thao vd Du lich dA xu6t co
-chii, chinh s6ch ph6t tirin san phAm, dich vp y tii, ch[m s6c sric kh6e phgc vg du
-lich; hinh thanh he thSng co s& y tri ch6t lugng cao, il6p wrg y6u ciu phuc vu
-kh6ch du lich.
-ti
-- BQ Giao th6ng vfn tai chri xdy d1mg, rd so6t, diAu chinh co ch6, chinh
-s6ch, chi6n lugc, quy hoqch, k6 hopch ph6t fi6n ha ting giao th6ng, c6c phuong
-thric vfln tai khrich du lich, tAp trung veo vfln tai hang kh6ng; tlAy nhantr ti6n <lQ
-dAu tu moi cang hdng kh6ng Long Thenh, Chu Lai...; ndng c6p, md rQng c6c
-cang hang kh6ng t4i c6c tlia ban trgng tti6m vi tiAm n[ng, tru6c h6t t4i c6c cang
-hang kh6ng nhu NQi Bdi, Dd Ning, Tdn Son Nhdt, Cam Ranh, Phri Quiic, Phri
-Bii,Vdn Ddn...; dAu tu xiy dlmg mQt si5 cang bi6n du lich qu6c t6 vi c6c tuy6n
-dutmg bQ k6t nisi voi c6c Khu du lich qu5c gia.
-- BQ XAy d1mg chri ui, ph6i hgp voi BO Ven h6a, Th6 thao vir Du lfch x6y
-dgng co ch6 ly q6c toai hinh luu tni du lich m6i theo mO hinh kinh tri chia
-Cuen
-s9 vi quy hogth xdy Armg F c6c Khu du lich qulSc gia. Diu tu hinh thnnh mQt
-s6 cum du lich diing bQ, chSt lugng, c6 quy m6 l6n, deng c6p qu5c t5.
-- B0 Gi6o dgc vd Dio t+o, B0 Lao tlQng - Thuong binh vi Xi hQi cht ti,
-ph6i hqp voi B0 Ven h6a, Th6 thao vi Du llch viQc rd so6t, ban hdnh chinh s6ch
-thric dAy ph6t tri6n gSudn nhAn luc du lich; ting cudng ning lgc cria c6c co sd
-li
-dio t4o du lich, nh6t dio tpo nghA du [ch; ch6 .lO hm viQc, nghi ngoi cria
-nguoi lao tlQng, nghi 16, nghi ph6p, nghi hd gen voi c6c chuong tinh thric dAy
-du lich nQi tlia ph6t fi6n.
-. - BQ N6ng nehi€p vn Ph6t ti6n n6ng th6n chri $, nhi5i hVp voi B0 Ven h6a,
-Th6 thao vd Du lich l6ng gh6p c6c nQi dung ph6t tri6n du lich vdo Chuong tinh
-mgc ti6u quiic gia vA xiy dpg n6ng th6n moi, Chucrng trinh M6i x5, phuong
-mQt san phAm (OCOP); xdy dlmg c6c san phAm n6ng nghiQp, c6c m6 hinh ph6t
-ri6n n6ng nehi€p sqch, n6ng nghiQp c6ng nghQ gin voi ph6t tri6n du lich;
-"uo
-ph6i hqp voi B0 V[n h6a, fn6 thao vi Du l!ch, BO Tei nguy6n vi M6i trucrng
-nghi€n criu xdy dlmg co ch6, chinh s6ch ph6t tri,ln du lich sinh thrii, du lich
-cfng ttdng t4i c6c vudn qu5c gia, khu bio ttin bi6n vi khu b6o t6n thi6n nhi6n.
-3. Uy ban nhAn den tlntt, thanh ph6 trUc thuQc Trung uong
-a) Rir so6t, c$p nhflt c6c nQi dung cria Quy hoach hQ th5ng du lich vdo quy
-tffi
-ho4ch c6p tinh dem beo tich hqp, th6ng nh6t.
 
-8
-b) Chi <lao Ban Chi ttao ph6t tri6n du lich tinh, Sd Du lich, S& Vdn h6a,
-thiS thao vi Du lich vd c6c Sd, nganh li6n quan tritin khai thuc hiQn Quy ho4ch
-hQ th5ng du lich vd thu h6t da,, tu, huy ttQng ngudn lyc cho ptuit tri6n du lich
-tren dia ban tinh, thdnh phti.
-c) Chri ttQng b6 tri ngdn s6ch nhi nu6c d6 thuc hiQn cric nhiQm w trong
-Quy hoach h0 th6ng du llch theo quy tlinh cua Luft Ngdn s6ch nhA nu6c vi pht
-t^
-hq,p voi phdn c6p ng6n s6ch nhi nu6c hiQn hanh.
-d) Ph6i hgp voi B0 V[n h6a, fh6 thao vi Du lich t6 chric xdy 4mg vd thuc
-hiQn quy hogch c6c khu, di6m du lich quiic gia; c6ng nh{n Khu du lich quiic gia...
-tl) Cencritlinhhuongrong Quyho4ch hQ thiing du lich, ti6nhanhxdy dgng
-vi tti chric tri6n khai thUc hiQn k6 hoaclu aA aru au rin tl6u tu ptuit ti6n du lich
-tr6n tlia ban tinh.
-e) CIn cri nhu cAu vd tinh hinh ph6t tri6n cria dia phuong tt6 xdy d\mg K6
-hogch thyc hiQn Quy hoach h0 th5ng du lich tr6n tlia ban tinh ho[c l6ng ghdp
-c6c nhiQm vs t4i Ki5 ho4ch niy vdro Kr5 hogch ph6t tri,An kinh t6 - xE hQi 5 nEm
-vn hdng ndm, K5 hogch diu tu,c6ng trung hgn 5 nim, K6 hogch dAu tu c6ng
-hnng ndm cria fia phuong vd K6 hoqch thgc hi€n Quy hoech tinh.
-g) fh6i hqp tri6n khai c6c chuong tinh, dp rin tr6n <tia ban tlim bio phi
-hqp voi phuong ,in ph6r, b6 vd ktroanhv*g tt6t dai trong Quy hogch tlnh; chri
-tri, chi d4o c6c co quan, don vi thuQc vi tryc thuQc tii chric thgc hiQn grii ph6ng
-lf
-m{t b5ng, quan ch{t che qu} d6t d6 thUc hiQn vi€c giai ph6ng m{t Uing va
-thgc hiQn c6c chuorg ninh, d1r rln ptuit ni6n du lich tr6n tlia ban theo thAm
-quyAn vd quy dinh ph6p luft.
-h) Dinh k| so k6t, t6ng tciSt vigc tt4rc hiQn quy ho4ch tr6n dia ban vl gui b6o
-crio tinh hinh Orlrc triQn vA SO VEn h6a, Thd thao vd Du lich tru6c ngny l0 th6ng
-l2 hEng nIm tt6 t6ng hqp, xAy dpg b6o c6o tLimh gi6 viQc thuc hiQn Quy hoach
-hQ thiing du lich, brl,o c6o c6rc cAp co thArn quyAn theo quy dnh cua ph6p lu$t.
-4. Trong qu.i tinh thyc hiQn, nt6u c6 kt6 lJrEn, vuong mic, cric BQ, co quan
-ngang bQ vi Uy ban nh0n &in c6c tinla thanhph6 trpc thuQc Trung ucrng ki.p thdi
-gui b6o c6o vA B0 Ven h6a, Th6 ttrao vi Du lich d6 t6ng hqp, b6o c6o Tht hrong
-Chinh phri xem x6t, quy5t ttinh./.
+- Bộ Khoa học và Công nghệ chủ trì, phối hợp với Bộ Văn hóa, Thể thao
+và Du lịch triển khai các chương trình, đề tài và đề án ứng dụng khoa học công
+nghệ phục vụ phát triển du lịch; các tiêu chuẩn quốc gia về du lịch; bảo vệ quyên
+SỞ hữu trí tuệ trong kinh doanh du lịch; đề xuất chính sách hỗ trợ đầu ty, phat
+trién, sang tao san phẩm, dịch vụ du lịch trên nền tang cong nghé s6; day manh
 
-I
-Phg IBc
-cAc cnifr6ucU Tril, TIr{,Icrnf.-N QITYIToACH
-dinh s6 tgt /QD-TTg ngay ,t1 thdng candm 2025 cia Thi tudng Chfnh  phi)
-*\*f
-|     |          |        |     | D6n ntrm | D5n nim |                             |     | Don vi    |
-| --- | -------- | ------ | --- | -------- | ------- | --------------------------- | --- | --------- |
-| TT  | Chi tiGu | Don vi |     |          |         | Co quan theo ddi, il6nh gi6 |     |           |
-|     |          |        |     | 202s     | 2030    |                             |     | thqc hiQn |
-Kh6ch du lfch
-1
-BQ van h6a Thii ttrao vd Du lich
-| - Kh6ch qutic tti |     | TriQu luqt |     | 25 -28 | 35  | .r..  | ,.-:  |     |
-| ----------------- | --- | ---------- | --- | ------ | --- | ----- | ----- | --- |
-phdi hqrp vdi T6ng cUc -Tlh6ng kE
-BO VAn h6a, Th,5 thao vd Du lich
-| - Kh6ch nQi dla |     | Tri€u  | luqt |     |     |     |     |     |
-| --------------- | --- | ------ | ---- | --- | --- | --- | --- | --- |
-|                 |     |        |      | 130 | 160 |     |     |     |
-pfrOi hqp voi c6c tlia phuong
-2 Chi ti6u trung binlr/ngdy
-Co quan,
-- Kh6ch qu5c t6 Nghin ddng 3.200 4.000 BQ VEn h6a, Th6 thao vd Du lich t6 chric,
-- Kh6ch nQi tlia Nghin ddng 2.500 ptr5i trq,p v6i cdc <lla phuong doanh nehiQp
-1.600
-|                    |     |        | tj   |       |       |     |     | ho4t tlQng |
-| ------------------ | --- | ------ | ---- | ----- | ----- | --- | --- | ---------- |
-| 3 T6ng thu du llch |     | Nghin  | ddng | 1.264 | 2.630 |     |     |            |
-trong linh vyc
-| D6ng g6p cria Du llch |     |     |     |     |     | BO VEn h64 Th6 thao vd Du lich |     |     |
-| --------------------- | --- | --- | --- | --- | --- | ------------------------------ | --- | --- |
-8-9
-| 4         |     |     | %   |     | 13-14 |                                   |     | du lich |
-| --------- | --- | --- | --- | --- | ----- | --------------------------------- | --- | ------- |
-| trong GDP |     |     |     |     |       | ptr5i trqrp vdi T6ng cpc Th5ng kC |     |         |
-B0 V[n h6a, Th6 thao vd Du lich
-lim
-5 V6 vi€c  ldm Tri0u viQc  6,3 I0 5 ptrlii trg'p voi B0 Lao ttQng - Thuong
-binh vd Xa hQi
-BQ VIn h6a, Thii ttrao vd Du lich
-| 6 Bu6ng luu tru |     | TriQu bu6ng |     | 1,3 | 2,0 |     |     |     |
-| --------------- | --- | ----------- | --- | --- | --- | --- | --- | --- |
-vfi  c5c tlla phuong
-ptu5i trqrp
+ứng dụng công nghệ xanh, công nghệ sạch trong các cơ sở dịch vụ và co sở lưu
+trú du lịch.
 
-II
-Phg lgc
-NI4M
-|     | C   | VU, GIAI PHAP TIil/. C @N  |     |     | HOACH |
-| --- | --- | -------------------------- | --- | --- | ----- |
-QTIY
-DU LICrr TrId ICi ZUZ| - 2030, TAM NrIiN OfN NAVI ZOIS
-tii XZIgO-rug
-|     | (Kdm theo Qryet  |     | dinh  |     |     |
-| --- | ---------------- | --- | ----- | --- | --- |
-ngdy U tluing ot ndm 2025 cia Thi tuong Chinh phil)
-|     |     |     | Co quan | Co quan | Giai tlo4n |
-| --- | --- | --- | ------- | ------- | ---------- |
-TT T6n nhiQm vg, tI6 6n, dg 6n
-|     |     |     | cht tri | pn5i nqp | thuc hi6n |
-| --- | --- | --- | ------- | -------- | --------- |
-I
-NhiQm vg thu3 hi$n theo phip lu$t vd quy ho4ch
-I T6 chric c6ng b5, cung c6p th6ng BQ Vin h6a, C6c bQ, nganh 2024 -2025
-| tin vA Quy ho4ch, K6 ho4ch thyc |     |     | vi  | vi UBND c6c |     |
-| ------------------------------- | --- | --- | --- | ----------- | --- |
-Th6 thao
-| hiQn Quy hoach h€  | th6ng du lich |     | Du lich | tinh, thd,nh |     |
-| ------------------ | ------------- | --- | ------- | ------------ | --- |
-phii tr.uc
-thuQc TW
-| Lrru trii H6 so quy ho4ch; Cung      |     |     | Vin h6a,    |              |            |
-| ------------------------------------ | --- | --- | ----------- | ------------ | ---------- |
-| 2                                    |     |     | BQ          | B0 Ki5 hoach | 2024 -2025 |
-| c6p  dt  liQu Quy hosch hQ thi5ng du |     |     | Th6 thao vd | vd DAu tu    |            |
-| lich phpc w xay dpg                  |     |     | Du lich     |              |            |
-HQ thiing
-vi
-| th6ng tin  | co sd  dt li€u  | qui5c gia |     |     |     |
-| ---------- | --------------- | --------- | --- | --- | --- |
-vA quy ho4ch
-| Xiy dyng vd ri6n khai phuong rln    |     |           | UBND c6c    |              | 2024 -2026 |
-| ----------------------------------- | --- | --------- | ----------- | ------------ | ---------- |
-| 3                                   |     |           |             | BQ VEn h6a,  |            |
-| ph6t tri6n ha tene du lich c6p tinh |     |           | tinh, thinh | Th6 thao vd  |            |
-| tich hqp/ddng b0 vqi                |     | Quy hoach | ph5 tr.uc   | Du lich;B0   |            |
-| tinh                                |     |           | thuQc TW    | Kri hoach vd |            |
-D6uff
-4 T6 chric d6nh gi6, b6o c6o thgc B0 Vin h6a, C6c bQ, nganh Dinhk,
-vi vdUBND c6c
-| hiQn Quy ho4ch |     |     | Th6 thao  |             | hingndm,5    |
-| -------------- | --- | --- | --------- | ----------- | ------------ |
-|                |     |     | Du lich   | tinh, thenh | nim vd tl6.t |
-ph6 tr.uc
-xuat
-thuQc TW
-Vin h6a,
-| 5 Rd so6t c6c quy ho4ch, d1r an tr6n |     |     | UBND c6c    | BQ          | 2024-2025 |
-| ------------------------------------ | --- | --- | ----------- | ----------- | --------- |
-| tlia ban dia phuong bao dam tinh     |     |     | tinh, thenh | Th6 thao vd |           |
-qrc
-| thiing nhdt, tl6ng bQ  |     | voi  Quy hoqch | ph6  | Du lich; B0 |     |
-| ---------------------- | --- | -------------- | ---- | ----------- | --- |
-vi
-| hQ thi5ng du lich. CQp nhQt nQi dung |     |     | thuQc TW | Ki5 ho4ch  |     |
-| ------------------------------------ | --- | --- | -------- | ---------- | --- |
-| Quy ho4ch tlla phucng bio            |     |     |          | Diu tu     |     |
-<l6m
-tu6n thri c6c dinh hu6ng ph6t triiSn
-hQ thting du lich tai <tia phuong
-theo quy hopch nginh quiic gia
+- Bộ Y tế chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch dé xuất cơ
+chế, chính sách phát triển sản phẩm, dịch vụ y tế, chăm sóc sức khỏe phục vụ du
 
-2
-|     | Co quan | Cc quan | Giai tloln |
-| --- | ------- | ------- | ---------- |
-TT TGn nhiQm vg, tld 6n, dg 6n
-|     | chfr  tri | 'pn5ihqp | thu-c hiQn |
-| --- | --------- | -------- | ---------- |
-II
-NhiQm vg trgng tim tri5n khai thu. c hiQn Quy ho4ch
-I Chuyrln diSi s5 trong nganh du lich BQ  Vin h6a, C6c bQ, nganh 2021-2030
-|     | Th,i thao vd | vh UBND c6c |     |
-| --- | ------------ | ----------- | --- |
-Du lich
-tinh, thanh
-ph5 tn;c
-thuQc TW
-2 Ph6t triiin hQ th6ng co sd dft liQu BQ Vdn h6a, C6c bQ, nganh 2021-2045
-| qu6c gia vA du [ch | rh6 | vA UBND c6c |     |
-| ------------------ | --- | ----------- | --- |
-thao vlr Du
-tinh, thAnh
-|     | lfch | ph6 tr.uc |     |
-| --- | ---- | --------- | --- |
-thuQc TW
-3 DAu tu ph6t tri6n ha ting du lich tai UBND c6c BQ Vdn h6a, 2021-2045
-| c6c cgc tlng truong chri tlao g[n voi | tinh, thenh | Thc |     |
-| ------------------------------------- | ----------- | --- | --- |
-t.
-|     | ph6 trgc | thao vir Du |     |
-| --- | -------- | ----------- | --- |
-cac cuc tang truong quoc gra
-|     | thuQc TW | lich, c6c bQ, |     |
-| --- | -------- | ------------- | --- |
-ngirnh
-4 Diu tu ph6t tri6n ha tAng du lich tgi UBND c6c BQ VEn h6a, 2021-2045
-*l..
-c6c trung t6m du llch gdn voi c6c tt6 tinh, thanh I ne tnao va
-| flri c6ti6m ndng vd lqi  | phii tnrc |     |     |
-| ------------------------ | --------- | --- | --- |
-thiS Du lich, c6c
-|                                       | thuQc TW    | bQ, nganh    |           |
-| ------------------------------------- | ----------- | ------------ | --------- |
-| DAu tu ph6t tri6n ha tAng du lich tai | UBND c6c    |              | 2021-2045 |
-| 5                                     |             | BQ Vdn h6a,  |           |
-| c6c Khu du tich qutic gia dE dugc     | tinh, thanh | Th6 thao vd  |           |
-| c6ng nh{n vd c6c ttia tti6m ti6m      | phti t4rc   | Du lich, c6c |           |
-| nlng td  thanh Khu du llch qu6c gia   | thuQc TW    | bQ, nginh    |           |
-| 6 Ddo tgo, UOi auOng ndng cao chdt    | BQ VEn h6a, |              | 2021-2030 |
-vi
-| lugng ngudn nhAn lgc du lich | Th6 thao  |     |     |
-| ---------------------------- | --------- | --- | --- |
-Du lich; c6c
-b$, ngdnh,
-tlia phuong
-| 7 Diutuxric titin, quang br! ph6tfi6n | BQ VIn h6a,  |     | 2021-2045 |
-| ------------------------------------- | ------------ | --- | --------- |
-| thuong hiQu du llch                   | Th'3 thao vd |     |           |
-Du llch; cdc
-bQ, ngdu:h,
-dia phuong
-ti
-8 Bao t6n ptrSt huy gi6  tai nguyEn UBND c5c BQ Vin h6a, 2021-2045
-vi
-| du lfch, b6o vQ m6i truong du lich | tinh, thanh | Th6 thao     |     |
-| ---------------------------------- | ----------- | ------------ | --- |
-|                                    | phti trpc   | Du lich, c6c |     |
-|                                    | thuQc TW    | bQ, nganh    |     |
+lịch; hình thành hệ thống cơ sở y tế chất lượng cao, đáp ứng yêu câu phục vụ
+khách du lịch.
 
-3
-Cc quan
-|     |     | Co quan | Giai doqn |
-| --- | --- | ------- | --------- |
-TT TGn nhiQm vg, tI6 6n, dr;6n
-|     | chri  tri | pn5i ngp | thuc hi6n |
-| --- | --------- | -------- | --------- |
-III Phit tri6n vi
-sri dgng ngudn lgc a6 tngc hiQn quy ho4ch
-Ri
-| I so6t vdn ban quy ph4m ph6p          | UBND cdc    |     | 2025 -2026 |
-| ------------------------------------- | ----------- | --- | ---------- |
-| luflt c6 li6n quan, dA xu6t, ban hdnh | tinh, thenh |     |            |
-| ho{c trinh co quan c6 thAm quyAn      | phiS tr.uc  |     |            |
-| sta tt6i, b6 sung, bei b6, ban hdnh   | thuQc TW    |     |            |
-(niiu c6)
-Tiing hgrp, trinh c6p c6 thAm quyAn BQ Tdi chinh B0 Vdn h6a, hing nlm
-2
-ph6 duyQt, quy6t tfnh bti tri
-ngAn Th,i thao vd
-| s6ch nhir nu6c d6 tfurc hiQn cdc y6u |     | Du lich; c6c |     |
-| ------------------------------------ | --- | ------------ | --- |
-| cAu phSt trirSn vA ha tAng du lfch   |     | bQ, co quan  |     |
-vi
-| phtr hqp voi y6u cAu thgc ti6n  |     | li6n quan |     |
-| ------------------------------- | --- | --------- | --- |
-khi ndng cia ngdn s6ch nhd nu6c
-k,
-trong ttmg thdi
+- Bộ Giao thông vận tải chủ trì xây dựng, rà soát, điều chỉnh cơ chế, chính
+sách, chiến lược, quy hoạch, kế hoạch phát triển hạ tầng giao thông, các phương
+thức vận tải khách du lịch, tập trung vào vận tải hàng không: đây nhanh tiến độ
+đầu tư mới cảng hang không Long Thành, Chu Lai...; nâng cap, mở rộng các
+cảng hàng không tại các địa bàn trọng điểm và tiềm năng, trước hết tại các cảng
+hàng không như Nội Bài, Đà Nẵng, Tân Sơn Nhất, Cam Ranh, Phú Quốc, Phú
+Bài, Vân Dén...; đầu tư xây dựng một số cảng biển du lịch quốc tế và các tuyến
+đường bộ kết nối với các Khu du lịch quốc gia.
+
+- Bộ Xây dựng chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch xây
+dựng cơ chế quản lý các loại hình lưu trú du lịch mới theo mô hình kinh tế chia
+sẻ và quy hoạch xây dựng tại các Khu du lịch quốc gia. Dau tu hình thành một
+số cụm du lịch đồng bộ, chất lượng, có quy mô lớn, đẳng cấp quốc tế.
+
+- Bộ Giáo dục và Đào tạo, Bộ Lao động - Thương binh và Xã hội chủ trì,
+phối hợp với Bộ Văn hóa, Thể thao và Du lịch việc rà soát, ban hành chính sách
+thúc đây phát triển nguồn nhân lực du lịch; tăng cường năng lực của các cơ sở
+đào tạo du lịch, nhất là đào tạo nghề du lịch; chế độ làm việc, nghỉ ngơi của
+người lao động, nghỉ lễ, nghỉ phép, nghỉ hè gắn với các chương trình thúc đây
+du lịch nội địa phát triển.
+
+- Bộ Nông nghiệp và Phát triển nông thôn chủ trì, phối hợp với Bộ Văn hóa,
+Thẻ thao va Du lịch lông ghép các nội dung phát triển du lịch vào Chương trình
+mục tiêu quốc gia về xây dựng nông thôn mới, Chương trình Mỗi xã, phường
+một sản phẩm (OCOP); xây dựng các sản phẩm nông nghiệp, các mô hình phát
+triển nông nghiệp sạch, nông nghiệp công nghệ cao gắn với phát triển du lịch;
+phối hợp với Bộ Văn hóa, Thế thao và Du lịch, Bộ Tài nguyên và Môi trường
+nghiên, cửu xây dựng cơ chế, chính sách phát triển du lịch sinh thái, du lịch
+cộng đồng tại các vườn quốc gia, khu bảo tồn biển và khu bảo tồn thiên nhiên.
+
+3. Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương
+
+a) Rà soát, cập nhật các nội dung của Quy hoạch hệ thống du lịch vào quy
+hoạch cấp tỉnh đảm bảo tính tích hợp, thống nhất.
+
+
+---
+
+b) Chỉ đạo Ban Chỉ đạo phát triển du lịch tỉnh, Sở Du lịch, Sở Văn hóa,
+Thẻ thao và Du lịch và các Sở, ngành liên quan triển khai thực hiện Quy hoạch
+hệ thống du lịch và thu hút đầu tư, huy động nguôn lực cho phát triên du lịch
+trên địa bàn tỉnh, thành phó.
+
+c) Chủ động bố trí ngân sách nhà nước dé thực hiện các nhiệm vụ trong
+Quy hoạch hệ thông du lịch theo quy định của Luật Ngân sách nhà nước và phù
+hợp với phân câp ngân sách nhà nước hiện hành.
+
+d) Phối hợp với Bộ Văn hóa, Thể thao và Du lịch tổ chức xây dựng và thực
+hiện quy hoạch các khu, điểm du lịch quốc gia; công nhận Khu du lịch quốc gia...
+
+_d) Căn cứ định hướng trong Quy hoạch hệ thống du lịch, tiến hành xây dựng
+và tô chức triển khai thực hiện kế hoạch, đề án, dự án đầu tư phát triển dư lịch
+trên địa ban tinh.
+
+e) Căn cứ nhu cau và tình hình phát triển của địa phương dé xây đựng Kế
+hoạch thực hiện Quy hoạch hệ thống du lịch trên địa. ban tinh hoặc lồng chép
+các nhiệm vụ tại Kế hoạch này vào Kế hoạch phát triển kinh tế - xã hội 5 năm
+và hằng năm, Kế hoạch đầu tư công trung hạn 5 năm, Kế hoạch đầu tư công
+hằng năm của địa phương và Ké hoạch thực hiện Quy hoạch tỉnh.
+
+ø) Phối hợp triển khai các chương trình, dự á án trên địa bàn đảm bảo phù
+hợp với phương án phân bỗ và khoanh vùng đất đai trong Quy hoạch tinh; chủ
+trì, chỉ đạo các cơ quan, đơn vị thuộc và trực thuộc tổ chức thực hiện giải phóng
+mặt bằng, quản lý chặt chẽ quỹ đất để thực, hiện việc giải phóng mặt bằng \ và
+thực hiện các chương trình, dự án phát triển du lịch trên địa bàn theo thắm
+quyền và quy định pháp luật.
+
+h) Định kỳ sơ kết, tông kết việc thực hiện quy hoạch trên địa bàn và gửi báo
+cáo tình hình thực hiện về Bộ Văn hóa, Thể thao và Du lịch trước ngày 10 tháng
+12 hang năm dé tông hợp, xây dựng báo cáo đánh giá việc thực hiện Quy hoạch
+hệ thống du lịch, báo cáo các cấp có thâm quyền theo quy định của pháp luật.
+
+4. Trong quá trình thực hiện, nếu có khó khăn, vướng mắc, các Bộ, cơ quan
+ngang bộ và Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương kip thời
+gửi báo cáo về Bộ Văn hóa, Thể thao và Du lich để tổng hợp, báo cáo Thủ tướng
+Chính phủ xem xét, quyết định /.
+
+
+---
+
+| Phụ lục I
+CÁC CHỈ TIEU CỤ THẺ THỰC HIỆN QUY HOẠCH
+
+ét định số 32 /QĐÐ-TTg ngày ạ\ tháng năm 2025 của Thủ tướng Chính phủ)
+
+Đến năm | Đến năm . . Don vi
+| heo dõi, đánh giá `
+TT Đơn vị 2025 2030 Cơ quan theo đối, đánh gi thực hiện
+| Khách du lịch
+St — CÁO XÃ ` Bộ Văn hóa, Thể thao và Du lich
+- Khách quốc tê Triệu lượt 25-28 35 phố ¡ hợp với Tổng cục Thống kê
+. ns a: ` Bộ Văn hóa, Thẻ thao và Du lich
+- Khách nội địa Triệu lượt 130 160 ph ếi hợp với các địa phương
+2 | Chi tiêu trung bình/ngày Cơ quan,
+- Khách quốc tế Nghìn đồng 3.200 4.000 Bộ Văn hóa, Thé thao và Du lich tô chức,
+- Khách nội địa Nghìn đồng 1.600 2.500 phối hợp với các địa phương doanh nghiệp
+3 | Tổng thu du lịch Nghìn tỷ đồng 1.264 2.630 hoạt động
+4 | Đóng góp của Du lịch % m 13 - 14 Bộ Văn hóa, Thẻ thao và Du lịch | ORB lĩnh vực
+trong GDP ° - : phối hợp với Tổng cục Thống kê du lịch
+Bộ Văn hóa, Thẻ thao và Du lịch
+5 | Vệ việc làm Triệu việc làm 6,3 10,5 phôi hợp với Bộ Lao động - Thương
+binh và Xã hội
+6 | Buồng lưu trú Triệu buồng 1,3 2,0 Bộ Văn hóa, Thể thao va Du lich
+
+phối hợp với các địa phương
+
+
+---
+
+Phụ lục H
+C NHIEM VỤ, GIẢI PHÁP THỰC HIỆN QUY HOẠCH
+DU LICH THỜI KY 2021 - 2030, TAM NHÌN DEN NĂM 2045
+(Kèm theo Quyết định số 382/0D-TTg
+ngày yg, tháng năm 2025 của Thủ tướng Chính phủ)
+
+a ` A; , Co quan Cơ quan Giai doan
+Tên nhiệm vụ, để án, dự án chủ trì phối hợp thực hiện
+Nhiệm vụ thực hiện theo pháp luật về quy hoạch
+Tổ chức công bố, cung cấp thông | Bộ Văn hóa, | Các bộ, ngành | 2024 - 2025
+tin về Quy hoạch, Kế hoạch thực | Thể thao và | và UBND các
+hiện Quy hoạch hệ thống du lịch Du lịch tỉnh, thành
+phố trực
+thuộc TW
+Lưu trữ Hồ sơ quy hoạch; Cung | Bộ Văn hóa, | Bộ Kế hoạch | 2024 - 2025
+cấp dữ liệu Quy hoạch hệ thống du | Thẻ thao và và Đầu tư
+lịch phục vụ xây dựng Hệ thống| Du lich
+thông tin và cơ sở dữ liệu quốc gia
+về quy hoạch
+Xây dựng và triển khai phương án | UBND các | Bộ Văn hóa, | 2024 - 2026
+phát triển hạ tầng du lịch cấp tỉnh| tỉnh thành | Thể thao và
+tích hợp/đồng bộ với Quy hoạch| phế trực Du lịch; Bộ
+tỉnh thuộcTW_ | Kế hoạch và
+Đầu tư
+Tổ chức đánh giá, báo cáo thực | Bộ Văn hóa, | Các bộ, ngành |_ Định ky
+hiện Quy hoạch Thể thao và | và UBND các hang năm, 5
+Du lich tinh, thanh | năm và đột
+| phố trực xuất
+thuộc TW
+Ra soát các quy hoạch, dự án trên | UBND các | Bộ Văn hóa, | 2024-2025
+địa bàn địa phương bảo đảm tính | tỉnh thành | Thể thao và
+thống nhất, đồng bộ với Quy hoạch| phố trực Du lịch; Bộ
+hệ thong du lịch. Cập nhật nội dung | thuéc TW | Kế hoạch và
+Quy hoạch địa phương bảo đảm Đầu tư
+
+tuân thủ các định hướng phát triển
+hệ thông du lịch tại địa phương
+theo quy hoạch ngành quốc gia
+
+
+---
+
+Giai đoạn
+
+Cơ quan
+TT| Tên nhiệm vụ, đề án, dự án — | shối hop thực hiện
+II | Nhiệm vụ trọng tâm triển khai thực hiện Quy hoạch |
+1 | Chuyển đôi số trong ngành du lịch | Bộ Văn hóa, | Các bộ, ngành | 2021 - 2030
+Thé thao và | và UBND các
+Du lịch tỉnh, thành
+phố trực
+thuộc TW
+2 | Phát trién hệ thống cơ sở dữ liệu | Bộ Văn hóa, | Các bộ, ngành | 2021 - 2045
+quốc gia về du lịch Thé va UBND cac
+thao va Du tinh, thanh
+lich phố trực
+thuộc TW
+3 | Đầu tư phat triển hạ tang du lịch tại | UBND các | Bộ Văn hóa, | 2021 - 2045
+các cực tăng trưởng chủ đạo gắn với | tỉnh, thành Thể
+các cực tăng trưởng quốc gia phố trực thao và Du
+thuộc TW lịch, các bộ,
+ngành
+4 | Đầu tư phát triển hạ tang du lịch tại | UBND các | Bộ Văn hóa, | 2021 -2045
+các trung tâm du lịch gắn với các đô| tỉnh thành | Thể thao và
+thị có tiềm năng và lợi thé phétruc | Du lịch, các
+thuộc TW bộ, ngành
+5 | Dau tư phát triển hạ tang du lịch tại | UBND các | Bộ Văn hóa, | 2021 - 2045
+các Khu du lịch quốc gia đã được| tỉnh, thành | Thể thao và
+công nhận và các địa điểm tiềm| phố trực Du lịch, các
+năng trở thành Khu du lịch quốc gia | thuộc TW bộ, ngành
+6 | Đào tạo, bôi dưỡng nâng cao chất | Bộ Văn hóa, 2021 - 2030
+lượng nguồn nhân lực du lịch Thẻ thao và
+Du lịch; các
+bộ, ngành,
+địa phương
+7 | Đầu tư xúc tiên, quảng bá, phát triển | Bộ Văn hóa, 2021 - 2045
+thương hiệu du lịch Thể thao và
+Du lịch; các
+bộ, ngành,
+địa phương
+8 | Bảo tôn phát huy giá trị tài nguyên | UBND các | Bộ Văn hóa, | 2021 - 2045
+du lịch, bảo vệ môi trường du lich | tỉnh thành | Thể thao và
+phố trực Du lịch, các
+thuộc TW bộ, ngành
+
+
+---
+
+a ` À z , Co quan Co quan Giai doan
+TH) Ten nhiệm vụ, để án, dy ấn chủ trì phối hợp thực hiện
+III | Phát triển và sử dụng nguồn lực dé thực hiện quy hoạch
+1 | Ra soát văn bản quy phạm pháp | UBND các 2025 - 2026
+luật có liên quan, dé xuất, ban hành | tinh, thành
+hoặc trình cơ quan có thâm quyền | phế trực
+sửa đối, bố sung, bãi bỏ, ban hành | thuộc TW
+(nếu có)
+2 | Tổng hợp, trình cấp có thẩm quyền | Bộ Tài chính | Bộ Văn hóa, hằng năm
+phê duyệt, quyết định bố trí ngân Thể thao và
+sách nhà nước đề thực hiện các yêu Du lịch; các
+cầu phát triển về hạ tầng du lịch bộ, cơ quan
+phù hợp với yêu cầu thực tiễn và liên quan
+
+khả năng của ngân sách nhà nước
+trong từng thời kỳ
